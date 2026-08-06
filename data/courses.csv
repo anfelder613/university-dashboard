@@ -1,0 +1,1274 @@
+course_id,year,term,department,major,course_code,course_title,level,instructor,enrolled,capacity,fill_rate,credits,avg_grade,pass_rate
+10000,2015,Fall,Engineering,Computer Science,CS-251,Intermediate Computer Science,200,Dr. Shapiro,34,42,0.81,3,2.83,0.764
+10001,2015,Fall,Engineering,Computer Science,CS-443,Computer Science Research,400,Dr. Levin,27,40,0.675,3,3.36,1.0
+10002,2015,Fall,Engineering,Computer Science,CS-246,Applied Computer Science,200,Dr. Friedman,26,39,0.667,3,3.11,0.887
+10003,2015,Fall,Engineering,Mechanical,ME-304,Advanced Mechanical,300,Dr. Cohen,37,44,0.841,3,2.8,1.0
+10004,2015,Fall,Engineering,Mechanical,ME-411,Mechanical Research,400,Dr. Levin,25,43,0.581,3,3.76,0.924
+10005,2015,Fall,Engineering,Mechanical,ME-346,Topics in Mechanical,300,Prof. Mandel,22,34,0.647,3,3.4,0.829
+10006,2015,Fall,Engineering,Mechanical,ME-108,Principles of Mechanical,100,Prof. Mandel,8,13,0.615,3,3.02,0.954
+10007,2015,Fall,Engineering,Electrical,EE-111,Principles of Electrical,100,Dr. Friedman,22,33,0.667,3,2.81,0.971
+10008,2015,Fall,Engineering,Electrical,EE-304,Advanced Electrical,300,Dr. Klein,24,26,0.923,3,2.96,0.896
+10009,2015,Fall,Engineering,Civil,CE-433,Senior Seminar in Civil,400,Dr. Klein,24,34,0.706,3,3.7,0.985
+10010,2015,Fall,Engineering,Civil,CE-256,Civil Methods,200,Prof. Rosen,25,33,0.758,3,3.49,0.906
+10011,2015,Spring,Engineering,Computer Science,CS-315,Topics in Computer Science,300,Dr. Shapiro,29,35,0.829,3,2.72,0.902
+10012,2015,Spring,Engineering,Computer Science,CS-402,Computer Science Capstone,400,Prof. Stern,33,33,1.0,4,3.26,0.906
+10013,2015,Spring,Engineering,Computer Science,CS-114,Introduction to Computer Science,100,Dr. Levin,21,23,0.913,3,3.19,0.948
+10014,2015,Spring,Engineering,Computer Science,CS-140,Introduction to Computer Science,100,Dr. Katz,35,37,0.946,3,3.01,0.878
+10015,2015,Spring,Engineering,Mechanical,ME-106,Principles of Mechanical,100,Prof. Adler,24,31,0.774,3,3.79,0.835
+10016,2015,Spring,Engineering,Mechanical,ME-328,Mechanical Theory,300,Prof. Schwartz,29,30,0.967,3,3.6,0.914
+10017,2015,Spring,Engineering,Mechanical,ME-257,Applied Mechanical,200,Dr. Katz,29,42,0.69,4,2.97,1.0
+10018,2015,Spring,Engineering,Mechanical,ME-106,Foundations of Mechanical,100,Prof. Goldberg,18,28,0.643,3,2.97,0.935
+10019,2015,Spring,Engineering,Electrical,EE-255,Applied Electrical,200,Prof. Schwartz,48,48,1.0,3,2.74,0.979
+10020,2015,Spring,Engineering,Electrical,EE-136,Foundations of Electrical,100,Dr. Cohen,26,32,0.812,3,3.3,0.978
+10021,2015,Spring,Engineering,Electrical,EE-511,Graduate Electrical,500,Dr. Katz,35,35,1.0,3,2.6,0.889
+10022,2015,Spring,Engineering,Electrical,EE-242,Intermediate Electrical,200,Dr. Levin,12,16,0.75,3,3.84,0.83
+10023,2015,Spring,Engineering,Civil,CE-344,Advanced Civil,300,Dr. Levin,29,29,1.0,4,3.66,0.918
+10024,2015,Spring,Engineering,Civil,CE-138,Principles of Civil,100,Dr. Klein,34,39,0.872,3,3.19,0.914
+10025,2015,Spring,Engineering,Civil,CE-516,Civil Thesis Studio,500,Prof. Adler,46,51,0.902,3,3.3,0.918
+10026,2016,Fall,Engineering,Computer Science,CS-318,Topics in Computer Science,300,Dr. Cohen,39,42,0.929,3,3.14,0.963
+10027,2016,Fall,Engineering,Computer Science,CS-157,Introduction to Computer Science,100,Prof. Schwartz,4,12,0.333,4,3.21,0.877
+10028,2016,Fall,Engineering,Computer Science,CS-140,Introduction to Computer Science,100,Prof. Goldberg,31,36,0.861,3,2.86,0.959
+10029,2016,Fall,Engineering,Mechanical,ME-310,Topics in Mechanical,300,Dr. Levin,22,23,0.957,3,3.43,0.92
+10030,2016,Fall,Engineering,Mechanical,ME-253,Applied Mechanical,200,Dr. Friedman,20,24,0.833,3,3.56,0.871
+10031,2016,Fall,Engineering,Mechanical,ME-343,Topics in Mechanical,300,Prof. Stern,21,30,0.7,3,3.59,0.877
+10032,2016,Fall,Engineering,Electrical,EE-258,Electrical Methods,200,Dr. Halpern,12,13,0.923,3,2.61,0.919
+10033,2016,Fall,Engineering,Electrical,EE-114,Introduction to Electrical,100,Dr. Cohen,28,37,0.757,4,3.08,0.845
+10034,2016,Fall,Engineering,Civil,CE-144,Introduction to Civil,100,Dr. Cohen,24,39,0.615,3,3.36,0.861
+10035,2016,Fall,Engineering,Civil,CE-317,Topics in Civil,300,Dr. Weiss,47,47,1.0,3,3.39,0.979
+10036,2016,Fall,Engineering,Civil,CE-222,Applied Civil,200,Dr. Klein,22,22,1.0,3,3.52,0.932
+10037,2016,Fall,Engineering,Civil,CE-236,Intermediate Civil,200,Dr. Klein,16,17,0.941,3,3.31,1.0
+10038,2016,Spring,Engineering,Computer Science,CS-135,Introduction to Computer Science,100,Dr. Cohen,29,32,0.906,3,2.85,0.916
+10039,2016,Spring,Engineering,Computer Science,CS-133,Introduction to Computer Science,100,Dr. Cohen,26,30,0.867,3,3.49,0.909
+10040,2016,Spring,Engineering,Computer Science,CS-354,Advanced Computer Science,300,Dr. Katz,24,29,0.828,3,3.57,0.863
+10041,2016,Spring,Engineering,Mechanical,ME-112,Introduction to Mechanical,100,Prof. Rosen,22,42,0.524,3,3.22,0.978
+10042,2016,Spring,Engineering,Mechanical,ME-244,Applied Mechanical,200,Dr. Cohen,39,44,0.886,4,3.76,0.935
+10043,2016,Spring,Engineering,Mechanical,ME-512,Graduate Mechanical,500,Dr. Shapiro,27,27,1.0,3,3.28,0.943
+10044,2016,Spring,Engineering,Electrical,EE-158,Introduction to Electrical,100,Dr. Katz,20,22,0.909,3,2.79,0.873
+10045,2016,Spring,Engineering,Electrical,EE-215,Intermediate Electrical,200,Dr. Friedman,29,40,0.725,3,3.24,0.941
+10046,2016,Spring,Engineering,Electrical,EE-102,Introduction to Electrical,100,Dr. Katz,15,22,0.682,3,3.34,0.991
+10047,2016,Spring,Engineering,Civil,CE-237,Civil Methods,200,Prof. Adler,18,27,0.667,3,3.32,0.866
+10048,2016,Spring,Engineering,Civil,CE-234,Applied Civil,200,Prof. Mandel,5,10,0.5,3,3.59,0.884
+10049,2016,Spring,Engineering,Civil,CE-101,Introduction to Civil,100,Dr. Katz,28,33,0.848,3,3.22,0.987
+10050,2016,Spring,Engineering,Civil,CE-257,Civil Methods,200,Prof. Rosen,23,34,0.676,3,3.17,0.942
+10051,2017,Fall,Engineering,Computer Science,CS-557,Graduate Computer Science,500,Dr. Bram,30,36,0.833,4,2.98,0.989
+10052,2017,Fall,Engineering,Computer Science,CS-214,Computer Science Methods,200,Dr. Levin,25,43,0.581,3,3.44,1.0
+10053,2017,Fall,Engineering,Computer Science,CS-411,Computer Science Capstone,400,Dr. Cohen,16,37,0.432,3,3.16,0.891
+10054,2017,Fall,Engineering,Computer Science,CS-230,Applied Computer Science,200,Dr. Shapiro,34,42,0.81,3,2.89,0.933
+10055,2017,Fall,Engineering,Mechanical,ME-207,Mechanical Methods,200,Dr. Friedman,30,41,0.732,3,3.1,0.961
+10056,2017,Fall,Engineering,Mechanical,ME-533,Graduate Mechanical,500,Prof. Mandel,32,40,0.8,4,3.61,0.874
+10057,2017,Fall,Engineering,Mechanical,ME-243,Mechanical Methods,200,Dr. Weiss,18,25,0.72,3,3.31,0.915
+10058,2017,Fall,Engineering,Mechanical,ME-128,Introduction to Mechanical,100,Dr. Cohen,30,37,0.811,4,3.01,0.928
+10059,2017,Fall,Engineering,Electrical,EE-253,Applied Electrical,200,Dr. Cohen,24,29,0.828,3,3.67,0.975
+10060,2017,Fall,Engineering,Electrical,EE-110,Principles of Electrical,100,Dr. Shapiro,33,37,0.892,3,3.18,0.959
+10061,2017,Fall,Engineering,Civil,CE-324,Advanced Civil,300,Dr. Weiss,43,57,0.754,3,3.38,0.899
+10062,2017,Fall,Engineering,Civil,CE-414,Senior Seminar in Civil,400,Prof. Adler,18,19,0.947,3,3.41,0.874
+10063,2017,Fall,Engineering,Civil,CE-258,Applied Civil,200,Dr. Katz,28,47,0.596,3,3.28,0.938
+10064,2017,Spring,Engineering,Computer Science,CS-132,Foundations of Computer Science,100,Dr. Cohen,42,55,0.764,3,3.24,0.908
+10065,2017,Spring,Engineering,Computer Science,CS-327,Topics in Computer Science,300,Prof. Mandel,27,36,0.75,3,2.67,0.925
+10066,2017,Spring,Engineering,Mechanical,ME-112,Foundations of Mechanical,100,Dr. Bram,36,42,0.857,4,2.76,0.94
+10067,2017,Spring,Engineering,Mechanical,ME-404,Mechanical Research,400,Dr. Friedman,42,51,0.824,4,3.37,0.959
+10068,2017,Spring,Engineering,Mechanical,ME-532,Mechanical Practicum,500,Dr. Shapiro,35,55,0.636,3,3.8,0.91
+10069,2017,Spring,Engineering,Mechanical,ME-156,Introduction to Mechanical,100,Dr. Levin,32,48,0.667,3,2.9,0.852
+10070,2017,Spring,Engineering,Electrical,EE-248,Electrical Methods,200,Dr. Shapiro,44,56,0.786,3,2.92,0.978
+10071,2017,Spring,Engineering,Electrical,EE-114,Principles of Electrical,100,Prof. Mandel,29,44,0.659,3,2.69,0.917
+10072,2017,Spring,Engineering,Civil,CE-134,Introduction to Civil,100,Prof. Mandel,20,22,0.909,3,2.86,0.908
+10073,2017,Spring,Engineering,Civil,CE-105,Introduction to Civil,100,Dr. Bram,33,37,0.892,3,3.29,0.936
+10074,2017,Spring,Engineering,Civil,CE-344,Civil Theory,300,Prof. Schwartz,44,46,0.957,3,2.9,0.933
+10075,2018,Fall,Engineering,Computer Science,CS-212,Computer Science Methods,200,Prof. Rosen,20,25,0.8,3,3.17,1.0
+10076,2018,Fall,Engineering,Computer Science,CS-255,Intermediate Computer Science,200,Prof. Adler,17,28,0.607,4,3.36,0.913
+10077,2018,Fall,Engineering,Computer Science,CS-226,Intermediate Computer Science,200,Prof. Goldberg,20,25,0.8,3,3.5,0.902
+10078,2018,Fall,Engineering,Computer Science,CS-330,Topics in Computer Science,300,Prof. Adler,35,45,0.778,4,3.96,0.848
+10079,2018,Fall,Engineering,Mechanical,ME-133,Foundations of Mechanical,100,Prof. Mandel,25,28,0.893,3,3.23,0.903
+10080,2018,Fall,Engineering,Mechanical,ME-156,Introduction to Mechanical,100,Dr. Bram,24,35,0.686,3,2.91,0.894
+10081,2018,Fall,Engineering,Electrical,EE-225,Electrical Methods,200,Prof. Rosen,28,28,1.0,3,3.27,0.853
+10082,2018,Fall,Engineering,Electrical,EE-228,Electrical Methods,200,Prof. Mandel,17,32,0.531,3,3.35,0.962
+10083,2018,Fall,Engineering,Electrical,EE-153,Foundations of Electrical,100,Dr. Klein,27,27,1.0,3,2.96,0.887
+10084,2018,Fall,Engineering,Electrical,EE-232,Intermediate Electrical,200,Prof. Stern,25,37,0.676,3,3.3,0.865
+10085,2018,Fall,Engineering,Civil,CE-214,Intermediate Civil,200,Prof. Schwartz,26,31,0.839,3,2.99,0.922
+10086,2018,Fall,Engineering,Civil,CE-340,Topics in Civil,300,Dr. Cohen,10,15,0.667,4,2.8,0.884
+10087,2018,Fall,Engineering,Civil,CE-437,Senior Seminar in Civil,400,Dr. Levin,35,36,0.972,3,3.39,0.966
+10088,2018,Fall,Engineering,Civil,CE-255,Applied Civil,200,Dr. Shapiro,27,30,0.9,3,3.26,0.91
+10089,2018,Spring,Engineering,Computer Science,CS-221,Computer Science Methods,200,Prof. Schwartz,36,42,0.857,3,2.91,0.802
+10090,2018,Spring,Engineering,Computer Science,CS-201,Applied Computer Science,200,Dr. Friedman,13,30,0.433,3,3.11,0.918
+10091,2018,Spring,Engineering,Computer Science,CS-221,Computer Science Methods,200,Prof. Goldberg,36,38,0.947,4,3.16,0.942
+10092,2018,Spring,Engineering,Computer Science,CS-149,Foundations of Computer Science,100,Dr. Katz,10,30,0.333,3,3.12,0.908
+10093,2018,Spring,Engineering,Mechanical,ME-327,Mechanical Theory,300,Dr. Weiss,17,37,0.459,3,2.79,0.976
+10094,2018,Spring,Engineering,Mechanical,ME-215,Intermediate Mechanical,200,Dr. Halpern,27,36,0.75,3,3.07,0.847
+10095,2018,Spring,Engineering,Mechanical,ME-137,Principles of Mechanical,100,Dr. Weiss,27,35,0.771,3,3.0,0.987
+10096,2018,Spring,Engineering,Mechanical,ME-443,Mechanical Capstone,400,Dr. Klein,17,45,0.378,3,3.47,0.947
+10097,2018,Spring,Engineering,Electrical,EE-231,Applied Electrical,200,Dr. Levin,37,43,0.86,4,3.21,0.925
+10098,2018,Spring,Engineering,Electrical,EE-414,Electrical Research,400,Prof. Schwartz,38,38,1.0,4,2.94,0.833
+10099,2018,Spring,Engineering,Civil,CE-133,Principles of Civil,100,Prof. Adler,32,35,0.914,3,3.32,0.83
+10100,2018,Spring,Engineering,Civil,CE-208,Civil Methods,200,Dr. Friedman,28,39,0.718,4,3.3,0.867
+10101,2018,Spring,Engineering,Civil,CE-155,Foundations of Civil,100,Dr. Halpern,36,44,0.818,3,3.13,0.984
+10102,2018,Spring,Engineering,Civil,CE-351,Advanced Civil,300,Prof. Mandel,16,29,0.552,3,3.61,0.883
+10103,2019,Fall,Engineering,Computer Science,CS-427,Computer Science Capstone,400,Prof. Adler,31,34,0.912,4,3.12,1.0
+10104,2019,Fall,Engineering,Computer Science,CS-237,Intermediate Computer Science,200,Dr. Shapiro,30,30,1.0,4,2.78,0.981
+10105,2019,Fall,Engineering,Computer Science,CS-114,Principles of Computer Science,100,Prof. Stern,23,23,1.0,4,3.1,0.881
+10106,2019,Fall,Engineering,Computer Science,CS-238,Computer Science Methods,200,Dr. Cohen,15,20,0.75,3,3.27,0.883
+10107,2019,Fall,Engineering,Mechanical,ME-307,Advanced Mechanical,300,Prof. Rosen,12,12,1.0,3,3.36,0.917
+10108,2019,Fall,Engineering,Mechanical,ME-108,Introduction to Mechanical,100,Dr. Cohen,28,30,0.933,3,2.4,0.931
+10109,2019,Fall,Engineering,Mechanical,ME-136,Principles of Mechanical,100,Dr. Katz,14,19,0.737,4,2.89,0.889
+10110,2019,Fall,Engineering,Mechanical,ME-216,Intermediate Mechanical,200,Dr. Levin,31,34,0.912,3,2.33,0.827
+10111,2019,Fall,Engineering,Electrical,EE-107,Principles of Electrical,100,Prof. Rosen,30,33,0.909,3,3.33,0.827
+10112,2019,Fall,Engineering,Electrical,EE-129,Foundations of Electrical,100,Prof. Rosen,18,22,0.818,3,3.41,0.887
+10113,2019,Fall,Engineering,Electrical,EE-126,Introduction to Electrical,100,Prof. Schwartz,9,10,0.9,3,2.94,0.963
+10114,2019,Fall,Engineering,Electrical,EE-111,Foundations of Electrical,100,Prof. Mandel,20,22,0.909,4,3.37,0.946
+10115,2019,Fall,Engineering,Civil,CE-259,Civil Methods,200,Dr. Friedman,25,32,0.781,3,3.06,0.925
+10116,2019,Fall,Engineering,Civil,CE-338,Topics in Civil,300,Dr. Katz,30,36,0.833,3,3.54,0.93
+10117,2019,Fall,Engineering,Civil,CE-413,Civil Research,400,Dr. Halpern,12,12,1.0,3,3.63,0.939
+10118,2019,Spring,Engineering,Computer Science,CS-145,Introduction to Computer Science,100,Dr. Klein,16,18,0.889,3,2.81,0.935
+10119,2019,Spring,Engineering,Computer Science,CS-242,Computer Science Methods,200,Dr. Friedman,24,29,0.828,4,3.17,0.863
+10120,2019,Spring,Engineering,Computer Science,CS-354,Computer Science Theory,300,Dr. Halpern,17,25,0.68,3,3.14,0.916
+10121,2019,Spring,Engineering,Mechanical,ME-552,Mechanical Thesis Studio,500,Dr. Klein,18,19,0.947,3,3.38,0.984
+10122,2019,Spring,Engineering,Mechanical,ME-226,Applied Mechanical,200,Dr. Levin,11,18,0.611,3,2.82,0.905
+10123,2019,Spring,Engineering,Electrical,EE-304,Electrical Theory,300,Prof. Stern,9,10,0.9,3,3.11,0.898
+10124,2019,Spring,Engineering,Electrical,EE-551,Graduate Electrical,500,Dr. Halpern,22,36,0.611,3,3.59,0.921
+10125,2019,Spring,Engineering,Electrical,EE-417,Electrical Capstone,400,Prof. Stern,14,25,0.56,3,3.19,0.961
+10126,2019,Spring,Engineering,Civil,CE-344,Civil Theory,300,Prof. Goldberg,27,29,0.931,3,3.15,0.915
+10127,2019,Spring,Engineering,Civil,CE-157,Principles of Civil,100,Dr. Levin,14,18,0.778,3,3.13,0.953
+10128,2019,Spring,Engineering,Civil,CE-459,Senior Seminar in Civil,400,Prof. Rosen,16,21,0.762,3,3.33,0.867
+10129,2019,Spring,Engineering,Civil,CE-142,Foundations of Civil,100,Dr. Weiss,9,19,0.474,3,2.97,1.0
+10130,2020,Fall,Engineering,Computer Science,CS-129,Principles of Computer Science,100,Dr. Shapiro,46,52,0.885,3,2.56,0.919
+10131,2020,Fall,Engineering,Computer Science,CS-340,Topics in Computer Science,300,Dr. Katz,23,40,0.575,4,3.37,0.963
+10132,2020,Fall,Engineering,Computer Science,CS-108,Principles of Computer Science,100,Prof. Adler,28,32,0.875,3,2.9,0.924
+10133,2020,Fall,Engineering,Computer Science,CS-331,Computer Science Theory,300,Dr. Levin,34,41,0.829,3,3.01,0.898
+10134,2020,Fall,Engineering,Mechanical,ME-417,Mechanical Capstone,400,Dr. Klein,45,45,1.0,3,3.04,0.887
+10135,2020,Fall,Engineering,Mechanical,ME-101,Principles of Mechanical,100,Dr. Friedman,35,35,1.0,3,2.89,0.889
+10136,2020,Fall,Engineering,Electrical,EE-504,Graduate Electrical,500,Dr. Bram,31,41,0.756,3,2.63,0.873
+10137,2020,Fall,Engineering,Electrical,EE-149,Principles of Electrical,100,Dr. Halpern,36,39,0.923,3,2.88,0.965
+10138,2020,Fall,Engineering,Civil,CE-316,Civil Theory,300,Prof. Schwartz,33,44,0.75,3,3.09,0.999
+10139,2020,Fall,Engineering,Civil,CE-119,Principles of Civil,100,Dr. Klein,19,32,0.594,3,2.87,0.985
+10140,2020,Fall,Engineering,Civil,CE-248,Intermediate Civil,200,Dr. Friedman,25,30,0.833,3,3.22,0.929
+10141,2020,Spring,Engineering,Computer Science,CS-441,Computer Science Research,400,Prof. Rosen,16,26,0.615,3,3.52,0.899
+10142,2020,Spring,Engineering,Computer Science,CS-140,Introduction to Computer Science,100,Prof. Schwartz,30,37,0.811,3,2.81,0.902
+10143,2020,Spring,Engineering,Computer Science,CS-110,Foundations of Computer Science,100,Dr. Shapiro,39,49,0.796,3,2.84,0.984
+10144,2020,Spring,Engineering,Computer Science,CS-218,Intermediate Computer Science,200,Dr. Friedman,41,41,1.0,3,2.94,0.974
+10145,2020,Spring,Engineering,Mechanical,ME-305,Topics in Mechanical,300,Dr. Levin,37,39,0.949,3,3.41,0.983
+10146,2020,Spring,Engineering,Mechanical,ME-121,Foundations of Mechanical,100,Prof. Rosen,20,26,0.769,3,3.31,0.866
+10147,2020,Spring,Engineering,Mechanical,ME-335,Mechanical Theory,300,Dr. Bram,33,43,0.767,3,2.84,0.87
+10148,2020,Spring,Engineering,Mechanical,ME-458,Mechanical Research,400,Dr. Bram,37,41,0.902,3,3.42,0.928
+10149,2020,Spring,Engineering,Electrical,EE-240,Intermediate Electrical,200,Dr. Friedman,36,36,1.0,3,2.62,0.945
+10150,2020,Spring,Engineering,Electrical,EE-340,Electrical Theory,300,Prof. Adler,36,38,0.947,3,3.02,1.0
+10151,2020,Spring,Engineering,Civil,CE-452,Senior Seminar in Civil,400,Prof. Stern,28,50,0.56,3,3.27,0.884
+10152,2020,Spring,Engineering,Civil,CE-148,Introduction to Civil,100,Dr. Bram,21,25,0.84,4,2.93,0.905
+10153,2020,Spring,Engineering,Civil,CE-109,Introduction to Civil,100,Dr. Weiss,46,46,1.0,4,2.83,0.932
+10154,2021,Fall,Engineering,Computer Science,CS-316,Advanced Computer Science,300,Dr. Weiss,19,25,0.76,3,2.62,0.947
+10155,2021,Fall,Engineering,Computer Science,CS-122,Principles of Computer Science,100,Dr. Cohen,16,30,0.533,4,2.78,0.906
+10156,2021,Fall,Engineering,Mechanical,ME-228,Applied Mechanical,200,Dr. Friedman,23,34,0.676,3,3.01,0.902
+10157,2021,Fall,Engineering,Mechanical,ME-331,Mechanical Theory,300,Dr. Shapiro,39,39,1.0,3,2.9,0.935
+10158,2021,Fall,Engineering,Electrical,EE-224,Applied Electrical,200,Dr. Katz,22,26,0.846,3,3.04,0.898
+10159,2021,Fall,Engineering,Electrical,EE-332,Topics in Electrical,300,Dr. Bram,17,19,0.895,3,2.91,0.968
+10160,2021,Fall,Engineering,Civil,CE-546,Graduate Civil,500,Dr. Klein,26,30,0.867,3,3.0,0.873
+10161,2021,Fall,Engineering,Civil,CE-103,Foundations of Civil,100,Dr. Cohen,24,24,1.0,4,3.03,0.889
+10162,2021,Fall,Engineering,Civil,CE-202,Civil Methods,200,Dr. Cohen,28,29,0.966,4,3.51,0.818
+10163,2021,Spring,Engineering,Computer Science,CS-136,Foundations of Computer Science,100,Prof. Goldberg,9,10,0.9,3,3.31,0.886
+10164,2021,Spring,Engineering,Computer Science,CS-107,Foundations of Computer Science,100,Dr. Weiss,34,39,0.872,4,3.1,0.907
+10165,2021,Spring,Engineering,Mechanical,ME-213,Applied Mechanical,200,Dr. Cohen,17,19,0.895,3,2.25,0.938
+10166,2021,Spring,Engineering,Mechanical,ME-413,Mechanical Capstone,400,Dr. Weiss,25,28,0.893,3,3.22,0.864
+10167,2021,Spring,Engineering,Mechanical,ME-202,Applied Mechanical,200,Dr. Cohen,30,32,0.938,3,3.15,0.941
+10168,2021,Spring,Engineering,Mechanical,ME-227,Applied Mechanical,200,Prof. Mandel,20,24,0.833,3,2.56,0.904
+10169,2021,Spring,Engineering,Electrical,EE-210,Electrical Methods,200,Dr. Klein,25,32,0.781,3,3.0,0.927
+10170,2021,Spring,Engineering,Electrical,EE-535,Electrical Thesis Studio,500,Dr. Halpern,23,31,0.742,4,2.89,0.894
+10171,2021,Spring,Engineering,Electrical,EE-317,Topics in Electrical,300,Prof. Mandel,18,26,0.692,3,3.64,0.878
+10172,2021,Spring,Engineering,Electrical,EE-225,Applied Electrical,200,Dr. Halpern,22,25,0.88,3,2.72,0.998
+10173,2021,Spring,Engineering,Civil,CE-332,Topics in Civil,300,Dr. Levin,22,27,0.815,3,2.63,0.925
+10174,2021,Spring,Engineering,Civil,CE-124,Introduction to Civil,100,Dr. Katz,25,35,0.714,3,3.07,0.847
+10175,2021,Spring,Engineering,Civil,CE-437,Civil Research,400,Dr. Friedman,33,41,0.805,4,2.82,0.998
+10176,2022,Fall,Engineering,Computer Science,CS-130,Principles of Computer Science,100,Dr. Friedman,26,32,0.812,4,3.12,0.89
+10177,2022,Fall,Engineering,Computer Science,CS-424,Computer Science Research,400,Dr. Bram,21,22,0.955,3,3.62,0.977
+10178,2022,Fall,Engineering,Mechanical,ME-332,Mechanical Theory,300,Dr. Shapiro,29,43,0.674,3,3.3,0.857
+10179,2022,Fall,Engineering,Mechanical,ME-259,Mechanical Methods,200,Dr. Katz,26,30,0.867,3,3.77,0.915
+10180,2022,Fall,Engineering,Electrical,EE-438,Electrical Capstone,400,Dr. Friedman,24,37,0.649,3,2.42,0.941
+10181,2022,Fall,Engineering,Electrical,EE-229,Electrical Methods,200,Prof. Goldberg,19,19,1.0,4,3.03,0.909
+10182,2022,Fall,Engineering,Electrical,EE-213,Electrical Methods,200,Prof. Adler,24,32,0.75,3,2.76,0.922
+10183,2022,Fall,Engineering,Electrical,EE-320,Topics in Electrical,300,Prof. Adler,19,24,0.792,3,3.04,0.977
+10184,2022,Fall,Engineering,Civil,CE-413,Civil Research,400,Dr. Shapiro,20,29,0.69,3,2.74,0.946
+10185,2022,Fall,Engineering,Civil,CE-252,Applied Civil,200,Dr. Katz,23,24,0.958,3,3.06,0.811
+10186,2022,Spring,Engineering,Computer Science,CS-111,Introduction to Computer Science,100,Dr. Friedman,26,28,0.929,3,3.08,0.93
+10187,2022,Spring,Engineering,Computer Science,CS-132,Introduction to Computer Science,100,Prof. Mandel,24,29,0.828,3,3.24,0.9
+10188,2022,Spring,Engineering,Mechanical,ME-141,Principles of Mechanical,100,Prof. Mandel,33,35,0.943,3,2.95,0.911
+10189,2022,Spring,Engineering,Mechanical,ME-525,Graduate Mechanical,500,Dr. Friedman,30,51,0.588,3,3.27,0.939
+10190,2022,Spring,Engineering,Mechanical,ME-408,Mechanical Research,400,Prof. Mandel,13,23,0.565,3,3.44,0.953
+10191,2022,Spring,Engineering,Electrical,EE-247,Electrical Methods,200,Prof. Mandel,31,34,0.912,3,2.93,0.919
+10192,2022,Spring,Engineering,Electrical,EE-154,Foundations of Electrical,100,Dr. Bram,16,18,0.889,3,2.65,0.855
+10193,2022,Spring,Engineering,Electrical,EE-316,Advanced Electrical,300,Dr. Friedman,17,21,0.81,3,3.18,0.978
+10194,2022,Spring,Engineering,Civil,CE-413,Civil Research,400,Dr. Weiss,28,30,0.933,3,2.89,0.933
+10195,2022,Spring,Engineering,Civil,CE-113,Foundations of Civil,100,Dr. Bram,30,36,0.833,3,2.81,0.895
+10196,2022,Spring,Engineering,Civil,CE-411,Civil Capstone,400,Dr. Shapiro,14,22,0.636,3,3.56,0.923
+10197,2022,Spring,Engineering,Civil,CE-326,Advanced Civil,300,Dr. Klein,21,26,0.808,3,2.9,0.897
+10198,2023,Fall,Engineering,Computer Science,CS-309,Advanced Computer Science,300,Dr. Katz,24,34,0.706,4,3.15,0.942
+10199,2023,Fall,Engineering,Computer Science,CS-123,Foundations of Computer Science,100,Dr. Weiss,9,10,0.9,3,3.39,0.848
+10200,2023,Fall,Engineering,Mechanical,ME-102,Foundations of Mechanical,100,Prof. Stern,28,30,0.933,3,3.07,0.918
+10201,2023,Fall,Engineering,Mechanical,ME-415,Senior Seminar in Mechanical,400,Prof. Mandel,22,27,0.815,3,3.18,0.87
+10202,2023,Fall,Engineering,Mechanical,ME-450,Mechanical Research,400,Prof. Adler,33,35,0.943,3,3.05,0.896
+10203,2023,Fall,Engineering,Electrical,EE-215,Intermediate Electrical,200,Prof. Rosen,16,18,0.889,3,3.46,0.982
+10204,2023,Fall,Engineering,Electrical,EE-114,Foundations of Electrical,100,Prof. Rosen,30,30,1.0,3,3.36,0.904
+10205,2023,Fall,Engineering,Electrical,EE-356,Electrical Theory,300,Dr. Shapiro,45,45,1.0,4,3.3,0.955
+10206,2023,Fall,Engineering,Civil,CE-232,Civil Methods,200,Dr. Cohen,14,16,0.875,4,3.67,0.982
+10207,2023,Fall,Engineering,Civil,CE-524,Graduate Civil,500,Prof. Mandel,22,25,0.88,4,3.25,0.946
+10208,2023,Spring,Engineering,Computer Science,CS-102,Foundations of Computer Science,100,Prof. Goldberg,35,44,0.795,3,3.39,0.996
+10209,2023,Spring,Engineering,Computer Science,CS-545,Computer Science Practicum,500,Dr. Weiss,27,36,0.75,3,3.91,1.0
+10210,2023,Spring,Engineering,Computer Science,CS-356,Topics in Computer Science,300,Dr. Bram,27,42,0.643,3,3.58,0.989
+10211,2023,Spring,Engineering,Mechanical,ME-148,Principles of Mechanical,100,Dr. Shapiro,26,28,0.929,3,3.18,0.828
+10212,2023,Spring,Engineering,Mechanical,ME-404,Senior Seminar in Mechanical,400,Prof. Stern,22,25,0.88,3,3.64,0.905
+10213,2023,Spring,Engineering,Mechanical,ME-134,Foundations of Mechanical,100,Dr. Katz,29,41,0.707,3,3.83,0.902
+10214,2023,Spring,Engineering,Mechanical,ME-302,Mechanical Theory,300,Dr. Weiss,25,33,0.758,3,3.17,0.878
+10215,2023,Spring,Engineering,Electrical,EE-133,Principles of Electrical,100,Prof. Goldberg,41,45,0.911,3,3.08,0.887
+10216,2023,Spring,Engineering,Electrical,EE-516,Electrical Thesis Studio,500,Dr. Katz,32,32,1.0,3,3.14,0.942
+10217,2023,Spring,Engineering,Electrical,EE-515,Graduate Electrical,500,Dr. Klein,42,42,1.0,3,3.6,0.825
+10218,2023,Spring,Engineering,Electrical,EE-149,Introduction to Electrical,100,Prof. Stern,20,26,0.769,3,3.54,0.989
+10219,2023,Spring,Engineering,Civil,CE-134,Introduction to Civil,100,Dr. Weiss,19,37,0.514,4,3.21,0.906
+10220,2023,Spring,Engineering,Civil,CE-132,Introduction to Civil,100,Prof. Schwartz,23,32,0.719,3,3.04,0.922
+10221,2024,Fall,Engineering,Computer Science,CS-118,Principles of Computer Science,100,Dr. Weiss,25,31,0.806,3,3.86,0.962
+10222,2024,Fall,Engineering,Computer Science,CS-126,Principles of Computer Science,100,Dr. Klein,41,41,1.0,3,2.98,0.88
+10223,2024,Fall,Engineering,Computer Science,CS-107,Principles of Computer Science,100,Prof. Rosen,18,23,0.783,4,3.37,0.932
+10224,2024,Fall,Engineering,Mechanical,ME-431,Mechanical Capstone,400,Dr. Friedman,42,49,0.857,3,3.09,0.912
+10225,2024,Fall,Engineering,Mechanical,ME-321,Mechanical Theory,300,Dr. Levin,46,46,1.0,3,3.64,0.977
+10226,2024,Fall,Engineering,Mechanical,ME-257,Mechanical Methods,200,Dr. Katz,26,41,0.634,3,3.67,0.857
+10227,2024,Fall,Engineering,Electrical,EE-103,Introduction to Electrical,100,Dr. Bram,28,33,0.848,4,3.62,0.975
+10228,2024,Fall,Engineering,Electrical,EE-121,Principles of Electrical,100,Dr. Bram,50,50,1.0,3,3.09,1.0
+10229,2024,Fall,Engineering,Electrical,EE-304,Advanced Electrical,300,Prof. Schwartz,19,24,0.792,3,3.52,0.921
+10230,2024,Fall,Engineering,Electrical,EE-152,Foundations of Electrical,100,Dr. Klein,13,21,0.619,3,3.7,0.859
+10231,2024,Fall,Engineering,Civil,CE-413,Civil Research,400,Prof. Adler,33,35,0.943,4,3.76,0.897
+10232,2024,Fall,Engineering,Civil,CE-153,Introduction to Civil,100,Prof. Rosen,29,36,0.806,3,3.26,0.97
+10233,2024,Spring,Engineering,Computer Science,CS-119,Principles of Computer Science,100,Dr. Katz,28,36,0.778,3,3.05,0.871
+10234,2024,Spring,Engineering,Computer Science,CS-232,Applied Computer Science,200,Prof. Adler,32,33,0.97,4,3.59,0.852
+10235,2024,Spring,Engineering,Computer Science,CS-101,Introduction to Computer Science,100,Prof. Schwartz,25,44,0.568,4,3.59,0.951
+10236,2024,Spring,Engineering,Mechanical,ME-348,Advanced Mechanical,300,Dr. Klein,31,41,0.756,3,3.76,0.853
+10237,2024,Spring,Engineering,Mechanical,ME-310,Mechanical Theory,300,Dr. Friedman,35,45,0.778,3,3.81,0.88
+10238,2024,Spring,Engineering,Mechanical,ME-253,Intermediate Mechanical,200,Prof. Rosen,36,36,1.0,3,3.15,0.846
+10239,2024,Spring,Engineering,Mechanical,ME-429,Mechanical Capstone,400,Dr. Friedman,36,45,0.8,3,4.0,0.987
+10240,2024,Spring,Engineering,Electrical,EE-141,Foundations of Electrical,100,Prof. Rosen,19,23,0.826,3,3.3,0.897
+10241,2024,Spring,Engineering,Electrical,EE-305,Advanced Electrical,300,Dr. Katz,31,47,0.66,3,3.77,0.931
+10242,2024,Spring,Engineering,Electrical,EE-301,Topics in Electrical,300,Prof. Rosen,27,31,0.871,4,3.67,0.88
+10243,2024,Spring,Engineering,Civil,CE-316,Advanced Civil,300,Dr. Shapiro,41,47,0.872,3,3.44,0.92
+10244,2024,Spring,Engineering,Civil,CE-421,Civil Capstone,400,Prof. Goldberg,29,35,0.829,3,3.17,0.862
+10245,2024,Spring,Engineering,Civil,CE-325,Advanced Civil,300,Prof. Stern,29,30,0.967,4,3.14,0.92
+10246,2024,Spring,Engineering,Civil,CE-332,Civil Theory,300,Dr. Weiss,37,37,1.0,3,3.31,0.885
+10247,2025,Fall,Engineering,Computer Science,CS-217,Intermediate Computer Science,200,Dr. Cohen,47,48,0.979,4,3.39,0.948
+10248,2025,Fall,Engineering,Computer Science,CS-350,Topics in Computer Science,300,Prof. Rosen,41,69,0.594,3,3.48,0.869
+10249,2025,Fall,Engineering,Computer Science,CS-247,Intermediate Computer Science,200,Prof. Schwartz,36,44,0.818,3,3.52,0.976
+10250,2025,Fall,Engineering,Mechanical,ME-134,Introduction to Mechanical,100,Dr. Levin,35,54,0.648,3,3.25,0.866
+10251,2025,Fall,Engineering,Mechanical,ME-129,Introduction to Mechanical,100,Dr. Halpern,34,43,0.791,3,2.48,0.83
+10252,2025,Fall,Engineering,Mechanical,ME-359,Topics in Mechanical,300,Dr. Shapiro,41,57,0.719,4,3.16,0.881
+10253,2025,Fall,Engineering,Mechanical,ME-224,Intermediate Mechanical,200,Dr. Cohen,25,35,0.714,3,3.41,0.92
+10254,2025,Fall,Engineering,Electrical,EE-503,Electrical Practicum,500,Prof. Adler,44,51,0.863,3,3.37,0.821
+10255,2025,Fall,Engineering,Electrical,EE-110,Introduction to Electrical,100,Dr. Katz,48,50,0.96,3,2.95,0.993
+10256,2025,Fall,Engineering,Civil,CE-345,Advanced Civil,300,Dr. Klein,42,55,0.764,4,3.37,0.911
+10257,2025,Fall,Engineering,Civil,CE-107,Introduction to Civil,100,Prof. Adler,36,43,0.837,3,3.1,0.971
+10258,2025,Fall,Engineering,Civil,CE-327,Topics in Civil,300,Dr. Levin,31,39,0.795,3,2.87,0.902
+10259,2025,Spring,Engineering,Computer Science,CS-115,Principles of Computer Science,100,Dr. Bram,39,51,0.765,3,3.28,0.956
+10260,2025,Spring,Engineering,Computer Science,CS-101,Foundations of Computer Science,100,Dr. Friedman,40,59,0.678,3,3.15,0.982
+10261,2025,Spring,Engineering,Mechanical,ME-336,Mechanical Theory,300,Dr. Friedman,25,31,0.806,3,3.14,0.912
+10262,2025,Spring,Engineering,Mechanical,ME-427,Senior Seminar in Mechanical,400,Prof. Rosen,58,58,1.0,3,3.41,0.902
+10263,2025,Spring,Engineering,Mechanical,ME-225,Mechanical Methods,200,Prof. Mandel,35,47,0.745,3,3.07,0.889
+10264,2025,Spring,Engineering,Mechanical,ME-256,Intermediate Mechanical,200,Dr. Shapiro,33,51,0.647,3,3.33,0.861
+10265,2025,Spring,Engineering,Electrical,EE-327,Topics in Electrical,300,Dr. Friedman,27,36,0.75,3,2.97,1.0
+10266,2025,Spring,Engineering,Electrical,EE-350,Topics in Electrical,300,Prof. Schwartz,23,37,0.622,3,3.38,0.922
+10267,2025,Spring,Engineering,Electrical,EE-241,Intermediate Electrical,200,Dr. Cohen,52,60,0.867,3,3.1,0.909
+10268,2025,Spring,Engineering,Civil,CE-237,Applied Civil,200,Dr. Levin,27,47,0.574,3,2.73,0.987
+10269,2025,Spring,Engineering,Civil,CE-105,Foundations of Civil,100,Prof. Rosen,45,56,0.804,4,2.74,0.93
+10270,2025,Spring,Engineering,Civil,CE-109,Foundations of Civil,100,Dr. Klein,37,52,0.712,3,2.5,0.97
+10271,2015,Fall,Business,Finance,FIN-128,Foundations of Finance,100,Prof. Mandel,31,31,1.0,4,3.31,0.902
+10272,2015,Fall,Business,Finance,FIN-314,Topics in Finance,300,Prof. Adler,33,37,0.892,3,2.75,0.886
+10273,2015,Fall,Business,Finance,FIN-149,Introduction to Finance,100,Prof. Adler,36,48,0.75,3,3.5,0.995
+10274,2015,Fall,Business,Marketing,MKT-343,Marketing Theory,300,Dr. Shapiro,33,46,0.717,3,3.84,0.921
+10275,2015,Fall,Business,Marketing,MKT-139,Principles of Marketing,100,Prof. Stern,17,31,0.548,4,2.94,0.956
+10276,2015,Fall,Business,Marketing,MKT-132,Foundations of Marketing,100,Prof. Schwartz,28,30,0.933,3,2.75,0.895
+10277,2015,Fall,Business,Marketing,MKT-511,Graduate Marketing,500,Dr. Shapiro,26,27,0.963,3,3.3,0.887
+10278,2015,Fall,Business,Accounting,ACC-410,Accounting Research,400,Prof. Goldberg,18,18,1.0,3,3.74,0.872
+10279,2015,Fall,Business,Accounting,ACC-556,Accounting Thesis Studio,500,Dr. Friedman,19,20,0.95,3,3.79,0.873
+10280,2015,Fall,Business,Management,MGT-124,Foundations of Management,100,Dr. Weiss,25,32,0.781,3,2.71,0.904
+10281,2015,Fall,Business,Management,MGT-315,Topics in Management,300,Dr. Bram,23,23,1.0,4,3.56,0.993
+10282,2015,Spring,Business,Finance,FIN-133,Principles of Finance,100,Dr. Levin,16,23,0.696,3,3.01,0.952
+10283,2015,Spring,Business,Finance,FIN-550,Graduate Finance,500,Dr. Cohen,17,21,0.81,3,2.98,0.804
+10284,2015,Spring,Business,Finance,FIN-135,Principles of Finance,100,Dr. Shapiro,15,16,0.938,3,3.33,0.935
+10285,2015,Spring,Business,Marketing,MKT-313,Marketing Theory,300,Prof. Rosen,16,22,0.727,3,3.82,0.918
+10286,2015,Spring,Business,Marketing,MKT-110,Foundations of Marketing,100,Dr. Bram,15,19,0.789,4,2.75,0.942
+10287,2015,Spring,Business,Accounting,ACC-250,Intermediate Accounting,200,Dr. Friedman,20,26,0.769,3,3.24,0.937
+10288,2015,Spring,Business,Accounting,ACC-157,Principles of Accounting,100,Prof. Rosen,37,46,0.804,3,3.18,0.857
+10289,2015,Spring,Business,Accounting,ACC-148,Foundations of Accounting,100,Prof. Rosen,27,32,0.844,3,3.42,0.87
+10290,2015,Spring,Business,Accounting,ACC-137,Principles of Accounting,100,Prof. Schwartz,12,19,0.632,4,3.28,0.945
+10291,2015,Spring,Business,Management,MGT-530,Management Thesis Studio,500,Dr. Bram,20,27,0.741,4,3.69,0.952
+10292,2015,Spring,Business,Management,MGT-452,Management Research,400,Dr. Shapiro,9,28,0.321,3,3.43,0.956
+10293,2015,Spring,Business,Management,MGT-119,Principles of Management,100,Dr. Levin,17,23,0.739,3,2.59,0.944
+10294,2015,Spring,Business,Management,MGT-252,Management Methods,200,Dr. Klein,17,26,0.654,3,3.62,0.92
+10295,2016,Fall,Business,Finance,FIN-155,Foundations of Finance,100,Dr. Shapiro,18,18,1.0,3,3.55,0.971
+10296,2016,Fall,Business,Finance,FIN-137,Introduction to Finance,100,Dr. Levin,11,18,0.611,3,2.9,0.935
+10297,2016,Fall,Business,Finance,FIN-232,Finance Methods,200,Dr. Halpern,26,28,0.929,3,3.1,0.825
+10298,2016,Fall,Business,Finance,FIN-314,Finance Theory,300,Dr. Halpern,21,24,0.875,3,2.92,0.908
+10299,2016,Fall,Business,Marketing,MKT-240,Applied Marketing,200,Dr. Weiss,28,32,0.875,3,3.12,0.967
+10300,2016,Fall,Business,Marketing,MKT-423,Marketing Research,400,Prof. Adler,22,26,0.846,3,3.89,0.957
+10301,2016,Fall,Business,Marketing,MKT-329,Marketing Theory,300,Prof. Stern,29,36,0.806,3,3.13,0.873
+10302,2016,Fall,Business,Marketing,MKT-103,Introduction to Marketing,100,Dr. Shapiro,40,40,1.0,3,2.77,0.887
+10303,2016,Fall,Business,Accounting,ACC-216,Applied Accounting,200,Dr. Bram,24,35,0.686,3,3.4,0.988
+10304,2016,Fall,Business,Accounting,ACC-523,Graduate Accounting,500,Prof. Schwartz,25,30,0.833,3,3.7,0.87
+10305,2016,Fall,Business,Accounting,ACC-135,Introduction to Accounting,100,Prof. Mandel,14,20,0.7,3,2.95,0.992
+10306,2016,Fall,Business,Accounting,ACC-156,Introduction to Accounting,100,Dr. Cohen,27,30,0.9,3,3.14,0.924
+10307,2016,Fall,Business,Management,MGT-157,Principles of Management,100,Dr. Cohen,24,29,0.828,3,3.28,1.0
+10308,2016,Fall,Business,Management,MGT-351,Topics in Management,300,Dr. Shapiro,33,40,0.825,3,3.06,0.923
+10309,2016,Fall,Business,Management,MGT-348,Topics in Management,300,Prof. Adler,25,35,0.714,3,2.92,0.914
+10310,2016,Fall,Business,Management,MGT-543,Management Thesis Studio,500,Prof. Schwartz,22,34,0.647,3,3.07,0.928
+10311,2016,Spring,Business,Finance,FIN-428,Finance Research,400,Dr. Katz,41,47,0.872,3,3.4,0.912
+10312,2016,Spring,Business,Finance,FIN-104,Introduction to Finance,100,Dr. Shapiro,19,22,0.864,3,2.79,0.904
+10313,2016,Spring,Business,Finance,FIN-153,Introduction to Finance,100,Dr. Katz,24,33,0.727,3,3.04,0.886
+10314,2016,Spring,Business,Finance,FIN-102,Principles of Finance,100,Dr. Levin,16,27,0.593,3,2.64,0.856
+10315,2016,Spring,Business,Marketing,MKT-444,Marketing Capstone,400,Dr. Levin,31,32,0.969,3,3.33,1.0
+10316,2016,Spring,Business,Marketing,MKT-503,Marketing Practicum,500,Prof. Goldberg,17,21,0.81,3,2.72,0.914
+10317,2016,Spring,Business,Accounting,ACC-136,Introduction to Accounting,100,Dr. Weiss,21,21,1.0,3,3.19,0.88
+10318,2016,Spring,Business,Accounting,ACC-326,Accounting Theory,300,Dr. Bram,42,46,0.913,3,2.77,0.93
+10319,2016,Spring,Business,Accounting,ACC-102,Introduction to Accounting,100,Dr. Weiss,15,19,0.789,3,2.77,0.903
+10320,2016,Spring,Business,Accounting,ACC-250,Applied Accounting,200,Dr. Bram,15,21,0.714,4,2.71,0.879
+10321,2016,Spring,Business,Management,MGT-212,Management Methods,200,Prof. Schwartz,17,29,0.586,4,3.13,0.98
+10322,2016,Spring,Business,Management,MGT-202,Intermediate Management,200,Dr. Friedman,12,15,0.8,3,3.33,0.906
+10323,2016,Spring,Business,Management,MGT-221,Management Methods,200,Dr. Friedman,31,38,0.816,3,3.17,0.904
+10324,2017,Fall,Business,Finance,FIN-105,Foundations of Finance,100,Dr. Katz,55,57,0.965,3,2.49,0.929
+10325,2017,Fall,Business,Finance,FIN-336,Advanced Finance,300,Dr. Klein,44,54,0.815,3,3.16,0.874
+10326,2017,Fall,Business,Marketing,MKT-215,Applied Marketing,200,Prof. Goldberg,40,51,0.784,3,3.18,0.975
+10327,2017,Fall,Business,Marketing,MKT-257,Applied Marketing,200,Dr. Friedman,32,36,0.889,3,2.89,0.893
+10328,2017,Fall,Business,Marketing,MKT-540,Graduate Marketing,500,Prof. Mandel,45,47,0.957,3,2.51,0.947
+10329,2017,Fall,Business,Marketing,MKT-547,Graduate Marketing,500,Prof. Stern,33,50,0.66,3,3.18,0.84
+10330,2017,Fall,Business,Accounting,ACC-109,Introduction to Accounting,100,Prof. Schwartz,30,42,0.714,3,2.84,0.872
+10331,2017,Fall,Business,Accounting,ACC-217,Applied Accounting,200,Dr. Cohen,40,45,0.889,3,3.24,0.898
+10332,2017,Fall,Business,Accounting,ACC-354,Topics in Accounting,300,Prof. Schwartz,49,56,0.875,3,3.08,0.928
+10333,2017,Fall,Business,Management,MGT-134,Principles of Management,100,Prof. Rosen,30,37,0.811,3,2.95,0.917
+10334,2017,Fall,Business,Management,MGT-205,Applied Management,200,Dr. Levin,38,46,0.826,3,3.4,0.891
+10335,2017,Fall,Business,Management,MGT-425,Management Capstone,400,Dr. Klein,37,53,0.698,4,2.68,0.891
+10336,2017,Fall,Business,Management,MGT-249,Applied Management,200,Dr. Cohen,35,48,0.729,3,2.46,0.924
+10337,2017,Spring,Business,Finance,FIN-209,Intermediate Finance,200,Prof. Adler,33,46,0.717,3,2.84,0.974
+10338,2017,Spring,Business,Finance,FIN-544,Finance Practicum,500,Dr. Friedman,30,55,0.545,3,3.41,0.94
+10339,2017,Spring,Business,Marketing,MKT-328,Marketing Theory,300,Prof. Mandel,22,35,0.629,4,2.55,0.98
+10340,2017,Spring,Business,Marketing,MKT-434,Marketing Research,400,Prof. Mandel,23,35,0.657,3,2.81,0.918
+10341,2017,Spring,Business,Marketing,MKT-315,Marketing Theory,300,Dr. Halpern,36,37,0.973,4,3.11,0.902
+10342,2017,Spring,Business,Accounting,ACC-257,Accounting Methods,200,Dr. Halpern,41,60,0.683,3,2.46,0.928
+10343,2017,Spring,Business,Accounting,ACC-132,Introduction to Accounting,100,Dr. Weiss,37,37,1.0,3,2.81,0.95
+10344,2017,Spring,Business,Management,MGT-159,Introduction to Management,100,Prof. Goldberg,33,40,0.825,4,3.29,0.88
+10345,2017,Spring,Business,Management,MGT-144,Principles of Management,100,Dr. Friedman,39,47,0.83,4,3.06,0.879
+10346,2018,Fall,Business,Finance,FIN-531,Graduate Finance,500,Dr. Weiss,35,41,0.854,4,2.9,0.914
+10347,2018,Fall,Business,Finance,FIN-235,Intermediate Finance,200,Prof. Goldberg,16,36,0.444,4,2.81,0.862
+10348,2018,Fall,Business,Finance,FIN-515,Graduate Finance,500,Dr. Cohen,39,45,0.867,3,3.05,0.961
+10349,2018,Fall,Business,Finance,FIN-203,Applied Finance,200,Dr. Klein,49,59,0.831,3,2.68,0.937
+10350,2018,Fall,Business,Marketing,MKT-311,Topics in Marketing,300,Dr. Weiss,30,48,0.625,3,2.98,0.887
+10351,2018,Fall,Business,Marketing,MKT-236,Intermediate Marketing,200,Dr. Cohen,39,44,0.886,3,3.02,0.901
+10352,2018,Fall,Business,Accounting,ACC-458,Senior Seminar in Accounting,400,Dr. Katz,43,49,0.878,3,3.25,0.905
+10353,2018,Fall,Business,Accounting,ACC-329,Accounting Theory,300,Prof. Adler,19,30,0.633,3,3.25,0.876
+10354,2018,Fall,Business,Accounting,ACC-319,Advanced Accounting,300,Prof. Adler,44,54,0.815,3,3.37,0.851
+10355,2018,Fall,Business,Accounting,ACC-201,Applied Accounting,200,Prof. Rosen,42,58,0.724,3,3.27,0.899
+10356,2018,Fall,Business,Management,MGT-123,Principles of Management,100,Dr. Halpern,55,62,0.887,3,2.9,0.912
+10357,2018,Fall,Business,Management,MGT-316,Topics in Management,300,Dr. Cohen,14,47,0.298,4,3.2,0.929
+10358,2018,Fall,Business,Management,MGT-135,Principles of Management,100,Prof. Stern,41,48,0.854,3,3.07,0.934
+10359,2018,Fall,Business,Management,MGT-258,Intermediate Management,200,Dr. Katz,44,46,0.957,3,3.03,0.909
+10360,2018,Spring,Business,Finance,FIN-403,Finance Capstone,400,Dr. Weiss,39,39,1.0,4,3.64,1.0
+10361,2018,Spring,Business,Finance,FIN-234,Applied Finance,200,Dr. Klein,39,39,1.0,3,3.35,0.935
+10362,2018,Spring,Business,Finance,FIN-240,Intermediate Finance,200,Dr. Levin,37,48,0.771,3,3.15,0.921
+10363,2018,Spring,Business,Marketing,MKT-107,Principles of Marketing,100,Dr. Klein,39,44,0.886,3,3.24,0.971
+10364,2018,Spring,Business,Marketing,MKT-150,Principles of Marketing,100,Prof. Rosen,23,35,0.657,3,2.85,0.853
+10365,2018,Spring,Business,Marketing,MKT-332,Topics in Marketing,300,Prof. Adler,49,55,0.891,3,3.03,0.903
+10366,2018,Spring,Business,Marketing,MKT-238,Marketing Methods,200,Dr. Shapiro,23,35,0.657,3,2.67,0.933
+10367,2018,Spring,Business,Accounting,ACC-119,Introduction to Accounting,100,Dr. Friedman,54,54,1.0,3,2.29,0.954
+10368,2018,Spring,Business,Accounting,ACC-454,Senior Seminar in Accounting,400,Dr. Weiss,36,37,0.973,3,2.73,0.958
+10369,2018,Spring,Business,Accounting,ACC-117,Foundations of Accounting,100,Dr. Cohen,38,66,0.576,4,2.72,0.894
+10370,2018,Spring,Business,Accounting,ACC-231,Applied Accounting,200,Dr. Cohen,20,37,0.541,4,2.81,1.0
+10371,2018,Spring,Business,Management,MGT-150,Foundations of Management,100,Prof. Stern,34,53,0.642,3,2.91,0.876
+10372,2018,Spring,Business,Management,MGT-202,Applied Management,200,Prof. Mandel,42,54,0.778,3,3.29,0.891
+10373,2018,Spring,Business,Management,MGT-415,Management Capstone,400,Prof. Adler,47,52,0.904,3,2.87,0.865
+10374,2019,Fall,Business,Finance,FIN-123,Introduction to Finance,100,Dr. Katz,29,36,0.806,3,3.44,0.854
+10375,2019,Fall,Business,Finance,FIN-209,Intermediate Finance,200,Prof. Mandel,12,25,0.48,3,3.54,0.894
+10376,2019,Fall,Business,Finance,FIN-431,Finance Research,400,Prof. Stern,31,35,0.886,3,3.31,0.903
+10377,2019,Fall,Business,Marketing,MKT-242,Applied Marketing,200,Dr. Weiss,25,31,0.806,3,3.7,0.938
+10378,2019,Fall,Business,Marketing,MKT-222,Applied Marketing,200,Prof. Rosen,29,35,0.829,3,3.37,0.87
+10379,2019,Fall,Business,Accounting,ACC-225,Accounting Methods,200,Dr. Klein,21,36,0.583,3,3.4,0.9
+10380,2019,Fall,Business,Accounting,ACC-312,Accounting Theory,300,Dr. Friedman,41,41,1.0,3,2.85,0.894
+10381,2019,Fall,Business,Accounting,ACC-256,Intermediate Accounting,200,Prof. Stern,41,56,0.732,3,3.38,0.903
+10382,2019,Fall,Business,Accounting,ACC-316,Advanced Accounting,300,Dr. Shapiro,20,23,0.87,4,3.1,0.831
+10383,2019,Fall,Business,Management,MGT-326,Advanced Management,300,Prof. Rosen,37,44,0.841,3,3.15,0.824
+10384,2019,Fall,Business,Management,MGT-318,Topics in Management,300,Dr. Weiss,21,29,0.724,3,3.46,0.875
+10385,2019,Fall,Business,Management,MGT-107,Foundations of Management,100,Dr. Weiss,31,43,0.721,3,2.62,0.863
+10386,2019,Fall,Business,Management,MGT-444,Management Research,400,Dr. Levin,35,45,0.778,3,3.26,0.982
+10387,2019,Spring,Business,Finance,FIN-152,Foundations of Finance,100,Dr. Levin,26,26,1.0,3,3.05,0.935
+10388,2019,Spring,Business,Finance,FIN-242,Intermediate Finance,200,Dr. Halpern,45,50,0.9,3,3.31,0.911
+10389,2019,Spring,Business,Finance,FIN-354,Topics in Finance,300,Dr. Cohen,29,43,0.674,3,3.79,0.899
+10390,2019,Spring,Business,Finance,FIN-209,Applied Finance,200,Dr. Weiss,15,31,0.484,3,3.07,0.888
+10391,2019,Spring,Business,Marketing,MKT-251,Intermediate Marketing,200,Prof. Schwartz,35,52,0.673,3,3.58,0.939
+10392,2019,Spring,Business,Marketing,MKT-309,Marketing Theory,300,Prof. Adler,25,38,0.658,3,3.38,1.0
+10393,2019,Spring,Business,Marketing,MKT-517,Marketing Thesis Studio,500,Dr. Klein,26,27,0.963,3,4.0,0.954
+10394,2019,Spring,Business,Accounting,ACC-151,Foundations of Accounting,100,Prof. Mandel,27,27,1.0,3,2.88,0.955
+10395,2019,Spring,Business,Accounting,ACC-418,Accounting Research,400,Dr. Shapiro,23,34,0.676,3,3.44,0.874
+10396,2019,Spring,Business,Accounting,ACC-150,Foundations of Accounting,100,Prof. Stern,21,22,0.955,3,3.08,1.0
+10397,2019,Spring,Business,Accounting,ACC-320,Topics in Accounting,300,Dr. Cohen,37,37,1.0,3,3.23,0.984
+10398,2019,Spring,Business,Management,MGT-338,Topics in Management,300,Prof. Schwartz,29,38,0.763,4,3.61,0.927
+10399,2019,Spring,Business,Management,MGT-144,Foundations of Management,100,Prof. Adler,22,30,0.733,3,3.65,0.895
+10400,2019,Spring,Business,Management,MGT-240,Applied Management,200,Prof. Goldberg,41,42,0.976,3,3.07,0.918
+10401,2019,Spring,Business,Management,MGT-448,Senior Seminar in Management,400,Dr. Weiss,25,32,0.781,3,3.11,0.834
+10402,2020,Fall,Business,Finance,FIN-104,Foundations of Finance,100,Prof. Schwartz,30,35,0.857,3,3.11,0.944
+10403,2020,Fall,Business,Finance,FIN-232,Applied Finance,200,Dr. Levin,41,47,0.872,3,2.6,0.973
+10404,2020,Fall,Business,Marketing,MKT-402,Senior Seminar in Marketing,400,Dr. Halpern,22,22,1.0,4,3.38,0.825
+10405,2020,Fall,Business,Marketing,MKT-203,Marketing Methods,200,Dr. Shapiro,46,46,1.0,3,3.0,0.788
+10406,2020,Fall,Business,Marketing,MKT-248,Applied Marketing,200,Prof. Mandel,39,45,0.867,4,3.03,0.879
+10407,2020,Fall,Business,Marketing,MKT-354,Advanced Marketing,300,Prof. Rosen,21,25,0.84,3,3.33,0.928
+10408,2020,Fall,Business,Accounting,ACC-251,Accounting Methods,200,Dr. Bram,38,41,0.927,3,3.51,0.879
+10409,2020,Fall,Business,Accounting,ACC-321,Topics in Accounting,300,Prof. Adler,18,26,0.692,3,3.31,0.998
+10410,2020,Fall,Business,Accounting,ACC-224,Accounting Methods,200,Dr. Klein,31,36,0.861,3,2.76,0.882
+10411,2020,Fall,Business,Accounting,ACC-307,Accounting Theory,300,Dr. Shapiro,25,41,0.61,3,2.98,0.959
+10412,2020,Fall,Business,Management,MGT-105,Principles of Management,100,Dr. Weiss,39,48,0.812,4,2.67,0.915
+10413,2020,Fall,Business,Management,MGT-220,Applied Management,200,Dr. Bram,23,35,0.657,3,3.05,0.882
+10414,2020,Fall,Business,Management,MGT-114,Introduction to Management,100,Dr. Katz,27,42,0.643,4,2.81,1.0
+10415,2020,Fall,Business,Management,MGT-252,Management Methods,200,Dr. Friedman,35,44,0.795,3,3.29,0.915
+10416,2020,Spring,Business,Finance,FIN-150,Introduction to Finance,100,Dr. Halpern,19,35,0.543,3,2.92,0.891
+10417,2020,Spring,Business,Finance,FIN-425,Finance Capstone,400,Prof. Adler,25,39,0.641,3,3.51,0.981
+10418,2020,Spring,Business,Finance,FIN-413,Senior Seminar in Finance,400,Prof. Schwartz,41,46,0.891,3,3.23,0.903
+10419,2020,Spring,Business,Marketing,MKT-132,Introduction to Marketing,100,Dr. Halpern,23,31,0.742,3,3.37,0.946
+10420,2020,Spring,Business,Marketing,MKT-103,Foundations of Marketing,100,Prof. Goldberg,40,40,1.0,3,3.3,0.919
+10421,2020,Spring,Business,Marketing,MKT-216,Marketing Methods,200,Prof. Rosen,32,53,0.604,4,3.18,0.879
+10422,2020,Spring,Business,Marketing,MKT-141,Principles of Marketing,100,Dr. Klein,24,41,0.585,3,2.98,0.848
+10423,2020,Spring,Business,Accounting,ACC-322,Topics in Accounting,300,Dr. Bram,40,42,0.952,3,3.6,0.874
+10424,2020,Spring,Business,Accounting,ACC-108,Introduction to Accounting,100,Prof. Rosen,24,41,0.585,3,2.73,1.0
+10425,2020,Spring,Business,Accounting,ACC-232,Accounting Methods,200,Dr. Levin,20,36,0.556,3,3.41,0.941
+10426,2020,Spring,Business,Management,MGT-229,Intermediate Management,200,Dr. Bram,29,41,0.707,4,3.0,0.948
+10427,2020,Spring,Business,Management,MGT-101,Principles of Management,100,Prof. Stern,50,50,1.0,3,3.33,0.893
+10428,2021,Fall,Business,Finance,FIN-113,Foundations of Finance,100,Prof. Schwartz,24,24,1.0,3,3.52,0.973
+10429,2021,Fall,Business,Finance,FIN-546,Graduate Finance,500,Dr. Bram,15,29,0.517,3,4.0,0.987
+10430,2021,Fall,Business,Finance,FIN-358,Finance Theory,300,Dr. Weiss,26,26,1.0,3,3.8,0.967
+10431,2021,Fall,Business,Finance,FIN-217,Applied Finance,200,Prof. Stern,14,19,0.737,4,4.0,0.958
+10432,2021,Fall,Business,Marketing,MKT-137,Foundations of Marketing,100,Prof. Adler,28,32,0.875,3,3.0,0.975
+10433,2021,Fall,Business,Marketing,MKT-336,Marketing Theory,300,Dr. Bram,28,29,0.966,3,3.73,0.934
+10434,2021,Fall,Business,Marketing,MKT-221,Applied Marketing,200,Dr. Friedman,13,18,0.722,4,3.84,0.983
+10435,2021,Fall,Business,Accounting,ACC-127,Introduction to Accounting,100,Prof. Rosen,17,18,0.944,3,3.47,0.883
+10436,2021,Fall,Business,Accounting,ACC-244,Applied Accounting,200,Prof. Goldberg,24,24,1.0,4,3.59,0.948
+10437,2021,Fall,Business,Accounting,ACC-118,Principles of Accounting,100,Dr. Weiss,16,21,0.762,3,4.0,0.992
+10438,2021,Fall,Business,Accounting,ACC-356,Advanced Accounting,300,Dr. Cohen,36,36,1.0,3,4.0,0.925
+10439,2021,Fall,Business,Management,MGT-103,Foundations of Management,100,Dr. Weiss,17,20,0.85,3,3.13,0.924
+10440,2021,Fall,Business,Management,MGT-153,Foundations of Management,100,Dr. Halpern,34,34,1.0,3,3.44,0.934
+10441,2021,Spring,Business,Finance,FIN-244,Finance Methods,200,Dr. Halpern,16,28,0.571,3,3.56,0.888
+10442,2021,Spring,Business,Finance,FIN-136,Principles of Finance,100,Dr. Weiss,18,24,0.75,3,3.74,0.906
+10443,2021,Spring,Business,Marketing,MKT-101,Principles of Marketing,100,Prof. Adler,9,10,0.9,4,3.78,1.0
+10444,2021,Spring,Business,Marketing,MKT-256,Marketing Methods,200,Prof. Adler,29,46,0.63,3,3.09,1.0
+10445,2021,Spring,Business,Marketing,MKT-449,Marketing Research,400,Prof. Goldberg,14,21,0.667,3,4.0,1.0
+10446,2021,Spring,Business,Marketing,MKT-253,Applied Marketing,200,Prof. Adler,11,24,0.458,3,2.83,0.916
+10447,2021,Spring,Business,Accounting,ACC-528,Accounting Thesis Studio,500,Prof. Adler,33,39,0.846,3,3.93,0.918
+10448,2021,Spring,Business,Accounting,ACC-151,Introduction to Accounting,100,Dr. Halpern,18,25,0.72,3,3.2,0.916
+10449,2021,Spring,Business,Management,MGT-303,Management Theory,300,Prof. Mandel,16,16,1.0,3,3.78,0.963
+10450,2021,Spring,Business,Management,MGT-152,Principles of Management,100,Dr. Friedman,36,36,1.0,4,3.62,0.889
+10451,2021,Spring,Business,Management,MGT-256,Applied Management,200,Dr. Cohen,20,30,0.667,3,3.55,0.889
+10452,2022,Fall,Business,Finance,FIN-323,Finance Theory,300,Prof. Stern,29,32,0.906,4,3.43,0.848
+10453,2022,Fall,Business,Finance,FIN-208,Intermediate Finance,200,Dr. Levin,20,49,0.408,3,2.92,0.933
+10454,2022,Fall,Business,Marketing,MKT-313,Advanced Marketing,300,Dr. Bram,16,26,0.615,4,2.95,0.892
+10455,2022,Fall,Business,Marketing,MKT-538,Graduate Marketing,500,Prof. Goldberg,20,28,0.714,3,3.08,0.954
+10456,2022,Fall,Business,Accounting,ACC-452,Accounting Capstone,400,Dr. Levin,35,35,1.0,3,3.19,0.94
+10457,2022,Fall,Business,Accounting,ACC-107,Principles of Accounting,100,Dr. Weiss,30,34,0.882,3,2.85,0.888
+10458,2022,Fall,Business,Management,MGT-255,Intermediate Management,200,Prof. Mandel,33,39,0.846,3,2.98,0.985
+10459,2022,Fall,Business,Management,MGT-430,Senior Seminar in Management,400,Dr. Katz,15,22,0.682,3,3.38,0.841
+10460,2022,Spring,Business,Finance,FIN-347,Topics in Finance,300,Dr. Levin,30,43,0.698,3,3.28,0.832
+10461,2022,Spring,Business,Finance,FIN-341,Topics in Finance,300,Dr. Bram,32,37,0.865,3,2.99,0.878
+10462,2022,Spring,Business,Finance,FIN-147,Foundations of Finance,100,Dr. Klein,29,29,1.0,3,3.53,0.932
+10463,2022,Spring,Business,Marketing,MKT-125,Principles of Marketing,100,Prof. Schwartz,24,32,0.75,4,3.16,0.923
+10464,2022,Spring,Business,Marketing,MKT-443,Marketing Capstone,400,Dr. Friedman,22,28,0.786,3,3.07,0.883
+10465,2022,Spring,Business,Marketing,MKT-433,Marketing Research,400,Dr. Bram,26,27,0.963,3,3.02,1.0
+10466,2022,Spring,Business,Accounting,ACC-118,Principles of Accounting,100,Prof. Schwartz,21,32,0.656,3,3.15,0.971
+10467,2022,Spring,Business,Accounting,ACC-541,Graduate Accounting,500,Prof. Rosen,22,30,0.733,3,3.86,0.967
+10468,2022,Spring,Business,Accounting,ACC-112,Introduction to Accounting,100,Dr. Friedman,33,38,0.868,3,3.0,0.925
+10469,2022,Spring,Business,Accounting,ACC-254,Accounting Methods,200,Dr. Friedman,23,23,1.0,3,3.61,0.94
+10470,2022,Spring,Business,Management,MGT-222,Applied Management,200,Dr. Weiss,18,23,0.783,3,2.97,0.891
+10471,2022,Spring,Business,Management,MGT-227,Intermediate Management,200,Dr. Shapiro,28,30,0.933,3,3.09,0.934
+10472,2022,Spring,Business,Management,MGT-132,Principles of Management,100,Dr. Levin,51,56,0.911,4,3.21,0.861
+10473,2022,Spring,Business,Management,MGT-152,Foundations of Management,100,Dr. Klein,31,35,0.886,3,3.62,0.998
+10474,2023,Fall,Business,Finance,FIN-156,Principles of Finance,100,Dr. Halpern,20,26,0.769,4,3.99,0.947
+10475,2023,Fall,Business,Finance,FIN-218,Finance Methods,200,Prof. Mandel,9,15,0.6,3,3.71,0.874
+10476,2023,Fall,Business,Finance,FIN-406,Finance Capstone,400,Dr. Weiss,39,40,0.975,3,3.43,0.935
+10477,2023,Fall,Business,Marketing,MKT-301,Topics in Marketing,300,Dr. Weiss,40,43,0.93,3,3.66,0.908
+10478,2023,Fall,Business,Marketing,MKT-321,Topics in Marketing,300,Prof. Schwartz,41,41,1.0,4,3.26,0.923
+10479,2023,Fall,Business,Accounting,ACC-254,Intermediate Accounting,200,Prof. Stern,17,17,1.0,3,3.51,0.865
+10480,2023,Fall,Business,Accounting,ACC-124,Foundations of Accounting,100,Prof. Stern,33,35,0.943,3,3.06,0.885
+10481,2023,Fall,Business,Management,MGT-203,Intermediate Management,200,Dr. Klein,21,29,0.724,3,3.14,0.943
+10482,2023,Fall,Business,Management,MGT-336,Topics in Management,300,Dr. Cohen,21,29,0.724,4,3.71,0.941
+10483,2023,Fall,Business,Management,MGT-534,Graduate Management,500,Dr. Cohen,38,40,0.95,3,3.96,0.971
+10484,2023,Spring,Business,Finance,FIN-144,Foundations of Finance,100,Prof. Schwartz,28,39,0.718,3,3.17,0.877
+10485,2023,Spring,Business,Finance,FIN-149,Introduction to Finance,100,Dr. Bram,26,33,0.788,3,3.36,0.886
+10486,2023,Spring,Business,Finance,FIN-150,Foundations of Finance,100,Prof. Adler,20,28,0.714,3,3.67,0.92
+10487,2023,Spring,Business,Finance,FIN-140,Introduction to Finance,100,Dr. Levin,27,36,0.75,3,3.36,0.998
+10488,2023,Spring,Business,Marketing,MKT-257,Marketing Methods,200,Dr. Klein,16,28,0.571,3,3.56,0.826
+10489,2023,Spring,Business,Marketing,MKT-204,Applied Marketing,200,Prof. Schwartz,39,45,0.867,4,3.78,0.883
+10490,2023,Spring,Business,Marketing,MKT-153,Foundations of Marketing,100,Dr. Bram,36,43,0.837,3,3.58,0.911
+10491,2023,Spring,Business,Marketing,MKT-341,Advanced Marketing,300,Dr. Klein,30,32,0.938,3,4.0,0.956
+10492,2023,Spring,Business,Accounting,ACC-155,Principles of Accounting,100,Dr. Bram,27,28,0.964,3,3.27,0.947
+10493,2023,Spring,Business,Accounting,ACC-111,Principles of Accounting,100,Prof. Stern,31,44,0.705,3,3.0,0.839
+10494,2023,Spring,Business,Accounting,ACC-140,Foundations of Accounting,100,Prof. Rosen,32,42,0.762,3,3.77,0.872
+10495,2023,Spring,Business,Accounting,ACC-512,Accounting Practicum,500,Prof. Schwartz,20,23,0.87,3,3.63,0.927
+10496,2023,Spring,Business,Management,MGT-216,Intermediate Management,200,Prof. Stern,15,28,0.536,4,3.72,0.836
+10497,2023,Spring,Business,Management,MGT-456,Management Capstone,400,Prof. Stern,31,39,0.795,3,3.94,0.939
+10498,2024,Fall,Business,Finance,FIN-133,Foundations of Finance,100,Dr. Bram,42,44,0.955,3,3.47,0.937
+10499,2024,Fall,Business,Finance,FIN-247,Finance Methods,200,Dr. Friedman,21,39,0.538,3,2.96,1.0
+10500,2024,Fall,Business,Marketing,MKT-102,Introduction to Marketing,100,Dr. Levin,20,34,0.588,4,3.24,0.954
+10501,2024,Fall,Business,Marketing,MKT-221,Marketing Methods,200,Dr. Bram,36,53,0.679,3,3.44,0.925
+10502,2024,Fall,Business,Marketing,MKT-358,Topics in Marketing,300,Dr. Weiss,27,27,1.0,4,3.65,0.923
+10503,2024,Fall,Business,Accounting,ACC-332,Topics in Accounting,300,Dr. Friedman,35,40,0.875,3,2.75,0.848
+10504,2024,Fall,Business,Accounting,ACC-531,Accounting Thesis Studio,500,Dr. Halpern,27,35,0.771,3,4.0,1.0
+10505,2024,Fall,Business,Accounting,ACC-309,Advanced Accounting,300,Prof. Adler,39,47,0.83,3,3.25,0.867
+10506,2024,Fall,Business,Management,MGT-118,Foundations of Management,100,Dr. Klein,33,45,0.733,3,3.13,1.0
+10507,2024,Fall,Business,Management,MGT-316,Advanced Management,300,Dr. Klein,20,25,0.8,3,3.19,0.95
+10508,2024,Fall,Business,Management,MGT-218,Intermediate Management,200,Prof. Goldberg,45,49,0.918,3,3.19,0.852
+10509,2024,Spring,Business,Finance,FIN-332,Topics in Finance,300,Prof. Stern,33,36,0.917,3,3.76,0.917
+10510,2024,Spring,Business,Finance,FIN-328,Topics in Finance,300,Dr. Klein,26,34,0.765,3,3.39,0.96
+10511,2024,Spring,Business,Marketing,MKT-341,Topics in Marketing,300,Prof. Adler,26,40,0.65,3,3.73,0.993
+10512,2024,Spring,Business,Marketing,MKT-141,Foundations of Marketing,100,Prof. Rosen,26,30,0.867,4,3.32,0.875
+10513,2024,Spring,Business,Accounting,ACC-134,Foundations of Accounting,100,Dr. Katz,40,51,0.784,3,3.64,0.891
+10514,2024,Spring,Business,Accounting,ACC-513,Accounting Practicum,500,Prof. Rosen,35,39,0.897,3,3.16,0.811
+10515,2024,Spring,Business,Accounting,ACC-228,Intermediate Accounting,200,Dr. Weiss,19,30,0.633,4,3.85,0.892
+10516,2024,Spring,Business,Management,MGT-105,Introduction to Management,100,Dr. Friedman,14,23,0.609,3,3.67,0.936
+10517,2024,Spring,Business,Management,MGT-117,Foundations of Management,100,Dr. Katz,26,37,0.703,3,3.25,0.987
+10518,2024,Spring,Business,Management,MGT-241,Applied Management,200,Dr. Bram,46,46,1.0,4,2.96,0.908
+10519,2025,Fall,Business,Finance,FIN-353,Advanced Finance,300,Prof. Adler,26,41,0.634,3,3.51,0.938
+10520,2025,Fall,Business,Finance,FIN-142,Introduction to Finance,100,Prof. Stern,30,45,0.667,3,3.42,0.901
+10521,2025,Fall,Business,Finance,FIN-136,Introduction to Finance,100,Dr. Bram,23,33,0.697,3,3.46,0.961
+10522,2025,Fall,Business,Marketing,MKT-254,Marketing Methods,200,Dr. Levin,27,39,0.692,3,3.86,0.921
+10523,2025,Fall,Business,Marketing,MKT-247,Marketing Methods,200,Dr. Cohen,38,38,1.0,3,3.9,0.928
+10524,2025,Fall,Business,Accounting,ACC-229,Accounting Methods,200,Dr. Katz,28,36,0.778,3,3.61,0.87
+10525,2025,Fall,Business,Accounting,ACC-254,Intermediate Accounting,200,Prof. Adler,48,52,0.923,3,3.19,0.946
+10526,2025,Fall,Business,Accounting,ACC-325,Advanced Accounting,300,Dr. Weiss,38,40,0.95,3,3.67,0.907
+10527,2025,Fall,Business,Management,MGT-152,Introduction to Management,100,Dr. Weiss,33,43,0.767,3,2.82,0.824
+10528,2025,Fall,Business,Management,MGT-407,Senior Seminar in Management,400,Dr. Levin,25,30,0.833,4,3.94,0.927
+10529,2025,Fall,Business,Management,MGT-203,Applied Management,200,Dr. Klein,30,37,0.811,3,3.31,0.95
+10530,2025,Fall,Business,Management,MGT-438,Management Research,400,Dr. Cohen,21,26,0.808,3,3.49,0.932
+10531,2025,Spring,Business,Finance,FIN-426,Finance Research,400,Dr. Halpern,21,29,0.724,3,3.87,0.855
+10532,2025,Spring,Business,Finance,FIN-232,Intermediate Finance,200,Dr. Katz,16,24,0.667,3,3.62,0.927
+10533,2025,Spring,Business,Finance,FIN-534,Finance Thesis Studio,500,Dr. Levin,21,37,0.568,3,3.38,1.0
+10534,2025,Spring,Business,Marketing,MKT-356,Advanced Marketing,300,Prof. Goldberg,41,45,0.911,3,3.28,0.984
+10535,2025,Spring,Business,Marketing,MKT-132,Foundations of Marketing,100,Prof. Goldberg,27,47,0.574,3,3.38,0.918
+10536,2025,Spring,Business,Marketing,MKT-104,Principles of Marketing,100,Dr. Shapiro,42,42,1.0,3,3.19,0.927
+10537,2025,Spring,Business,Accounting,ACC-538,Accounting Practicum,500,Dr. Cohen,20,29,0.69,3,3.65,0.976
+10538,2025,Spring,Business,Accounting,ACC-258,Accounting Methods,200,Dr. Friedman,28,29,0.966,3,3.36,0.905
+10539,2025,Spring,Business,Accounting,ACC-251,Applied Accounting,200,Dr. Friedman,43,51,0.843,3,3.63,0.904
+10540,2025,Spring,Business,Management,MGT-356,Advanced Management,300,Prof. Mandel,39,40,0.975,3,3.68,0.868
+10541,2025,Spring,Business,Management,MGT-140,Principles of Management,100,Prof. Stern,37,39,0.949,3,2.8,0.89
+10542,2025,Spring,Business,Management,MGT-232,Management Methods,200,Prof. Mandel,23,38,0.605,3,3.54,0.926
+10543,2025,Spring,Business,Management,MGT-439,Senior Seminar in Management,400,Dr. Katz,27,29,0.931,3,3.22,0.856
+10544,2015,Fall,Arts & Sciences,Biology,BIO-150,Foundations of Biology,100,Prof. Schwartz,15,19,0.789,3,3.21,0.905
+10545,2015,Fall,Arts & Sciences,Biology,BIO-149,Principles of Biology,100,Dr. Friedman,20,28,0.714,3,2.98,0.899
+10546,2015,Fall,Arts & Sciences,Biology,BIO-515,Biology Practicum,500,Dr. Cohen,6,10,0.6,3,3.47,0.894
+10547,2015,Fall,Arts & Sciences,Biology,BIO-233,Applied Biology,200,Prof. Schwartz,8,15,0.533,3,2.8,0.922
+10548,2015,Fall,Arts & Sciences,Psychology,PSY-345,Topics in Psychology,300,Dr. Bram,9,10,0.9,3,3.25,0.911
+10549,2015,Fall,Arts & Sciences,Psychology,PSY-129,Principles of Psychology,100,Prof. Goldberg,14,16,0.875,3,3.08,0.963
+10550,2015,Fall,Arts & Sciences,History,HIS-323,Advanced History,300,Dr. Cohen,24,24,1.0,3,3.27,0.944
+10551,2015,Fall,Arts & Sciences,History,HIS-354,Advanced History,300,Prof. Rosen,22,40,0.55,3,3.95,0.97
+10552,2015,Fall,Arts & Sciences,History,HIS-436,History Research,400,Dr. Weiss,7,10,0.7,3,3.35,0.962
+10553,2015,Fall,Arts & Sciences,History,HIS-123,Principles of History,100,Dr. Friedman,14,20,0.7,3,3.73,0.918
+10554,2015,Fall,Arts & Sciences,Mathematics,MAT-217,Mathematics Methods,200,Dr. Weiss,21,27,0.778,3,3.67,0.851
+10555,2015,Fall,Arts & Sciences,Mathematics,MAT-149,Foundations of Mathematics,100,Dr. Cohen,6,10,0.6,3,3.37,0.919
+10556,2015,Fall,Arts & Sciences,Mathematics,MAT-439,Senior Seminar in Mathematics,400,Dr. Bram,13,14,0.929,3,3.07,0.949
+10557,2015,Spring,Arts & Sciences,Biology,BIO-526,Biology Thesis Studio,500,Dr. Friedman,9,11,0.818,3,3.17,0.862
+10558,2015,Spring,Arts & Sciences,Biology,BIO-240,Biology Methods,200,Dr. Bram,6,10,0.6,3,2.89,0.856
+10559,2015,Spring,Arts & Sciences,Psychology,PSY-310,Psychology Theory,300,Dr. Levin,13,13,1.0,3,3.12,0.865
+10560,2015,Spring,Arts & Sciences,Psychology,PSY-210,Psychology Methods,200,Prof. Schwartz,19,23,0.826,3,3.34,0.988
+10561,2015,Spring,Arts & Sciences,History,HIS-208,History Methods,200,Prof. Schwartz,8,10,0.8,3,2.77,0.893
+10562,2015,Spring,Arts & Sciences,History,HIS-258,History Methods,200,Dr. Weiss,7,11,0.636,3,3.41,0.884
+10563,2015,Spring,Arts & Sciences,History,HIS-202,Applied History,200,Dr. Bram,7,10,0.7,3,3.21,0.92
+10564,2015,Spring,Arts & Sciences,Mathematics,MAT-342,Advanced Mathematics,300,Prof. Schwartz,10,14,0.714,3,3.09,0.854
+10565,2015,Spring,Arts & Sciences,Mathematics,MAT-348,Topics in Mathematics,300,Dr. Levin,9,10,0.9,3,2.93,0.958
+10566,2015,Spring,Arts & Sciences,Mathematics,MAT-151,Introduction to Mathematics,100,Prof. Goldberg,7,16,0.438,3,3.19,0.944
+10567,2016,Fall,Arts & Sciences,Biology,BIO-324,Topics in Biology,300,Dr. Weiss,17,27,0.63,3,3.1,0.944
+10568,2016,Fall,Arts & Sciences,Biology,BIO-333,Topics in Biology,300,Dr. Levin,24,35,0.686,4,3.35,0.881
+10569,2016,Fall,Arts & Sciences,Biology,BIO-240,Biology Methods,200,Prof. Mandel,21,30,0.7,4,3.37,0.937
+10570,2016,Fall,Arts & Sciences,Biology,BIO-119,Foundations of Biology,100,Dr. Shapiro,38,44,0.864,3,2.84,0.933
+10571,2016,Fall,Arts & Sciences,Psychology,PSY-251,Applied Psychology,200,Dr. Cohen,24,32,0.75,3,3.47,0.873
+10572,2016,Fall,Arts & Sciences,Psychology,PSY-533,Graduate Psychology,500,Dr. Halpern,22,32,0.688,3,2.75,0.792
+10573,2016,Fall,Arts & Sciences,Psychology,PSY-344,Psychology Theory,300,Dr. Levin,35,44,0.795,3,3.35,0.934
+10574,2016,Fall,Arts & Sciences,Psychology,PSY-226,Intermediate Psychology,200,Dr. Cohen,35,47,0.745,3,2.86,0.988
+10575,2016,Fall,Arts & Sciences,History,HIS-256,Applied History,200,Dr. Bram,19,24,0.792,4,3.1,1.0
+10576,2016,Fall,Arts & Sciences,History,HIS-313,History Theory,300,Prof. Mandel,18,28,0.643,3,3.46,0.872
+10577,2016,Fall,Arts & Sciences,History,HIS-455,History Research,400,Dr. Klein,35,40,0.875,3,3.34,0.919
+10578,2016,Fall,Arts & Sciences,Mathematics,MAT-324,Advanced Mathematics,300,Prof. Rosen,40,44,0.909,3,3.34,0.86
+10579,2016,Fall,Arts & Sciences,Mathematics,MAT-342,Advanced Mathematics,300,Prof. Rosen,29,45,0.644,4,2.88,0.927
+10580,2016,Spring,Arts & Sciences,Biology,BIO-148,Introduction to Biology,100,Dr. Bram,18,32,0.562,4,3.16,0.979
+10581,2016,Spring,Arts & Sciences,Biology,BIO-443,Biology Capstone,400,Dr. Klein,36,41,0.878,3,3.2,0.939
+10582,2016,Spring,Arts & Sciences,Biology,BIO-258,Biology Methods,200,Dr. Weiss,13,22,0.591,3,3.08,0.97
+10583,2016,Spring,Arts & Sciences,Biology,BIO-457,Biology Capstone,400,Dr. Levin,36,49,0.735,3,3.4,0.891
+10584,2016,Spring,Arts & Sciences,Psychology,PSY-232,Psychology Methods,200,Prof. Goldberg,30,30,1.0,4,2.9,0.978
+10585,2016,Spring,Arts & Sciences,Psychology,PSY-144,Principles of Psychology,100,Dr. Shapiro,41,45,0.911,4,3.02,0.872
+10586,2016,Spring,Arts & Sciences,Psychology,PSY-314,Topics in Psychology,300,Dr. Shapiro,28,30,0.933,3,3.81,0.971
+10587,2016,Spring,Arts & Sciences,Psychology,PSY-435,Psychology Capstone,400,Dr. Bram,34,40,0.85,3,3.18,0.937
+10588,2016,Spring,Arts & Sciences,History,HIS-239,Applied History,200,Dr. Levin,36,53,0.679,3,2.91,0.928
+10589,2016,Spring,Arts & Sciences,History,HIS-254,Applied History,200,Prof. Stern,15,22,0.682,4,2.94,0.959
+10590,2016,Spring,Arts & Sciences,Mathematics,MAT-219,Intermediate Mathematics,200,Dr. Bram,16,26,0.615,4,3.25,0.927
+10591,2016,Spring,Arts & Sciences,Mathematics,MAT-309,Topics in Mathematics,300,Prof. Adler,26,29,0.897,3,3.26,0.851
+10592,2016,Spring,Arts & Sciences,Mathematics,MAT-132,Foundations of Mathematics,100,Prof. Goldberg,31,31,1.0,3,3.08,0.834
+10593,2016,Spring,Arts & Sciences,Mathematics,MAT-107,Principles of Mathematics,100,Dr. Shapiro,27,30,0.9,3,3.05,0.844
+10594,2017,Fall,Arts & Sciences,Biology,BIO-116,Principles of Biology,100,Dr. Halpern,19,23,0.826,3,2.79,0.915
+10595,2017,Fall,Arts & Sciences,Biology,BIO-254,Intermediate Biology,200,Dr. Cohen,11,17,0.647,3,2.88,0.988
+10596,2017,Fall,Arts & Sciences,Biology,BIO-326,Biology Theory,300,Dr. Klein,31,41,0.756,3,3.31,0.915
+10597,2017,Fall,Arts & Sciences,Biology,BIO-239,Intermediate Biology,200,Dr. Bram,22,25,0.88,4,2.82,0.943
+10598,2017,Fall,Arts & Sciences,Psychology,PSY-144,Introduction to Psychology,100,Prof. Stern,10,18,0.556,3,3.14,0.966
+10599,2017,Fall,Arts & Sciences,Psychology,PSY-417,Psychology Research,400,Dr. Weiss,14,20,0.7,4,3.69,0.83
+10600,2017,Fall,Arts & Sciences,Psychology,PSY-353,Advanced Psychology,300,Prof. Stern,18,21,0.857,3,3.22,0.871
+10601,2017,Fall,Arts & Sciences,History,HIS-125,Introduction to History,100,Dr. Cohen,18,21,0.857,3,3.31,0.922
+10602,2017,Fall,Arts & Sciences,History,HIS-553,History Practicum,500,Prof. Stern,20,23,0.87,4,3.0,0.916
+10603,2017,Fall,Arts & Sciences,History,HIS-522,Graduate History,500,Prof. Mandel,29,31,0.935,3,3.11,0.989
+10604,2017,Fall,Arts & Sciences,History,HIS-530,Graduate History,500,Prof. Goldberg,8,11,0.727,4,3.1,0.9
+10605,2017,Fall,Arts & Sciences,Mathematics,MAT-536,Mathematics Practicum,500,Prof. Adler,32,39,0.821,4,3.58,0.933
+10606,2017,Fall,Arts & Sciences,Mathematics,MAT-153,Introduction to Mathematics,100,Prof. Stern,57,58,0.983,3,3.09,0.944
+10607,2017,Spring,Arts & Sciences,Biology,BIO-249,Intermediate Biology,200,Dr. Levin,16,18,0.889,3,3.27,0.913
+10608,2017,Spring,Arts & Sciences,Biology,BIO-333,Advanced Biology,300,Dr. Katz,15,20,0.75,4,3.61,0.91
+10609,2017,Spring,Arts & Sciences,Biology,BIO-124,Principles of Biology,100,Dr. Levin,15,19,0.789,3,2.86,0.984
+10610,2017,Spring,Arts & Sciences,Biology,BIO-208,Intermediate Biology,200,Prof. Stern,25,38,0.658,3,3.17,0.842
+10611,2017,Spring,Arts & Sciences,Psychology,PSY-108,Introduction to Psychology,100,Dr. Friedman,18,32,0.562,3,3.1,0.899
+10612,2017,Spring,Arts & Sciences,Psychology,PSY-129,Foundations of Psychology,100,Dr. Shapiro,19,22,0.864,3,2.93,0.941
+10613,2017,Spring,Arts & Sciences,Psychology,PSY-145,Foundations of Psychology,100,Prof. Goldberg,17,18,0.944,3,2.78,0.945
+10614,2017,Spring,Arts & Sciences,History,HIS-233,Intermediate History,200,Prof. Goldberg,26,31,0.839,3,3.57,0.836
+10615,2017,Spring,Arts & Sciences,History,HIS-128,Introduction to History,100,Dr. Levin,18,33,0.545,3,2.89,0.854
+10616,2017,Spring,Arts & Sciences,History,HIS-148,Principles of History,100,Dr. Cohen,17,22,0.773,3,3.22,1.0
+10617,2017,Spring,Arts & Sciences,Mathematics,MAT-544,Graduate Mathematics,500,Dr. Bram,27,27,1.0,4,3.37,0.888
+10618,2017,Spring,Arts & Sciences,Mathematics,MAT-247,Intermediate Mathematics,200,Prof. Adler,8,10,0.8,4,3.11,0.918
+10619,2017,Spring,Arts & Sciences,Mathematics,MAT-306,Advanced Mathematics,300,Prof. Rosen,26,26,1.0,3,3.14,0.942
+10620,2018,Fall,Arts & Sciences,Biology,BIO-208,Applied Biology,200,Dr. Levin,31,34,0.912,3,3.2,0.906
+10621,2018,Fall,Arts & Sciences,Biology,BIO-132,Principles of Biology,100,Dr. Levin,29,34,0.853,3,3.05,0.944
+10622,2018,Fall,Arts & Sciences,Psychology,PSY-125,Foundations of Psychology,100,Prof. Mandel,31,51,0.608,3,3.04,0.908
+10623,2018,Fall,Arts & Sciences,Psychology,PSY-445,Psychology Research,400,Prof. Goldberg,24,35,0.686,3,3.68,1.0
+10624,2018,Fall,Arts & Sciences,Psychology,PSY-422,Psychology Capstone,400,Dr. Katz,14,23,0.609,3,3.37,0.851
+10625,2018,Fall,Arts & Sciences,History,HIS-145,Foundations of History,100,Prof. Adler,27,34,0.794,3,2.82,0.883
+10626,2018,Fall,Arts & Sciences,History,HIS-148,Principles of History,100,Dr. Weiss,41,43,0.953,3,3.19,0.916
+10627,2018,Fall,Arts & Sciences,History,HIS-345,Advanced History,300,Prof. Goldberg,32,32,1.0,3,3.29,0.94
+10628,2018,Fall,Arts & Sciences,Mathematics,MAT-110,Introduction to Mathematics,100,Dr. Bram,26,39,0.667,3,2.73,0.918
+10629,2018,Fall,Arts & Sciences,Mathematics,MAT-338,Topics in Mathematics,300,Dr. Weiss,38,42,0.905,3,2.97,0.963
+10630,2018,Spring,Arts & Sciences,Biology,BIO-249,Biology Methods,200,Prof. Rosen,40,46,0.87,4,3.48,0.935
+10631,2018,Spring,Arts & Sciences,Biology,BIO-111,Introduction to Biology,100,Dr. Klein,31,35,0.886,3,3.26,0.962
+10632,2018,Spring,Arts & Sciences,Psychology,PSY-312,Psychology Theory,300,Dr. Levin,27,36,0.75,3,3.48,0.93
+10633,2018,Spring,Arts & Sciences,Psychology,PSY-458,Psychology Research,400,Dr. Shapiro,38,38,1.0,4,3.06,0.906
+10634,2018,Spring,Arts & Sciences,Psychology,PSY-539,Psychology Practicum,500,Dr. Weiss,26,35,0.743,4,3.35,0.871
+10635,2018,Spring,Arts & Sciences,History,HIS-457,Senior Seminar in History,400,Dr. Shapiro,33,42,0.786,3,3.05,0.91
+10636,2018,Spring,Arts & Sciences,History,HIS-318,Topics in History,300,Dr. Halpern,20,25,0.8,3,2.89,0.845
+10637,2018,Spring,Arts & Sciences,History,HIS-157,Foundations of History,100,Dr. Katz,26,31,0.839,3,2.67,0.924
+10638,2018,Spring,Arts & Sciences,History,HIS-355,Topics in History,300,Dr. Weiss,33,41,0.805,3,3.22,0.935
+10639,2018,Spring,Arts & Sciences,Mathematics,MAT-148,Principles of Mathematics,100,Prof. Goldberg,30,36,0.833,3,2.95,0.914
+10640,2018,Spring,Arts & Sciences,Mathematics,MAT-123,Principles of Mathematics,100,Dr. Katz,31,34,0.912,3,3.5,0.872
+10641,2018,Spring,Arts & Sciences,Mathematics,MAT-113,Introduction to Mathematics,100,Dr. Levin,30,40,0.75,3,3.95,0.893
+10642,2019,Fall,Arts & Sciences,Biology,BIO-158,Introduction to Biology,100,Dr. Bram,34,43,0.791,4,2.51,0.916
+10643,2019,Fall,Arts & Sciences,Biology,BIO-206,Intermediate Biology,200,Dr. Shapiro,50,52,0.962,3,3.22,0.984
+10644,2019,Fall,Arts & Sciences,Biology,BIO-552,Graduate Biology,500,Dr. Levin,33,34,0.971,4,3.52,0.955
+10645,2019,Fall,Arts & Sciences,Psychology,PSY-103,Introduction to Psychology,100,Prof. Rosen,35,50,0.7,3,3.33,0.933
+10646,2019,Fall,Arts & Sciences,Psychology,PSY-442,Psychology Research,400,Dr. Katz,38,44,0.864,3,3.43,0.824
+10647,2019,Fall,Arts & Sciences,History,HIS-304,Topics in History,300,Prof. Rosen,34,46,0.739,4,3.67,0.833
+10648,2019,Fall,Arts & Sciences,History,HIS-406,History Capstone,400,Dr. Halpern,33,51,0.647,3,3.22,0.88
+10649,2019,Fall,Arts & Sciences,History,HIS-159,Principles of History,100,Dr. Cohen,51,51,1.0,3,3.11,0.926
+10650,2019,Fall,Arts & Sciences,Mathematics,MAT-104,Foundations of Mathematics,100,Prof. Adler,39,44,0.886,3,3.1,0.969
+10651,2019,Fall,Arts & Sciences,Mathematics,MAT-110,Introduction to Mathematics,100,Dr. Friedman,39,58,0.672,3,2.71,0.926
+10652,2019,Fall,Arts & Sciences,Mathematics,MAT-257,Mathematics Methods,200,Dr. Bram,51,54,0.944,3,3.55,0.93
+10653,2019,Spring,Arts & Sciences,Biology,BIO-126,Principles of Biology,100,Dr. Bram,37,45,0.822,3,3.62,0.933
+10654,2019,Spring,Arts & Sciences,Biology,BIO-302,Advanced Biology,300,Prof. Goldberg,38,51,0.745,3,3.34,1.0
+10655,2019,Spring,Arts & Sciences,Biology,BIO-246,Intermediate Biology,200,Dr. Cohen,42,61,0.689,3,3.1,0.995
+10656,2019,Spring,Arts & Sciences,Biology,BIO-114,Introduction to Biology,100,Prof. Adler,32,47,0.681,3,3.37,0.881
+10657,2019,Spring,Arts & Sciences,Psychology,PSY-229,Psychology Methods,200,Prof. Schwartz,28,43,0.651,4,3.63,0.851
+10658,2019,Spring,Arts & Sciences,Psychology,PSY-127,Principles of Psychology,100,Dr. Shapiro,37,52,0.712,3,3.62,0.887
+10659,2019,Spring,Arts & Sciences,Psychology,PSY-458,Psychology Capstone,400,Dr. Weiss,35,53,0.66,3,3.31,0.869
+10660,2019,Spring,Arts & Sciences,History,HIS-220,Intermediate History,200,Dr. Katz,21,35,0.6,3,3.82,0.907
+10661,2019,Spring,Arts & Sciences,History,HIS-318,Advanced History,300,Prof. Rosen,24,51,0.471,3,3.19,0.967
+10662,2019,Spring,Arts & Sciences,History,HIS-219,History Methods,200,Prof. Adler,38,60,0.633,3,3.3,0.949
+10663,2019,Spring,Arts & Sciences,History,HIS-127,Introduction to History,100,Dr. Friedman,38,48,0.792,3,2.73,0.975
+10664,2019,Spring,Arts & Sciences,Mathematics,MAT-109,Introduction to Mathematics,100,Prof. Adler,28,45,0.622,3,3.29,0.989
+10665,2019,Spring,Arts & Sciences,Mathematics,MAT-334,Advanced Mathematics,300,Prof. Mandel,19,31,0.613,3,2.79,0.926
+10666,2019,Spring,Arts & Sciences,Mathematics,MAT-158,Principles of Mathematics,100,Prof. Mandel,26,42,0.619,3,3.63,1.0
+10667,2019,Spring,Arts & Sciences,Mathematics,MAT-348,Topics in Mathematics,300,Prof. Mandel,45,49,0.918,3,3.78,0.894
+10668,2020,Fall,Arts & Sciences,Biology,BIO-230,Biology Methods,200,Dr. Klein,42,45,0.933,3,3.52,0.983
+10669,2020,Fall,Arts & Sciences,Biology,BIO-328,Topics in Biology,300,Dr. Friedman,15,16,0.938,3,3.48,0.893
+10670,2020,Fall,Arts & Sciences,Biology,BIO-208,Biology Methods,200,Prof. Mandel,21,32,0.656,3,3.24,0.88
+10671,2020,Fall,Arts & Sciences,Biology,BIO-107,Principles of Biology,100,Dr. Halpern,33,38,0.868,3,3.68,0.966
+10672,2020,Fall,Arts & Sciences,Psychology,PSY-438,Psychology Research,400,Dr. Halpern,20,25,0.8,3,3.6,0.993
+10673,2020,Fall,Arts & Sciences,Psychology,PSY-126,Foundations of Psychology,100,Prof. Rosen,27,38,0.711,3,3.16,1.0
+10674,2020,Fall,Arts & Sciences,Psychology,PSY-350,Psychology Theory,300,Prof. Goldberg,29,33,0.879,3,3.54,0.914
+10675,2020,Fall,Arts & Sciences,History,HIS-321,History Theory,300,Dr. Halpern,38,45,0.844,3,2.76,0.906
+10676,2020,Fall,Arts & Sciences,History,HIS-150,Principles of History,100,Dr. Klein,31,38,0.816,3,3.25,0.92
+10677,2020,Fall,Arts & Sciences,History,HIS-358,History Theory,300,Dr. Klein,44,48,0.917,3,3.76,0.85
+10678,2020,Fall,Arts & Sciences,Mathematics,MAT-121,Introduction to Mathematics,100,Prof. Goldberg,34,34,1.0,3,2.99,0.948
+10679,2020,Fall,Arts & Sciences,Mathematics,MAT-114,Introduction to Mathematics,100,Dr. Klein,42,42,1.0,3,3.09,0.903
+10680,2020,Fall,Arts & Sciences,Mathematics,MAT-342,Advanced Mathematics,300,Dr. Katz,38,48,0.792,3,3.4,1.0
+10681,2020,Fall,Arts & Sciences,Mathematics,MAT-351,Topics in Mathematics,300,Prof. Goldberg,23,27,0.852,3,3.15,0.861
+10682,2020,Spring,Arts & Sciences,Biology,BIO-301,Advanced Biology,300,Dr. Friedman,21,38,0.553,3,3.38,0.987
+10683,2020,Spring,Arts & Sciences,Biology,BIO-232,Applied Biology,200,Dr. Halpern,21,26,0.808,3,3.15,0.868
+10684,2020,Spring,Arts & Sciences,Biology,BIO-351,Advanced Biology,300,Dr. Levin,32,32,1.0,3,3.54,0.925
+10685,2020,Spring,Arts & Sciences,Biology,BIO-146,Foundations of Biology,100,Dr. Shapiro,20,22,0.909,3,3.04,0.945
+10686,2020,Spring,Arts & Sciences,Psychology,PSY-312,Advanced Psychology,300,Dr. Cohen,36,45,0.8,4,3.18,1.0
+10687,2020,Spring,Arts & Sciences,Psychology,PSY-347,Advanced Psychology,300,Dr. Levin,24,33,0.727,3,3.41,0.889
+10688,2020,Spring,Arts & Sciences,History,HIS-219,History Methods,200,Dr. Bram,37,37,1.0,3,3.55,0.996
+10689,2020,Spring,Arts & Sciences,History,HIS-420,History Research,400,Dr. Klein,30,36,0.833,3,3.26,0.893
+10690,2020,Spring,Arts & Sciences,Mathematics,MAT-321,Mathematics Theory,300,Prof. Stern,24,34,0.706,4,3.02,0.908
+10691,2020,Spring,Arts & Sciences,Mathematics,MAT-119,Foundations of Mathematics,100,Dr. Cohen,29,46,0.63,3,3.57,0.898
+10692,2021,Fall,Arts & Sciences,Biology,BIO-246,Biology Methods,200,Prof. Goldberg,32,34,0.941,3,3.33,0.881
+10693,2021,Fall,Arts & Sciences,Biology,BIO-146,Introduction to Biology,100,Dr. Weiss,34,38,0.895,3,3.43,0.991
+10694,2021,Fall,Arts & Sciences,Psychology,PSY-220,Intermediate Psychology,200,Prof. Adler,31,38,0.816,4,2.99,0.893
+10695,2021,Fall,Arts & Sciences,Psychology,PSY-308,Advanced Psychology,300,Dr. Levin,26,30,0.867,3,3.79,0.869
+10696,2021,Fall,Arts & Sciences,Psychology,PSY-345,Advanced Psychology,300,Dr. Friedman,30,34,0.882,3,3.41,0.922
+10697,2021,Fall,Arts & Sciences,Psychology,PSY-328,Psychology Theory,300,Dr. Bram,21,22,0.955,3,3.32,0.86
+10698,2021,Fall,Arts & Sciences,History,HIS-250,Intermediate History,200,Dr. Cohen,34,42,0.81,3,2.99,0.917
+10699,2021,Fall,Arts & Sciences,History,HIS-243,Intermediate History,200,Dr. Bram,21,34,0.618,3,3.28,0.977
+10700,2021,Fall,Arts & Sciences,History,HIS-156,Principles of History,100,Prof. Goldberg,29,40,0.725,4,3.04,0.924
+10701,2021,Fall,Arts & Sciences,Mathematics,MAT-407,Mathematics Research,400,Prof. Goldberg,23,23,1.0,3,3.44,0.955
+10702,2021,Fall,Arts & Sciences,Mathematics,MAT-239,Intermediate Mathematics,200,Prof. Adler,27,43,0.628,3,3.22,0.841
+10703,2021,Fall,Arts & Sciences,Mathematics,MAT-224,Applied Mathematics,200,Dr. Friedman,35,45,0.778,3,3.64,0.955
+10704,2021,Fall,Arts & Sciences,Mathematics,MAT-545,Graduate Mathematics,500,Dr. Cohen,24,36,0.667,3,3.41,0.956
+10705,2021,Spring,Arts & Sciences,Biology,BIO-357,Advanced Biology,300,Dr. Levin,20,28,0.714,4,3.52,0.944
+10706,2021,Spring,Arts & Sciences,Biology,BIO-532,Biology Thesis Studio,500,Prof. Mandel,20,32,0.625,3,2.81,0.842
+10707,2021,Spring,Arts & Sciences,Biology,BIO-313,Topics in Biology,300,Prof. Rosen,26,31,0.839,3,3.44,0.919
+10708,2021,Spring,Arts & Sciences,Psychology,PSY-222,Intermediate Psychology,200,Dr. Cohen,33,34,0.971,3,3.49,0.911
+10709,2021,Spring,Arts & Sciences,Psychology,PSY-154,Foundations of Psychology,100,Prof. Schwartz,27,29,0.931,3,3.2,0.99
+10710,2021,Spring,Arts & Sciences,History,HIS-205,Applied History,200,Dr. Shapiro,19,36,0.528,3,3.11,0.861
+10711,2021,Spring,Arts & Sciences,History,HIS-249,Intermediate History,200,Prof. Schwartz,28,33,0.848,3,3.09,1.0
+10712,2021,Spring,Arts & Sciences,History,HIS-125,Principles of History,100,Dr. Bram,17,28,0.607,3,2.82,0.887
+10713,2021,Spring,Arts & Sciences,Mathematics,MAT-133,Foundations of Mathematics,100,Dr. Cohen,33,37,0.892,4,3.31,1.0
+10714,2021,Spring,Arts & Sciences,Mathematics,MAT-235,Intermediate Mathematics,200,Prof. Adler,17,29,0.586,3,3.3,0.937
+10715,2022,Fall,Arts & Sciences,Biology,BIO-136,Principles of Biology,100,Dr. Katz,12,17,0.706,3,3.39,0.885
+10716,2022,Fall,Arts & Sciences,Biology,BIO-340,Biology Theory,300,Dr. Cohen,16,18,0.889,4,3.64,0.882
+10717,2022,Fall,Arts & Sciences,Biology,BIO-308,Biology Theory,300,Prof. Stern,20,27,0.741,3,3.83,0.944
+10718,2022,Fall,Arts & Sciences,Biology,BIO-129,Introduction to Biology,100,Prof. Stern,23,28,0.821,3,3.58,0.98
+10719,2022,Fall,Arts & Sciences,Psychology,PSY-337,Psychology Theory,300,Dr. Levin,9,19,0.474,4,3.55,0.949
+10720,2022,Fall,Arts & Sciences,Psychology,PSY-344,Psychology Theory,300,Prof. Stern,22,27,0.815,3,3.19,0.924
+10721,2022,Fall,Arts & Sciences,Psychology,PSY-344,Topics in Psychology,300,Dr. Katz,22,30,0.733,3,3.7,0.971
+10722,2022,Fall,Arts & Sciences,Psychology,PSY-245,Applied Psychology,200,Dr. Shapiro,11,14,0.786,3,3.03,0.879
+10723,2022,Fall,Arts & Sciences,History,HIS-302,Advanced History,300,Prof. Mandel,23,32,0.719,3,3.75,0.861
+10724,2022,Fall,Arts & Sciences,History,HIS-227,Applied History,200,Prof. Rosen,19,27,0.704,4,3.53,0.921
+10725,2022,Fall,Arts & Sciences,Mathematics,MAT-259,Intermediate Mathematics,200,Dr. Shapiro,21,24,0.875,3,3.38,0.841
+10726,2022,Fall,Arts & Sciences,Mathematics,MAT-224,Mathematics Methods,200,Dr. Katz,12,17,0.706,3,3.56,1.0
+10727,2022,Fall,Arts & Sciences,Mathematics,MAT-316,Mathematics Theory,300,Dr. Klein,18,25,0.72,4,4.0,0.957
+10728,2022,Fall,Arts & Sciences,Mathematics,MAT-233,Intermediate Mathematics,200,Prof. Rosen,20,26,0.769,3,3.38,0.859
+10729,2022,Spring,Arts & Sciences,Biology,BIO-137,Principles of Biology,100,Dr. Halpern,11,18,0.611,4,3.62,0.905
+10730,2022,Spring,Arts & Sciences,Biology,BIO-101,Introduction to Biology,100,Dr. Shapiro,26,28,0.929,3,3.31,0.838
+10731,2022,Spring,Arts & Sciences,Psychology,PSY-406,Psychology Capstone,400,Dr. Shapiro,10,13,0.769,3,3.6,0.957
+10732,2022,Spring,Arts & Sciences,Psychology,PSY-104,Principles of Psychology,100,Dr. Levin,23,24,0.958,3,3.3,0.896
+10733,2022,Spring,Arts & Sciences,History,HIS-235,History Methods,200,Prof. Adler,21,29,0.724,3,3.36,0.908
+10734,2022,Spring,Arts & Sciences,History,HIS-423,History Research,400,Prof. Stern,26,27,0.963,4,3.65,0.961
+10735,2022,Spring,Arts & Sciences,History,HIS-236,Applied History,200,Dr. Levin,18,22,0.818,3,3.16,0.877
+10736,2022,Spring,Arts & Sciences,Mathematics,MAT-306,Topics in Mathematics,300,Dr. Levin,14,16,0.875,4,3.51,0.957
+10737,2022,Spring,Arts & Sciences,Mathematics,MAT-317,Topics in Mathematics,300,Dr. Levin,21,25,0.84,4,3.01,0.894
+10738,2023,Fall,Arts & Sciences,Biology,BIO-329,Advanced Biology,300,Prof. Goldberg,27,36,0.75,3,3.14,0.868
+10739,2023,Fall,Arts & Sciences,Biology,BIO-454,Biology Capstone,400,Dr. Levin,28,33,0.848,3,3.47,0.917
+10740,2023,Fall,Arts & Sciences,Biology,BIO-357,Topics in Biology,300,Dr. Bram,35,39,0.897,3,3.77,0.962
+10741,2023,Fall,Arts & Sciences,Biology,BIO-429,Senior Seminar in Biology,400,Dr. Weiss,37,44,0.841,3,2.98,0.889
+10742,2023,Fall,Arts & Sciences,Psychology,PSY-312,Topics in Psychology,300,Prof. Adler,17,24,0.708,3,3.32,0.914
+10743,2023,Fall,Arts & Sciences,Psychology,PSY-520,Psychology Practicum,500,Dr. Bram,31,38,0.816,3,3.83,1.0
+10744,2023,Fall,Arts & Sciences,Psychology,PSY-317,Topics in Psychology,300,Prof. Stern,28,44,0.636,4,2.84,0.927
+10745,2023,Fall,Arts & Sciences,History,HIS-144,Foundations of History,100,Prof. Rosen,41,50,0.82,4,3.12,0.817
+10746,2023,Fall,Arts & Sciences,History,HIS-315,History Theory,300,Dr. Weiss,32,50,0.64,4,3.2,0.908
+10747,2023,Fall,Arts & Sciences,History,HIS-121,Foundations of History,100,Prof. Mandel,43,49,0.878,3,3.25,0.903
+10748,2023,Fall,Arts & Sciences,History,HIS-253,Intermediate History,200,Dr. Klein,35,41,0.854,3,3.11,0.987
+10749,2023,Fall,Arts & Sciences,Mathematics,MAT-134,Foundations of Mathematics,100,Dr. Katz,38,47,0.809,3,3.75,0.911
+10750,2023,Fall,Arts & Sciences,Mathematics,MAT-203,Mathematics Methods,200,Dr. Levin,27,33,0.818,3,3.33,0.964
+10751,2023,Spring,Arts & Sciences,Biology,BIO-325,Biology Theory,300,Dr. Katz,38,43,0.884,3,3.25,0.932
+10752,2023,Spring,Arts & Sciences,Biology,BIO-135,Foundations of Biology,100,Dr. Weiss,24,35,0.686,3,2.86,0.954
+10753,2023,Spring,Arts & Sciences,Psychology,PSY-233,Psychology Methods,200,Prof. Stern,32,40,0.8,3,3.11,0.942
+10754,2023,Spring,Arts & Sciences,Psychology,PSY-153,Introduction to Psychology,100,Dr. Klein,27,27,1.0,3,3.45,0.929
+10755,2023,Spring,Arts & Sciences,History,HIS-157,Principles of History,100,Prof. Rosen,25,35,0.714,3,2.74,0.902
+10756,2023,Spring,Arts & Sciences,History,HIS-418,History Research,400,Dr. Friedman,42,45,0.933,3,2.8,0.935
+10757,2023,Spring,Arts & Sciences,Mathematics,MAT-403,Mathematics Research,400,Dr. Katz,18,26,0.692,3,3.1,0.967
+10758,2023,Spring,Arts & Sciences,Mathematics,MAT-405,Mathematics Research,400,Prof. Adler,29,36,0.806,3,4.0,0.949
+10759,2023,Spring,Arts & Sciences,Mathematics,MAT-220,Mathematics Methods,200,Dr. Shapiro,31,54,0.574,4,3.62,0.949
+10760,2024,Fall,Arts & Sciences,Biology,BIO-455,Senior Seminar in Biology,400,Prof. Stern,19,28,0.679,3,3.43,0.895
+10761,2024,Fall,Arts & Sciences,Biology,BIO-411,Biology Capstone,400,Dr. Halpern,23,27,0.852,3,3.38,0.923
+10762,2024,Fall,Arts & Sciences,Biology,BIO-327,Topics in Biology,300,Prof. Adler,11,20,0.55,4,2.91,0.888
+10763,2024,Fall,Arts & Sciences,Biology,BIO-417,Senior Seminar in Biology,400,Dr. Katz,17,27,0.63,3,3.94,0.91
+10764,2024,Fall,Arts & Sciences,Psychology,PSY-553,Psychology Thesis Studio,500,Dr. Levin,11,17,0.647,3,3.29,0.903
+10765,2024,Fall,Arts & Sciences,Psychology,PSY-129,Foundations of Psychology,100,Prof. Adler,19,24,0.792,4,3.4,0.952
+10766,2024,Fall,Arts & Sciences,Psychology,PSY-110,Foundations of Psychology,100,Dr. Cohen,15,17,0.882,3,3.05,0.876
+10767,2024,Fall,Arts & Sciences,Psychology,PSY-221,Psychology Methods,200,Dr. Cohen,17,17,1.0,3,3.35,0.905
+10768,2024,Fall,Arts & Sciences,History,HIS-220,Intermediate History,200,Dr. Halpern,20,28,0.714,3,3.16,0.864
+10769,2024,Fall,Arts & Sciences,History,HIS-248,History Methods,200,Dr. Bram,17,18,0.944,3,3.46,0.904
+10770,2024,Fall,Arts & Sciences,Mathematics,MAT-202,Applied Mathematics,200,Dr. Levin,26,33,0.788,3,3.64,0.912
+10771,2024,Fall,Arts & Sciences,Mathematics,MAT-156,Introduction to Mathematics,100,Dr. Klein,19,24,0.792,4,3.12,0.998
+10772,2024,Fall,Arts & Sciences,Mathematics,MAT-259,Intermediate Mathematics,200,Prof. Goldberg,9,10,0.9,4,3.4,0.881
+10773,2024,Fall,Arts & Sciences,Mathematics,MAT-250,Intermediate Mathematics,200,Prof. Schwartz,12,16,0.75,3,3.24,0.938
+10774,2024,Spring,Arts & Sciences,Biology,BIO-226,Applied Biology,200,Prof. Stern,11,20,0.55,3,3.36,0.877
+10775,2024,Spring,Arts & Sciences,Biology,BIO-228,Applied Biology,200,Dr. Katz,15,21,0.714,3,3.54,0.934
+10776,2024,Spring,Arts & Sciences,Biology,BIO-201,Intermediate Biology,200,Dr. Halpern,7,10,0.7,4,3.67,0.869
+10777,2024,Spring,Arts & Sciences,Psychology,PSY-139,Principles of Psychology,100,Prof. Mandel,35,35,1.0,3,2.72,0.901
+10778,2024,Spring,Arts & Sciences,Psychology,PSY-218,Psychology Methods,200,Dr. Levin,14,19,0.737,4,3.71,0.854
+10779,2024,Spring,Arts & Sciences,History,HIS-131,Principles of History,100,Prof. Stern,13,22,0.591,3,3.55,1.0
+10780,2024,Spring,Arts & Sciences,History,HIS-549,Graduate History,500,Dr. Shapiro,9,22,0.409,3,3.46,0.856
+10781,2024,Spring,Arts & Sciences,Mathematics,MAT-121,Foundations of Mathematics,100,Prof. Mandel,23,26,0.885,3,3.28,0.888
+10782,2024,Spring,Arts & Sciences,Mathematics,MAT-538,Graduate Mathematics,500,Dr. Halpern,31,38,0.816,4,3.45,0.933
+10783,2025,Fall,Arts & Sciences,Biology,BIO-323,Topics in Biology,300,Prof. Goldberg,24,29,0.828,3,3.74,0.88
+10784,2025,Fall,Arts & Sciences,Biology,BIO-408,Biology Research,400,Prof. Adler,23,29,0.793,3,3.31,0.891
+10785,2025,Fall,Arts & Sciences,Biology,BIO-115,Introduction to Biology,100,Dr. Weiss,20,21,0.952,4,3.13,0.942
+10786,2025,Fall,Arts & Sciences,Biology,BIO-246,Applied Biology,200,Dr. Halpern,19,27,0.704,3,2.89,0.993
+10787,2025,Fall,Arts & Sciences,Psychology,PSY-114,Principles of Psychology,100,Dr. Shapiro,23,33,0.697,3,3.01,0.968
+10788,2025,Fall,Arts & Sciences,Psychology,PSY-429,Psychology Research,400,Dr. Halpern,17,18,0.944,3,3.64,0.951
+10789,2025,Fall,Arts & Sciences,History,HIS-330,History Theory,300,Dr. Bram,28,28,1.0,3,3.93,0.96
+10790,2025,Fall,Arts & Sciences,History,HIS-127,Introduction to History,100,Dr. Katz,19,26,0.731,3,3.2,0.851
+10791,2025,Fall,Arts & Sciences,Mathematics,MAT-207,Applied Mathematics,200,Prof. Schwartz,21,39,0.538,3,2.78,0.943
+10792,2025,Fall,Arts & Sciences,Mathematics,MAT-218,Intermediate Mathematics,200,Prof. Adler,19,26,0.731,3,3.16,0.911
+10793,2025,Spring,Arts & Sciences,Biology,BIO-339,Biology Theory,300,Dr. Friedman,28,47,0.596,3,3.39,0.91
+10794,2025,Spring,Arts & Sciences,Biology,BIO-234,Intermediate Biology,200,Prof. Rosen,36,36,1.0,3,2.84,0.833
+10795,2025,Spring,Arts & Sciences,Biology,BIO-130,Foundations of Biology,100,Dr. Klein,22,26,0.846,3,2.75,0.939
+10796,2025,Spring,Arts & Sciences,Biology,BIO-505,Graduate Biology,500,Dr. Klein,32,32,1.0,3,3.59,0.893
+10797,2025,Spring,Arts & Sciences,Psychology,PSY-243,Intermediate Psychology,200,Dr. Halpern,21,31,0.677,4,2.86,0.865
+10798,2025,Spring,Arts & Sciences,Psychology,PSY-158,Foundations of Psychology,100,Dr. Katz,13,13,1.0,3,3.51,0.967
+10799,2025,Spring,Arts & Sciences,Psychology,PSY-217,Intermediate Psychology,200,Dr. Friedman,29,29,1.0,4,3.42,0.964
+10800,2025,Spring,Arts & Sciences,Psychology,PSY-202,Intermediate Psychology,200,Dr. Halpern,21,36,0.583,3,3.07,0.997
+10801,2025,Spring,Arts & Sciences,History,HIS-238,Applied History,200,Dr. Klein,18,26,0.692,3,3.54,0.932
+10802,2025,Spring,Arts & Sciences,History,HIS-150,Introduction to History,100,Dr. Klein,31,37,0.838,3,2.89,0.909
+10803,2025,Spring,Arts & Sciences,History,HIS-118,Foundations of History,100,Dr. Katz,22,26,0.846,3,3.13,1.0
+10804,2025,Spring,Arts & Sciences,Mathematics,MAT-101,Foundations of Mathematics,100,Prof. Adler,11,18,0.611,3,3.22,0.923
+10805,2025,Spring,Arts & Sciences,Mathematics,MAT-133,Introduction to Mathematics,100,Prof. Rosen,23,28,0.821,3,3.06,0.973
+10806,2015,Fall,Education,Elementary Ed,EDU-254,Elementary Ed Methods,200,Dr. Shapiro,25,42,0.595,3,3.0,0.915
+10807,2015,Fall,Education,Elementary Ed,EDU-508,Elementary Ed Practicum,500,Dr. Friedman,35,36,0.972,3,3.44,0.873
+10808,2015,Fall,Education,Elementary Ed,EDU-302,Advanced Elementary Ed,300,Dr. Bram,18,21,0.857,3,2.46,0.871
+10809,2015,Fall,Education,Elementary Ed,EDU-220,Elementary Ed Methods,200,Dr. Halpern,21,32,0.656,3,2.68,0.953
+10810,2015,Fall,Education,Special Ed,SPED-249,Applied Special Ed,200,Prof. Mandel,16,17,0.941,3,2.65,0.928
+10811,2015,Fall,Education,Special Ed,SPED-115,Introduction to Special Ed,100,Dr. Bram,22,25,0.88,3,3.03,0.919
+10812,2015,Fall,Education,Special Ed,SPED-438,Senior Seminar in Special Ed,400,Prof. Goldberg,10,13,0.769,3,2.51,0.924
+10813,2015,Fall,Education,Special Ed,SPED-157,Introduction to Special Ed,100,Prof. Stern,11,15,0.733,3,2.9,0.889
+10814,2015,Fall,Education,Curriculum,CUR-153,Introduction to Curriculum,100,Dr. Bram,23,30,0.767,3,3.34,0.915
+10815,2015,Fall,Education,Curriculum,CUR-258,Applied Curriculum,200,Dr. Levin,21,24,0.875,4,3.02,1.0
+10816,2015,Fall,Education,Curriculum,CUR-428,Curriculum Research,400,Prof. Adler,13,20,0.65,3,3.21,0.991
+10817,2015,Fall,Education,Curriculum,CUR-120,Principles of Curriculum,100,Prof. Stern,16,26,0.615,3,2.9,0.985
+10818,2015,Spring,Education,Elementary Ed,EDU-130,Principles of Elementary Ed,100,Dr. Levin,9,10,0.9,4,2.41,0.956
+10819,2015,Spring,Education,Elementary Ed,EDU-504,Elementary Ed Thesis Studio,500,Dr. Friedman,30,30,1.0,3,2.76,0.868
+10820,2015,Spring,Education,Elementary Ed,EDU-301,Elementary Ed Theory,300,Dr. Bram,21,24,0.875,3,3.11,1.0
+10821,2015,Spring,Education,Special Ed,SPED-131,Principles of Special Ed,100,Prof. Goldberg,14,28,0.5,4,2.85,0.95
+10822,2015,Spring,Education,Special Ed,SPED-234,Intermediate Special Ed,200,Prof. Schwartz,30,30,1.0,3,2.45,0.896
+10823,2015,Spring,Education,Curriculum,CUR-144,Principles of Curriculum,100,Prof. Stern,31,34,0.912,4,2.95,0.949
+10824,2015,Spring,Education,Curriculum,CUR-446,Curriculum Research,400,Dr. Shapiro,26,32,0.812,3,3.07,0.913
+10825,2015,Spring,Education,Curriculum,CUR-519,Curriculum Practicum,500,Prof. Rosen,38,47,0.809,3,3.16,0.932
+10826,2015,Spring,Education,Curriculum,CUR-224,Intermediate Curriculum,200,Dr. Weiss,34,34,1.0,4,3.29,0.982
+10827,2016,Fall,Education,Elementary Ed,EDU-504,Graduate Elementary Ed,500,Dr. Friedman,32,34,0.941,4,4.0,0.942
+10828,2016,Fall,Education,Elementary Ed,EDU-109,Foundations of Elementary Ed,100,Dr. Shapiro,34,45,0.756,3,3.33,0.931
+10829,2016,Fall,Education,Elementary Ed,EDU-331,Elementary Ed Theory,300,Prof. Rosen,20,31,0.645,3,3.16,0.848
+10830,2016,Fall,Education,Special Ed,SPED-539,Special Ed Practicum,500,Dr. Bram,34,34,1.0,3,3.63,0.846
+10831,2016,Fall,Education,Special Ed,SPED-345,Special Ed Theory,300,Dr. Levin,34,35,0.971,3,3.34,0.919
+10832,2016,Fall,Education,Curriculum,CUR-450,Curriculum Research,400,Dr. Shapiro,38,46,0.826,3,3.08,0.953
+10833,2016,Fall,Education,Curriculum,CUR-158,Introduction to Curriculum,100,Prof. Mandel,45,52,0.865,3,3.3,0.961
+10834,2016,Fall,Education,Curriculum,CUR-135,Foundations of Curriculum,100,Dr. Shapiro,23,52,0.442,3,3.68,0.895
+10835,2016,Spring,Education,Elementary Ed,EDU-151,Introduction to Elementary Ed,100,Prof. Schwartz,25,42,0.595,3,4.0,0.918
+10836,2016,Spring,Education,Elementary Ed,EDU-327,Elementary Ed Theory,300,Dr. Katz,32,50,0.64,4,3.43,0.965
+10837,2016,Spring,Education,Elementary Ed,EDU-346,Topics in Elementary Ed,300,Dr. Weiss,39,55,0.709,3,3.29,0.896
+10838,2016,Spring,Education,Special Ed,SPED-322,Advanced Special Ed,300,Dr. Katz,25,37,0.676,4,3.73,0.961
+10839,2016,Spring,Education,Special Ed,SPED-253,Applied Special Ed,200,Dr. Halpern,39,39,1.0,4,3.25,0.865
+10840,2016,Spring,Education,Special Ed,SPED-145,Foundations of Special Ed,100,Dr. Klein,53,66,0.803,4,3.71,0.837
+10841,2016,Spring,Education,Special Ed,SPED-241,Intermediate Special Ed,200,Prof. Schwartz,34,43,0.791,3,3.02,0.914
+10842,2016,Spring,Education,Curriculum,CUR-506,Graduate Curriculum,500,Dr. Weiss,30,37,0.811,3,3.06,0.945
+10843,2016,Spring,Education,Curriculum,CUR-131,Introduction to Curriculum,100,Dr. Cohen,25,31,0.806,3,2.95,0.924
+10844,2016,Spring,Education,Curriculum,CUR-212,Curriculum Methods,200,Dr. Friedman,40,43,0.93,3,3.65,0.974
+10845,2017,Fall,Education,Elementary Ed,EDU-540,Elementary Ed Practicum,500,Dr. Cohen,23,29,0.793,3,3.82,0.961
+10846,2017,Fall,Education,Elementary Ed,EDU-555,Elementary Ed Thesis Studio,500,Prof. Schwartz,28,31,0.903,3,3.79,0.911
+10847,2017,Fall,Education,Special Ed,SPED-125,Introduction to Special Ed,100,Dr. Bram,20,25,0.8,3,3.72,0.827
+10848,2017,Fall,Education,Special Ed,SPED-216,Intermediate Special Ed,200,Dr. Friedman,14,19,0.737,3,3.22,0.932
+10849,2017,Fall,Education,Special Ed,SPED-244,Special Ed Methods,200,Dr. Klein,23,28,0.821,3,2.96,0.843
+10850,2017,Fall,Education,Curriculum,CUR-242,Applied Curriculum,200,Dr. Katz,27,34,0.794,3,3.22,0.908
+10851,2017,Fall,Education,Curriculum,CUR-434,Curriculum Research,400,Prof. Schwartz,11,16,0.688,3,3.65,0.961
+10852,2017,Fall,Education,Curriculum,CUR-330,Curriculum Theory,300,Prof. Schwartz,24,26,0.923,4,3.2,0.903
+10853,2017,Spring,Education,Elementary Ed,EDU-152,Principles of Elementary Ed,100,Dr. Shapiro,35,36,0.972,3,2.83,0.9
+10854,2017,Spring,Education,Elementary Ed,EDU-212,Intermediate Elementary Ed,200,Dr. Halpern,16,26,0.615,3,3.75,0.903
+10855,2017,Spring,Education,Elementary Ed,EDU-258,Applied Elementary Ed,200,Dr. Friedman,12,16,0.75,4,3.61,0.897
+10856,2017,Spring,Education,Special Ed,SPED-251,Intermediate Special Ed,200,Dr. Weiss,18,24,0.75,3,2.76,0.953
+10857,2017,Spring,Education,Special Ed,SPED-514,Graduate Special Ed,500,Prof. Schwartz,32,35,0.914,3,3.1,0.891
+10858,2017,Spring,Education,Special Ed,SPED-132,Principles of Special Ed,100,Dr. Klein,18,23,0.783,3,3.45,0.949
+10859,2017,Spring,Education,Curriculum,CUR-258,Applied Curriculum,200,Dr. Bram,23,24,0.958,3,3.45,0.845
+10860,2017,Spring,Education,Curriculum,CUR-104,Introduction to Curriculum,100,Prof. Rosen,35,35,1.0,3,3.26,0.874
+10861,2017,Spring,Education,Curriculum,CUR-310,Advanced Curriculum,300,Prof. Goldberg,15,22,0.682,4,3.55,0.884
+10862,2017,Spring,Education,Curriculum,CUR-242,Curriculum Methods,200,Dr. Klein,37,37,1.0,3,3.24,0.953
+10863,2018,Fall,Education,Elementary Ed,EDU-142,Principles of Elementary Ed,100,Prof. Adler,33,33,1.0,3,2.38,0.949
+10864,2018,Fall,Education,Elementary Ed,EDU-251,Applied Elementary Ed,200,Dr. Katz,44,44,1.0,3,3.23,0.96
+10865,2018,Fall,Education,Elementary Ed,EDU-247,Elementary Ed Methods,200,Prof. Adler,36,37,0.973,3,2.67,0.889
+10866,2018,Fall,Education,Elementary Ed,EDU-229,Applied Elementary Ed,200,Prof. Rosen,43,54,0.796,3,3.36,0.903
+10867,2018,Fall,Education,Special Ed,SPED-127,Foundations of Special Ed,100,Prof. Adler,38,39,0.974,3,3.63,0.881
+10868,2018,Fall,Education,Special Ed,SPED-341,Advanced Special Ed,300,Prof. Adler,36,37,0.973,3,2.92,0.879
+10869,2018,Fall,Education,Curriculum,CUR-254,Applied Curriculum,200,Prof. Stern,28,44,0.636,3,2.96,0.946
+10870,2018,Fall,Education,Curriculum,CUR-107,Introduction to Curriculum,100,Prof. Goldberg,29,50,0.58,3,3.65,0.883
+10871,2018,Fall,Education,Curriculum,CUR-255,Applied Curriculum,200,Dr. Shapiro,36,43,0.837,4,3.13,0.912
+10872,2018,Fall,Education,Curriculum,CUR-359,Curriculum Theory,300,Prof. Schwartz,23,26,0.885,3,3.43,0.959
+10873,2018,Spring,Education,Elementary Ed,EDU-550,Elementary Ed Practicum,500,Dr. Halpern,31,45,0.689,3,3.32,0.873
+10874,2018,Spring,Education,Elementary Ed,EDU-306,Topics in Elementary Ed,300,Dr. Cohen,46,46,1.0,3,3.03,0.938
+10875,2018,Spring,Education,Elementary Ed,EDU-346,Elementary Ed Theory,300,Prof. Rosen,35,44,0.795,3,3.27,0.981
+10876,2018,Spring,Education,Elementary Ed,EDU-524,Elementary Ed Practicum,500,Dr. Friedman,39,50,0.78,3,3.06,0.885
+10877,2018,Spring,Education,Special Ed,SPED-226,Intermediate Special Ed,200,Prof. Mandel,21,28,0.75,3,3.58,0.95
+10878,2018,Spring,Education,Special Ed,SPED-222,Special Ed Methods,200,Prof. Mandel,25,30,0.833,4,3.17,0.911
+10879,2018,Spring,Education,Special Ed,SPED-245,Special Ed Methods,200,Dr. Levin,50,50,1.0,4,3.67,0.872
+10880,2018,Spring,Education,Curriculum,CUR-307,Curriculum Theory,300,Prof. Stern,37,37,1.0,4,3.25,0.926
+10881,2018,Spring,Education,Curriculum,CUR-106,Foundations of Curriculum,100,Dr. Halpern,25,29,0.862,3,3.07,0.905
+10882,2018,Spring,Education,Curriculum,CUR-231,Applied Curriculum,200,Dr. Halpern,32,53,0.604,3,3.34,0.875
+10883,2019,Fall,Education,Elementary Ed,EDU-236,Intermediate Elementary Ed,200,Dr. Bram,46,51,0.902,3,3.42,0.912
+10884,2019,Fall,Education,Elementary Ed,EDU-417,Senior Seminar in Elementary Ed,400,Prof. Adler,43,44,0.977,3,3.49,0.939
+10885,2019,Fall,Education,Special Ed,SPED-536,Graduate Special Ed,500,Dr. Shapiro,31,40,0.775,4,3.29,0.977
+10886,2019,Fall,Education,Special Ed,SPED-125,Foundations of Special Ed,100,Prof. Stern,34,35,0.971,3,2.68,0.771
+10887,2019,Fall,Education,Curriculum,CUR-132,Principles of Curriculum,100,Dr. Friedman,32,50,0.64,3,3.15,0.945
+10888,2019,Fall,Education,Curriculum,CUR-110,Introduction to Curriculum,100,Prof. Adler,26,31,0.839,3,3.31,0.989
+10889,2019,Spring,Education,Elementary Ed,EDU-131,Principles of Elementary Ed,100,Dr. Cohen,26,30,0.867,3,2.97,0.946
+10890,2019,Spring,Education,Elementary Ed,EDU-120,Foundations of Elementary Ed,100,Dr. Shapiro,19,37,0.514,3,3.12,0.88
+10891,2019,Spring,Education,Elementary Ed,EDU-237,Elementary Ed Methods,200,Dr. Weiss,24,41,0.585,4,3.45,0.856
+10892,2019,Spring,Education,Elementary Ed,EDU-509,Elementary Ed Thesis Studio,500,Dr. Bram,32,55,0.582,3,3.13,0.89
+10893,2019,Spring,Education,Special Ed,SPED-116,Principles of Special Ed,100,Prof. Rosen,23,41,0.561,4,3.28,0.932
+10894,2019,Spring,Education,Special Ed,SPED-445,Special Ed Research,400,Dr. Halpern,43,45,0.956,4,3.18,0.952
+10895,2019,Spring,Education,Special Ed,SPED-148,Foundations of Special Ed,100,Dr. Halpern,34,38,0.895,3,3.12,0.911
+10896,2019,Spring,Education,Special Ed,SPED-524,Special Ed Thesis Studio,500,Dr. Klein,18,34,0.529,3,3.31,0.891
+10897,2019,Spring,Education,Curriculum,CUR-456,Senior Seminar in Curriculum,400,Prof. Adler,25,43,0.581,3,3.52,0.896
+10898,2019,Spring,Education,Curriculum,CUR-141,Principles of Curriculum,100,Dr. Cohen,32,39,0.821,3,3.68,0.931
+10899,2019,Spring,Education,Curriculum,CUR-511,Curriculum Thesis Studio,500,Dr. Levin,29,30,0.967,4,2.92,0.878
+10900,2020,Fall,Education,Elementary Ed,EDU-103,Foundations of Elementary Ed,100,Dr. Shapiro,10,12,0.833,3,2.99,0.931
+10901,2020,Fall,Education,Elementary Ed,EDU-154,Principles of Elementary Ed,100,Prof. Mandel,9,11,0.818,3,2.71,0.943
+10902,2020,Fall,Education,Elementary Ed,EDU-211,Applied Elementary Ed,200,Dr. Shapiro,18,20,0.9,3,2.87,1.0
+10903,2020,Fall,Education,Special Ed,SPED-133,Foundations of Special Ed,100,Dr. Halpern,13,18,0.722,4,3.09,0.917
+10904,2020,Fall,Education,Special Ed,SPED-141,Introduction to Special Ed,100,Prof. Goldberg,13,18,0.722,3,3.14,0.903
+10905,2020,Fall,Education,Special Ed,SPED-211,Intermediate Special Ed,200,Dr. Levin,19,19,1.0,4,2.81,0.939
+10906,2020,Fall,Education,Curriculum,CUR-458,Senior Seminar in Curriculum,400,Prof. Schwartz,16,21,0.762,3,3.1,0.981
+10907,2020,Fall,Education,Curriculum,CUR-150,Foundations of Curriculum,100,Dr. Friedman,13,16,0.812,4,2.82,0.979
+10908,2020,Fall,Education,Curriculum,CUR-141,Principles of Curriculum,100,Prof. Stern,9,11,0.818,3,2.53,0.939
+10909,2020,Fall,Education,Curriculum,CUR-140,Introduction to Curriculum,100,Prof. Adler,24,37,0.649,4,2.9,0.884
+10910,2020,Spring,Education,Elementary Ed,EDU-246,Elementary Ed Methods,200,Prof. Adler,7,10,0.7,3,3.09,0.995
+10911,2020,Spring,Education,Elementary Ed,EDU-254,Elementary Ed Methods,200,Dr. Weiss,20,30,0.667,4,2.75,0.933
+10912,2020,Spring,Education,Elementary Ed,EDU-226,Applied Elementary Ed,200,Dr. Shapiro,6,10,0.6,4,2.69,0.873
+10913,2020,Spring,Education,Special Ed,SPED-253,Special Ed Methods,200,Dr. Levin,5,10,0.5,3,2.82,0.885
+10914,2020,Spring,Education,Special Ed,SPED-133,Principles of Special Ed,100,Dr. Cohen,15,16,0.938,3,2.89,0.959
+10915,2020,Spring,Education,Special Ed,SPED-220,Special Ed Methods,200,Dr. Katz,11,26,0.423,3,2.85,0.909
+10916,2020,Spring,Education,Curriculum,CUR-340,Topics in Curriculum,300,Dr. Bram,11,16,0.688,3,3.31,0.816
+10917,2020,Spring,Education,Curriculum,CUR-227,Intermediate Curriculum,200,Dr. Shapiro,21,21,1.0,3,3.17,1.0
+10918,2020,Spring,Education,Curriculum,CUR-131,Introduction to Curriculum,100,Dr. Shapiro,15,15,1.0,3,2.96,0.969
+10919,2021,Fall,Education,Elementary Ed,EDU-329,Elementary Ed Theory,300,Dr. Bram,11,28,0.393,4,3.33,0.932
+10920,2021,Fall,Education,Elementary Ed,EDU-323,Elementary Ed Theory,300,Dr. Friedman,16,23,0.696,3,3.58,0.949
+10921,2021,Fall,Education,Elementary Ed,EDU-257,Applied Elementary Ed,200,Dr. Friedman,30,30,1.0,3,3.02,1.0
+10922,2021,Fall,Education,Special Ed,SPED-326,Special Ed Theory,300,Dr. Katz,20,24,0.833,3,3.46,1.0
+10923,2021,Fall,Education,Special Ed,SPED-156,Principles of Special Ed,100,Dr. Halpern,24,31,0.774,3,3.38,0.9
+10924,2021,Fall,Education,Special Ed,SPED-226,Applied Special Ed,200,Prof. Schwartz,19,21,0.905,3,3.65,0.994
+10925,2021,Fall,Education,Curriculum,CUR-257,Curriculum Methods,200,Prof. Adler,21,27,0.778,3,3.44,1.0
+10926,2021,Fall,Education,Curriculum,CUR-152,Principles of Curriculum,100,Dr. Friedman,29,43,0.674,3,3.3,0.921
+10927,2021,Fall,Education,Curriculum,CUR-113,Introduction to Curriculum,100,Dr. Friedman,25,33,0.758,4,3.23,0.955
+10928,2021,Fall,Education,Curriculum,CUR-118,Principles of Curriculum,100,Dr. Cohen,21,25,0.84,4,2.99,0.872
+10929,2021,Spring,Education,Elementary Ed,EDU-151,Principles of Elementary Ed,100,Dr. Klein,32,40,0.8,3,3.31,0.907
+10930,2021,Spring,Education,Elementary Ed,EDU-320,Elementary Ed Theory,300,Dr. Bram,34,34,1.0,4,3.33,1.0
+10931,2021,Spring,Education,Special Ed,SPED-407,Special Ed Capstone,400,Dr. Klein,27,36,0.75,3,3.16,0.882
+10932,2021,Spring,Education,Special Ed,SPED-324,Advanced Special Ed,300,Dr. Friedman,29,29,1.0,3,3.14,0.928
+10933,2021,Spring,Education,Curriculum,CUR-103,Principles of Curriculum,100,Dr. Levin,30,38,0.789,4,2.9,0.889
+10934,2021,Spring,Education,Curriculum,CUR-303,Topics in Curriculum,300,Dr. Cohen,27,40,0.675,3,3.91,0.916
+10935,2021,Spring,Education,Curriculum,CUR-244,Curriculum Methods,200,Dr. Halpern,20,25,0.8,3,3.43,0.869
+10936,2021,Spring,Education,Curriculum,CUR-344,Curriculum Theory,300,Prof. Adler,33,36,0.917,3,3.09,0.993
+10937,2022,Fall,Education,Elementary Ed,EDU-312,Topics in Elementary Ed,300,Dr. Levin,45,50,0.9,3,3.6,0.968
+10938,2022,Fall,Education,Elementary Ed,EDU-116,Foundations of Elementary Ed,100,Prof. Adler,40,42,0.952,3,3.64,0.855
+10939,2022,Fall,Education,Elementary Ed,EDU-148,Introduction to Elementary Ed,100,Prof. Adler,40,45,0.889,3,2.84,0.875
+10940,2022,Fall,Education,Elementary Ed,EDU-259,Intermediate Elementary Ed,200,Dr. Halpern,31,46,0.674,3,3.83,0.922
+10941,2022,Fall,Education,Special Ed,SPED-340,Advanced Special Ed,300,Dr. Weiss,40,45,0.889,3,3.43,0.938
+10942,2022,Fall,Education,Special Ed,SPED-340,Topics in Special Ed,300,Prof. Adler,45,48,0.938,3,3.11,0.882
+10943,2022,Fall,Education,Curriculum,CUR-306,Advanced Curriculum,300,Dr. Klein,34,48,0.708,3,3.56,0.826
+10944,2022,Fall,Education,Curriculum,CUR-135,Principles of Curriculum,100,Dr. Friedman,29,44,0.659,3,3.19,0.955
+10945,2022,Spring,Education,Elementary Ed,EDU-241,Intermediate Elementary Ed,200,Dr. Shapiro,55,55,1.0,3,3.29,0.893
+10946,2022,Spring,Education,Elementary Ed,EDU-213,Applied Elementary Ed,200,Prof. Rosen,49,49,1.0,4,3.35,0.971
+10947,2022,Spring,Education,Special Ed,SPED-219,Special Ed Methods,200,Prof. Mandel,57,57,1.0,3,3.57,0.981
+10948,2022,Spring,Education,Special Ed,SPED-136,Introduction to Special Ed,100,Dr. Halpern,51,55,0.927,3,3.17,0.899
+10949,2022,Spring,Education,Curriculum,CUR-550,Curriculum Practicum,500,Dr. Levin,36,43,0.837,3,3.56,0.906
+10950,2022,Spring,Education,Curriculum,CUR-237,Curriculum Methods,200,Prof. Adler,29,46,0.63,3,3.07,0.916
+10951,2022,Spring,Education,Curriculum,CUR-543,Curriculum Thesis Studio,500,Prof. Goldberg,43,55,0.782,3,3.84,0.891
+10952,2022,Spring,Education,Curriculum,CUR-122,Foundations of Curriculum,100,Dr. Weiss,22,49,0.449,3,3.77,0.892
+10953,2023,Fall,Education,Elementary Ed,EDU-121,Introduction to Elementary Ed,100,Dr. Shapiro,42,47,0.894,3,2.99,0.947
+10954,2023,Fall,Education,Elementary Ed,EDU-139,Principles of Elementary Ed,100,Prof. Stern,37,46,0.804,3,3.08,0.943
+10955,2023,Fall,Education,Special Ed,SPED-321,Topics in Special Ed,300,Dr. Levin,28,45,0.622,3,3.24,0.882
+10956,2023,Fall,Education,Special Ed,SPED-159,Principles of Special Ed,100,Dr. Levin,48,58,0.828,3,3.12,0.859
+10957,2023,Fall,Education,Special Ed,SPED-214,Applied Special Ed,200,Dr. Halpern,35,49,0.714,3,3.57,0.945
+10958,2023,Fall,Education,Special Ed,SPED-540,Special Ed Thesis Studio,500,Prof. Schwartz,34,36,0.944,3,3.63,0.973
+10959,2023,Fall,Education,Curriculum,CUR-337,Curriculum Theory,300,Dr. Cohen,31,39,0.795,3,3.4,0.883
+10960,2023,Fall,Education,Curriculum,CUR-150,Introduction to Curriculum,100,Dr. Weiss,38,43,0.884,3,3.31,1.0
+10961,2023,Fall,Education,Curriculum,CUR-253,Curriculum Methods,200,Dr. Cohen,36,47,0.766,3,3.35,1.0
+10962,2023,Fall,Education,Curriculum,CUR-435,Curriculum Capstone,400,Prof. Stern,40,48,0.833,3,2.88,0.984
+10963,2023,Spring,Education,Elementary Ed,EDU-309,Elementary Ed Theory,300,Dr. Weiss,32,44,0.727,3,3.83,0.932
+10964,2023,Spring,Education,Elementary Ed,EDU-106,Introduction to Elementary Ed,100,Dr. Cohen,29,47,0.617,3,3.12,0.908
+10965,2023,Spring,Education,Elementary Ed,EDU-559,Graduate Elementary Ed,500,Prof. Rosen,44,61,0.721,3,3.32,0.932
+10966,2023,Spring,Education,Special Ed,SPED-212,Intermediate Special Ed,200,Dr. Bram,38,54,0.704,3,2.75,0.847
+10967,2023,Spring,Education,Special Ed,SPED-325,Advanced Special Ed,300,Dr. Shapiro,55,55,1.0,3,3.45,0.793
+10968,2023,Spring,Education,Special Ed,SPED-347,Advanced Special Ed,300,Dr. Shapiro,31,37,0.838,3,2.96,0.919
+10969,2023,Spring,Education,Curriculum,CUR-415,Curriculum Capstone,400,Dr. Halpern,36,36,1.0,3,3.11,0.933
+10970,2023,Spring,Education,Curriculum,CUR-443,Curriculum Capstone,400,Prof. Adler,41,44,0.932,3,3.57,0.911
+10971,2023,Spring,Education,Curriculum,CUR-304,Curriculum Theory,300,Prof. Adler,26,44,0.591,3,3.08,0.962
+10972,2023,Spring,Education,Curriculum,CUR-126,Foundations of Curriculum,100,Prof. Schwartz,56,56,1.0,3,3.16,0.909
+10973,2024,Fall,Education,Elementary Ed,EDU-208,Elementary Ed Methods,200,Dr. Cohen,24,29,0.828,3,3.11,0.864
+10974,2024,Fall,Education,Elementary Ed,EDU-310,Advanced Elementary Ed,300,Prof. Adler,27,27,1.0,3,3.45,0.848
+10975,2024,Fall,Education,Special Ed,SPED-244,Special Ed Methods,200,Dr. Bram,22,33,0.667,3,3.12,0.887
+10976,2024,Fall,Education,Special Ed,SPED-509,Special Ed Thesis Studio,500,Dr. Halpern,28,34,0.824,3,4.0,1.0
+10977,2024,Fall,Education,Curriculum,CUR-213,Intermediate Curriculum,200,Dr. Shapiro,23,28,0.821,3,3.67,0.856
+10978,2024,Fall,Education,Curriculum,CUR-110,Principles of Curriculum,100,Prof. Adler,42,42,1.0,3,3.02,0.874
+10979,2024,Fall,Education,Curriculum,CUR-258,Applied Curriculum,200,Dr. Levin,31,40,0.775,4,3.6,0.951
+10980,2024,Spring,Education,Elementary Ed,EDU-229,Intermediate Elementary Ed,200,Dr. Klein,40,48,0.833,3,3.22,0.913
+10981,2024,Spring,Education,Elementary Ed,EDU-201,Applied Elementary Ed,200,Prof. Rosen,26,30,0.867,3,2.78,0.925
+10982,2024,Spring,Education,Special Ed,SPED-218,Applied Special Ed,200,Dr. Friedman,24,29,0.828,3,3.22,0.846
+10983,2024,Spring,Education,Special Ed,SPED-116,Foundations of Special Ed,100,Prof. Adler,44,44,1.0,4,3.13,0.893
+10984,2024,Spring,Education,Special Ed,SPED-253,Applied Special Ed,200,Prof. Adler,21,43,0.488,4,3.17,0.85
+10985,2024,Spring,Education,Special Ed,SPED-104,Introduction to Special Ed,100,Dr. Klein,28,34,0.824,3,2.78,0.877
+10986,2024,Spring,Education,Curriculum,CUR-552,Graduate Curriculum,500,Dr. Levin,17,30,0.567,3,3.31,0.875
+10987,2024,Spring,Education,Curriculum,CUR-157,Foundations of Curriculum,100,Dr. Bram,28,32,0.875,3,3.18,0.951
+10988,2024,Spring,Education,Curriculum,CUR-210,Applied Curriculum,200,Dr. Shapiro,43,48,0.896,3,3.42,0.847
+10989,2025,Fall,Education,Elementary Ed,EDU-345,Topics in Elementary Ed,300,Dr. Levin,18,22,0.818,3,3.41,0.934
+10990,2025,Fall,Education,Elementary Ed,EDU-255,Applied Elementary Ed,200,Prof. Schwartz,33,33,1.0,3,3.23,0.913
+10991,2025,Fall,Education,Special Ed,SPED-247,Special Ed Methods,200,Prof. Stern,24,43,0.558,3,3.22,0.964
+10992,2025,Fall,Education,Special Ed,SPED-105,Foundations of Special Ed,100,Prof. Goldberg,43,43,1.0,3,2.99,0.949
+10993,2025,Fall,Education,Special Ed,SPED-113,Principles of Special Ed,100,Dr. Levin,11,14,0.786,3,3.02,0.97
+10994,2025,Fall,Education,Curriculum,CUR-449,Senior Seminar in Curriculum,400,Prof. Schwartz,13,16,0.812,3,3.61,0.898
+10995,2025,Fall,Education,Curriculum,CUR-239,Applied Curriculum,200,Prof. Stern,19,40,0.475,3,3.44,0.933
+10996,2025,Fall,Education,Curriculum,CUR-426,Senior Seminar in Curriculum,400,Dr. Levin,16,22,0.727,4,3.57,0.885
+10997,2025,Fall,Education,Curriculum,CUR-107,Foundations of Curriculum,100,Prof. Adler,27,31,0.871,4,3.34,0.895
+10998,2025,Spring,Education,Elementary Ed,EDU-324,Elementary Ed Theory,300,Dr. Katz,20,29,0.69,3,3.65,0.907
+10999,2025,Spring,Education,Elementary Ed,EDU-140,Principles of Elementary Ed,100,Prof. Goldberg,18,24,0.75,3,3.37,0.931
+11000,2025,Spring,Education,Elementary Ed,EDU-159,Introduction to Elementary Ed,100,Prof. Stern,18,23,0.783,3,3.08,0.884
+11001,2025,Spring,Education,Elementary Ed,EDU-523,Elementary Ed Practicum,500,Prof. Mandel,38,46,0.826,3,3.26,0.912
+11002,2025,Spring,Education,Special Ed,SPED-559,Graduate Special Ed,500,Dr. Levin,31,39,0.795,3,3.18,0.91
+11003,2025,Spring,Education,Special Ed,SPED-222,Applied Special Ed,200,Prof. Adler,12,19,0.632,3,3.05,0.924
+11004,2025,Spring,Education,Special Ed,SPED-141,Introduction to Special Ed,100,Dr. Bram,22,41,0.537,3,3.71,0.925
+11005,2025,Spring,Education,Special Ed,SPED-252,Special Ed Methods,200,Dr. Halpern,10,14,0.714,3,3.16,0.853
+11006,2025,Spring,Education,Curriculum,CUR-357,Curriculum Theory,300,Dr. Bram,24,29,0.828,3,3.67,0.832
+11007,2025,Spring,Education,Curriculum,CUR-101,Principles of Curriculum,100,Prof. Rosen,26,43,0.605,3,3.16,1.0
+11008,2015,Fall,Nursing,Nursing BSN,NUR-147,Introduction to Nursing BSN,100,Dr. Shapiro,30,44,0.682,3,3.31,0.915
+11009,2015,Fall,Nursing,Nursing BSN,NUR-430,Senior Seminar in Nursing BSN,400,Prof. Adler,41,53,0.774,3,3.62,0.945
+11010,2015,Fall,Nursing,Nursing BSN,NUR-508,Graduate Nursing BSN,500,Dr. Levin,33,36,0.917,3,3.1,0.96
+11011,2015,Fall,Nursing,Public Health,PUB-528,Graduate Public Health,500,Prof. Adler,37,44,0.841,4,2.74,0.942
+11012,2015,Fall,Nursing,Public Health,PUB-559,Graduate Public Health,500,Dr. Shapiro,35,46,0.761,4,3.38,1.0
+11013,2015,Fall,Nursing,Public Health,PUB-103,Introduction to Public Health,100,Dr. Klein,41,41,1.0,3,3.13,0.853
+11014,2015,Spring,Nursing,Nursing BSN,NUR-147,Principles of Nursing BSN,100,Prof. Mandel,38,56,0.679,3,2.83,0.967
+11015,2015,Spring,Nursing,Nursing BSN,NUR-415,Senior Seminar in Nursing BSN,400,Prof. Adler,22,27,0.815,3,2.92,0.828
+11016,2015,Spring,Nursing,Public Health,PUB-442,Public Health Research,400,Dr. Katz,33,45,0.733,3,2.97,0.931
+11017,2015,Spring,Nursing,Public Health,PUB-226,Intermediate Public Health,200,Dr. Klein,51,54,0.944,4,3.11,0.89
+11018,2015,Spring,Nursing,Public Health,PUB-339,Topics in Public Health,300,Prof. Rosen,45,45,1.0,3,3.09,0.804
+11019,2016,Fall,Nursing,Nursing BSN,NUR-213,Applied Nursing BSN,200,Prof. Goldberg,30,36,0.833,3,2.46,0.907
+11020,2016,Fall,Nursing,Nursing BSN,NUR-444,Nursing BSN Capstone,400,Prof. Mandel,26,50,0.52,3,3.14,1.0
+11021,2016,Fall,Nursing,Nursing BSN,NUR-513,Graduate Nursing BSN,500,Dr. Klein,28,43,0.651,3,3.35,0.984
+11022,2016,Fall,Nursing,Public Health,PUB-427,Public Health Capstone,400,Dr. Klein,25,44,0.568,4,3.36,0.886
+11023,2016,Fall,Nursing,Public Health,PUB-203,Public Health Methods,200,Dr. Levin,44,50,0.88,4,3.34,0.953
+11024,2016,Spring,Nursing,Nursing BSN,NUR-319,Nursing BSN Theory,300,Dr. Shapiro,25,34,0.735,3,2.64,0.937
+11025,2016,Spring,Nursing,Nursing BSN,NUR-325,Advanced Nursing BSN,300,Prof. Mandel,44,51,0.863,3,3.19,0.855
+11026,2016,Spring,Nursing,Nursing BSN,NUR-337,Topics in Nursing BSN,300,Dr. Halpern,36,44,0.818,3,3.16,0.923
+11027,2016,Spring,Nursing,Nursing BSN,NUR-455,Senior Seminar in Nursing BSN,400,Prof. Mandel,22,39,0.564,3,3.49,0.972
+11028,2016,Spring,Nursing,Public Health,PUB-250,Intermediate Public Health,200,Dr. Klein,24,45,0.533,3,3.12,0.985
+11029,2016,Spring,Nursing,Public Health,PUB-151,Introduction to Public Health,100,Dr. Weiss,39,49,0.796,3,2.69,0.966
+11030,2017,Fall,Nursing,Nursing BSN,NUR-104,Introduction to Nursing BSN,100,Dr. Friedman,25,34,0.735,4,3.48,0.97
+11031,2017,Fall,Nursing,Nursing BSN,NUR-224,Nursing BSN Methods,200,Dr. Klein,28,36,0.778,3,3.46,0.956
+11032,2017,Fall,Nursing,Public Health,PUB-116,Principles of Public Health,100,Prof. Schwartz,17,29,0.586,3,3.37,0.925
+11033,2017,Fall,Nursing,Public Health,PUB-329,Topics in Public Health,300,Dr. Friedman,46,49,0.939,3,3.09,0.945
+11034,2017,Fall,Nursing,Public Health,PUB-528,Graduate Public Health,500,Dr. Shapiro,34,35,0.971,3,3.24,0.88
+11035,2017,Fall,Nursing,Public Health,PUB-332,Public Health Theory,300,Prof. Schwartz,28,34,0.824,4,3.06,0.993
+11036,2017,Spring,Nursing,Nursing BSN,NUR-141,Principles of Nursing BSN,100,Dr. Katz,31,45,0.689,4,3.44,0.946
+11037,2017,Spring,Nursing,Nursing BSN,NUR-210,Intermediate Nursing BSN,200,Dr. Cohen,32,39,0.821,3,2.79,0.992
+11038,2017,Spring,Nursing,Nursing BSN,NUR-214,Applied Nursing BSN,200,Prof. Rosen,29,32,0.906,3,3.54,0.822
+11039,2017,Spring,Nursing,Nursing BSN,NUR-136,Principles of Nursing BSN,100,Dr. Weiss,36,52,0.692,4,3.66,0.913
+11040,2017,Spring,Nursing,Public Health,PUB-132,Foundations of Public Health,100,Dr. Levin,41,49,0.837,3,3.25,0.952
+11041,2017,Spring,Nursing,Public Health,PUB-119,Foundations of Public Health,100,Dr. Halpern,38,42,0.905,3,2.58,0.955
+11042,2018,Fall,Nursing,Nursing BSN,NUR-337,Advanced Nursing BSN,300,Dr. Levin,43,43,1.0,3,2.78,0.919
+11043,2018,Fall,Nursing,Nursing BSN,NUR-107,Principles of Nursing BSN,100,Dr. Katz,43,43,1.0,4,3.34,0.876
+11044,2018,Fall,Nursing,Nursing BSN,NUR-248,Applied Nursing BSN,200,Dr. Halpern,19,19,1.0,4,3.49,0.793
+11045,2018,Fall,Nursing,Nursing BSN,NUR-217,Intermediate Nursing BSN,200,Dr. Klein,34,43,0.791,3,3.63,0.923
+11046,2018,Fall,Nursing,Public Health,PUB-458,Public Health Capstone,400,Prof. Mandel,31,39,0.795,3,3.73,0.887
+11047,2018,Fall,Nursing,Public Health,PUB-208,Intermediate Public Health,200,Dr. Halpern,24,31,0.774,3,3.72,0.913
+11048,2018,Spring,Nursing,Nursing BSN,NUR-144,Principles of Nursing BSN,100,Prof. Schwartz,20,30,0.667,4,3.7,0.891
+11049,2018,Spring,Nursing,Nursing BSN,NUR-452,Senior Seminar in Nursing BSN,400,Prof. Goldberg,34,39,0.872,3,3.45,0.952
+11050,2018,Spring,Nursing,Nursing BSN,NUR-259,Intermediate Nursing BSN,200,Dr. Halpern,19,33,0.576,3,2.75,0.935
+11051,2018,Spring,Nursing,Public Health,PUB-158,Foundations of Public Health,100,Prof. Rosen,27,38,0.711,4,2.81,0.935
+11052,2018,Spring,Nursing,Public Health,PUB-415,Public Health Capstone,400,Dr. Levin,25,29,0.862,3,3.45,0.854
+11053,2019,Fall,Nursing,Nursing BSN,NUR-149,Principles of Nursing BSN,100,Prof. Goldberg,18,26,0.692,4,3.4,1.0
+11054,2019,Fall,Nursing,Nursing BSN,NUR-359,Nursing BSN Theory,300,Prof. Adler,37,37,1.0,3,3.77,0.947
+11055,2019,Fall,Nursing,Nursing BSN,NUR-128,Principles of Nursing BSN,100,Dr. Klein,25,32,0.781,3,2.59,0.984
+11056,2019,Fall,Nursing,Public Health,PUB-226,Public Health Methods,200,Prof. Schwartz,32,39,0.821,3,2.89,0.921
+11057,2019,Fall,Nursing,Public Health,PUB-458,Senior Seminar in Public Health,400,Prof. Rosen,32,43,0.744,4,3.13,0.952
+11058,2019,Fall,Nursing,Public Health,PUB-319,Advanced Public Health,300,Prof. Goldberg,22,30,0.733,3,2.93,0.967
+11059,2019,Fall,Nursing,Public Health,PUB-411,Public Health Research,400,Dr. Klein,22,29,0.759,3,3.09,0.893
+11060,2019,Spring,Nursing,Nursing BSN,NUR-133,Principles of Nursing BSN,100,Dr. Bram,17,28,0.607,4,3.11,0.849
+11061,2019,Spring,Nursing,Nursing BSN,NUR-207,Applied Nursing BSN,200,Dr. Klein,17,27,0.63,3,3.6,1.0
+11062,2019,Spring,Nursing,Nursing BSN,NUR-228,Intermediate Nursing BSN,200,Dr. Friedman,14,17,0.824,3,3.17,0.953
+11063,2019,Spring,Nursing,Public Health,PUB-323,Topics in Public Health,300,Dr. Katz,28,30,0.933,3,3.54,0.964
+11064,2019,Spring,Nursing,Public Health,PUB-234,Public Health Methods,200,Dr. Katz,17,22,0.773,4,3.98,0.9
+11065,2020,Fall,Nursing,Nursing BSN,NUR-122,Principles of Nursing BSN,100,Dr. Weiss,30,35,0.857,3,2.93,1.0
+11066,2020,Fall,Nursing,Nursing BSN,NUR-339,Advanced Nursing BSN,300,Dr. Katz,34,52,0.654,4,3.43,0.993
+11067,2020,Fall,Nursing,Public Health,PUB-131,Introduction to Public Health,100,Dr. Shapiro,24,30,0.8,4,2.86,0.862
+11068,2020,Fall,Nursing,Public Health,PUB-241,Intermediate Public Health,200,Dr. Cohen,26,32,0.812,3,2.82,0.985
+11069,2020,Fall,Nursing,Public Health,PUB-449,Senior Seminar in Public Health,400,Prof. Mandel,34,43,0.791,3,2.98,0.912
+11070,2020,Spring,Nursing,Nursing BSN,NUR-450,Senior Seminar in Nursing BSN,400,Dr. Friedman,28,36,0.778,3,3.16,1.0
+11071,2020,Spring,Nursing,Nursing BSN,NUR-556,Graduate Nursing BSN,500,Dr. Bram,15,29,0.517,3,2.85,0.926
+11072,2020,Spring,Nursing,Nursing BSN,NUR-112,Principles of Nursing BSN,100,Dr. Shapiro,13,31,0.419,3,2.9,0.96
+11073,2020,Spring,Nursing,Public Health,PUB-144,Introduction to Public Health,100,Prof. Mandel,35,45,0.778,3,3.14,0.916
+11074,2020,Spring,Nursing,Public Health,PUB-138,Foundations of Public Health,100,Dr. Bram,25,28,0.893,3,2.86,0.74
+11075,2020,Spring,Nursing,Public Health,PUB-105,Foundations of Public Health,100,Prof. Stern,18,37,0.486,3,3.54,0.91
+11076,2021,Fall,Nursing,Nursing BSN,NUR-354,Nursing BSN Theory,300,Dr. Bram,31,47,0.66,3,3.81,0.962
+11077,2021,Fall,Nursing,Nursing BSN,NUR-133,Introduction to Nursing BSN,100,Dr. Weiss,51,57,0.895,3,3.06,0.866
+11078,2021,Fall,Nursing,Nursing BSN,NUR-115,Foundations of Nursing BSN,100,Prof. Rosen,46,56,0.821,3,3.16,0.862
+11079,2021,Fall,Nursing,Nursing BSN,NUR-238,Nursing BSN Methods,200,Prof. Adler,42,58,0.724,3,2.99,1.0
+11080,2021,Fall,Nursing,Public Health,PUB-104,Foundations of Public Health,100,Dr. Friedman,37,51,0.725,4,3.17,0.906
+11081,2021,Fall,Nursing,Public Health,PUB-207,Public Health Methods,200,Prof. Goldberg,41,53,0.774,3,2.73,0.951
+11082,2021,Fall,Nursing,Public Health,PUB-116,Introduction to Public Health,100,Prof. Goldberg,35,42,0.833,3,3.32,0.971
+11083,2021,Spring,Nursing,Nursing BSN,NUR-157,Principles of Nursing BSN,100,Prof. Adler,45,48,0.938,3,3.16,0.856
+11084,2021,Spring,Nursing,Nursing BSN,NUR-225,Applied Nursing BSN,200,Prof. Adler,38,47,0.809,3,3.12,0.951
+11085,2021,Spring,Nursing,Nursing BSN,NUR-203,Nursing BSN Methods,200,Dr. Shapiro,31,45,0.689,4,3.17,0.927
+11086,2021,Spring,Nursing,Public Health,PUB-248,Intermediate Public Health,200,Prof. Schwartz,33,41,0.805,3,3.2,0.917
+11087,2021,Spring,Nursing,Public Health,PUB-405,Public Health Capstone,400,Prof. Adler,38,46,0.826,3,3.35,0.924
+11088,2021,Spring,Nursing,Public Health,PUB-218,Intermediate Public Health,200,Prof. Stern,27,40,0.675,4,3.04,0.856
+11089,2021,Spring,Nursing,Public Health,PUB-147,Foundations of Public Health,100,Prof. Goldberg,25,45,0.556,3,3.24,0.84
+11090,2022,Fall,Nursing,Nursing BSN,NUR-235,Nursing BSN Methods,200,Dr. Levin,16,22,0.727,3,3.17,0.896
+11091,2022,Fall,Nursing,Nursing BSN,NUR-350,Nursing BSN Theory,300,Prof. Adler,20,34,0.588,4,3.35,0.867
+11092,2022,Fall,Nursing,Nursing BSN,NUR-136,Introduction to Nursing BSN,100,Prof. Goldberg,30,35,0.857,3,2.72,0.957
+11093,2022,Fall,Nursing,Public Health,PUB-135,Foundations of Public Health,100,Dr. Shapiro,29,29,1.0,3,3.6,0.926
+11094,2022,Fall,Nursing,Public Health,PUB-339,Topics in Public Health,300,Prof. Adler,30,33,0.909,3,2.87,0.952
+11095,2022,Spring,Nursing,Nursing BSN,NUR-317,Nursing BSN Theory,300,Dr. Shapiro,27,31,0.871,3,3.66,0.917
+11096,2022,Spring,Nursing,Nursing BSN,NUR-452,Nursing BSN Capstone,400,Prof. Stern,34,39,0.872,3,3.14,0.865
+11097,2022,Spring,Nursing,Nursing BSN,NUR-304,Nursing BSN Theory,300,Prof. Mandel,24,31,0.774,4,3.26,0.945
+11098,2022,Spring,Nursing,Nursing BSN,NUR-151,Foundations of Nursing BSN,100,Dr. Katz,41,51,0.804,3,3.16,0.798
+11099,2022,Spring,Nursing,Public Health,PUB-347,Topics in Public Health,300,Dr. Weiss,48,48,1.0,3,3.36,0.97
+11100,2022,Spring,Nursing,Public Health,PUB-125,Foundations of Public Health,100,Dr. Halpern,8,14,0.571,3,2.91,0.888
+11101,2022,Spring,Nursing,Public Health,PUB-250,Public Health Methods,200,Dr. Friedman,18,22,0.818,3,3.05,0.92
+11102,2023,Fall,Nursing,Nursing BSN,NUR-151,Principles of Nursing BSN,100,Dr. Weiss,51,56,0.911,4,3.62,0.956
+11103,2023,Fall,Nursing,Nursing BSN,NUR-214,Nursing BSN Methods,200,Dr. Friedman,46,55,0.836,3,3.71,0.94
+11104,2023,Fall,Nursing,Public Health,PUB-122,Foundations of Public Health,100,Dr. Halpern,41,43,0.953,3,2.99,0.96
+11105,2023,Fall,Nursing,Public Health,PUB-312,Topics in Public Health,300,Prof. Stern,37,44,0.841,3,3.54,0.956
+11106,2023,Fall,Nursing,Public Health,PUB-232,Intermediate Public Health,200,Dr. Cohen,35,59,0.593,3,3.83,0.894
+11107,2023,Fall,Nursing,Public Health,PUB-503,Graduate Public Health,500,Dr. Klein,37,48,0.771,3,3.35,1.0
+11108,2023,Spring,Nursing,Nursing BSN,NUR-233,Nursing BSN Methods,200,Prof. Rosen,51,71,0.718,3,3.4,0.901
+11109,2023,Spring,Nursing,Nursing BSN,NUR-154,Principles of Nursing BSN,100,Dr. Bram,49,49,1.0,3,2.64,0.939
+11110,2023,Spring,Nursing,Public Health,PUB-232,Applied Public Health,200,Prof. Adler,47,54,0.87,3,3.89,0.782
+11111,2023,Spring,Nursing,Public Health,PUB-352,Topics in Public Health,300,Prof. Adler,60,63,0.952,3,3.93,0.939
+11112,2024,Fall,Nursing,Nursing BSN,NUR-113,Principles of Nursing BSN,100,Dr. Friedman,21,33,0.636,3,3.06,0.987
+11113,2024,Fall,Nursing,Nursing BSN,NUR-106,Introduction to Nursing BSN,100,Dr. Weiss,42,42,1.0,3,2.89,0.954
+11114,2024,Fall,Nursing,Nursing BSN,NUR-411,Nursing BSN Research,400,Dr. Bram,31,43,0.721,3,3.16,0.946
+11115,2024,Fall,Nursing,Public Health,PUB-418,Senior Seminar in Public Health,400,Dr. Friedman,22,39,0.564,3,3.57,0.924
+11116,2024,Fall,Nursing,Public Health,PUB-429,Public Health Capstone,400,Prof. Rosen,27,34,0.794,3,3.29,0.927
+11117,2024,Fall,Nursing,Public Health,PUB-143,Foundations of Public Health,100,Dr. Cohen,27,41,0.659,3,2.79,0.887
+11118,2024,Fall,Nursing,Public Health,PUB-247,Applied Public Health,200,Dr. Halpern,43,56,0.768,3,2.75,0.807
+11119,2024,Spring,Nursing,Nursing BSN,NUR-141,Principles of Nursing BSN,100,Dr. Cohen,40,50,0.8,4,2.69,1.0
+11120,2024,Spring,Nursing,Nursing BSN,NUR-339,Topics in Nursing BSN,300,Prof. Stern,44,50,0.88,3,3.01,0.921
+11121,2024,Spring,Nursing,Public Health,PUB-534,Public Health Practicum,500,Dr. Weiss,36,59,0.61,3,3.51,0.875
+11122,2024,Spring,Nursing,Public Health,PUB-540,Graduate Public Health,500,Dr. Katz,60,67,0.896,4,3.1,0.946
+11123,2025,Fall,Nursing,Nursing BSN,NUR-112,Foundations of Nursing BSN,100,Dr. Klein,36,44,0.818,3,3.3,0.83
+11124,2025,Fall,Nursing,Nursing BSN,NUR-132,Foundations of Nursing BSN,100,Dr. Shapiro,29,38,0.763,3,3.09,0.947
+11125,2025,Fall,Nursing,Nursing BSN,NUR-133,Foundations of Nursing BSN,100,Dr. Katz,20,27,0.741,4,3.0,0.756
+11126,2025,Fall,Nursing,Nursing BSN,NUR-253,Applied Nursing BSN,200,Dr. Weiss,46,49,0.939,3,2.86,0.852
+11127,2025,Fall,Nursing,Public Health,PUB-517,Graduate Public Health,500,Prof. Rosen,34,42,0.81,3,3.53,0.986
+11128,2025,Fall,Nursing,Public Health,PUB-122,Introduction to Public Health,100,Prof. Rosen,37,51,0.725,3,3.45,0.851
+11129,2025,Spring,Nursing,Nursing BSN,NUR-434,Senior Seminar in Nursing BSN,400,Dr. Weiss,24,47,0.511,4,2.89,0.938
+11130,2025,Spring,Nursing,Nursing BSN,NUR-116,Principles of Nursing BSN,100,Prof. Adler,43,57,0.754,3,3.23,0.99
+11131,2025,Spring,Nursing,Nursing BSN,NUR-235,Intermediate Nursing BSN,200,Prof. Mandel,39,41,0.951,3,2.85,0.923
+11132,2025,Spring,Nursing,Public Health,PUB-108,Foundations of Public Health,100,Prof. Mandel,49,49,1.0,3,2.71,0.925
+11133,2025,Spring,Nursing,Public Health,PUB-130,Introduction to Public Health,100,Prof. Rosen,30,39,0.769,3,2.99,0.86
+11134,2025,Spring,Nursing,Public Health,PUB-134,Principles of Public Health,100,Prof. Mandel,39,41,0.951,3,2.79,0.903
+11135,2015,Fall,Law,JD Program,LAW-537,Graduate JD Program,500,Dr. Shapiro,20,28,0.714,3,3.85,0.947
+11136,2015,Fall,Law,JD Program,LAW-334,Advanced JD Program,300,Prof. Rosen,33,39,0.846,3,3.26,0.895
+11137,2015,Fall,Law,Legal Studies,LGL-459,Legal Studies Research,400,Dr. Halpern,21,35,0.6,3,3.15,0.929
+11138,2015,Fall,Law,Legal Studies,LGL-202,Legal Studies Methods,200,Prof. Mandel,15,19,0.789,3,2.77,0.967
+11139,2015,Fall,Law,Legal Studies,LGL-215,Intermediate Legal Studies,200,Prof. Schwartz,22,28,0.786,3,3.4,0.963
+11140,2015,Fall,Law,Legal Studies,LGL-454,Legal Studies Capstone,400,Prof. Mandel,26,29,0.897,3,3.37,0.969
+11141,2015,Spring,Law,JD Program,LAW-303,Topics in JD Program,300,Prof. Adler,34,37,0.919,3,3.16,0.841
+11142,2015,Spring,Law,JD Program,LAW-258,Applied JD Program,200,Dr. Halpern,15,21,0.714,3,3.37,0.833
+11143,2015,Spring,Law,JD Program,LAW-444,JD Program Research,400,Dr. Klein,24,32,0.75,3,3.08,0.909
+11144,2015,Spring,Law,JD Program,LAW-120,Principles of JD Program,100,Dr. Friedman,33,41,0.805,3,2.7,0.86
+11145,2015,Spring,Law,Legal Studies,LGL-403,Legal Studies Research,400,Dr. Levin,19,39,0.487,3,3.9,0.927
+11146,2015,Spring,Law,Legal Studies,LGL-517,Graduate Legal Studies,500,Dr. Halpern,20,34,0.588,4,3.63,0.851
+11147,2015,Spring,Law,Legal Studies,LGL-154,Introduction to Legal Studies,100,Dr. Bram,32,37,0.865,3,3.08,0.943
+11148,2015,Spring,Law,Legal Studies,LGL-518,Legal Studies Thesis Studio,500,Prof. Rosen,24,34,0.706,3,4.0,0.979
+11149,2016,Fall,Law,JD Program,LAW-249,Applied JD Program,200,Dr. Levin,14,34,0.412,3,2.68,1.0
+11150,2016,Fall,Law,JD Program,LAW-133,Principles of JD Program,100,Dr. Halpern,31,34,0.912,3,2.65,0.896
+11151,2016,Fall,Law,JD Program,LAW-328,Topics in JD Program,300,Dr. Weiss,28,29,0.966,3,2.73,0.861
+11152,2016,Fall,Law,Legal Studies,LGL-220,Legal Studies Methods,200,Dr. Weiss,28,38,0.737,3,2.51,0.96
+11153,2016,Fall,Law,Legal Studies,LGL-554,Legal Studies Thesis Studio,500,Dr. Friedman,36,49,0.735,4,2.91,1.0
+11154,2016,Fall,Law,Legal Studies,LGL-143,Principles of Legal Studies,100,Prof. Stern,21,36,0.583,3,2.62,0.968
+11155,2016,Fall,Law,Legal Studies,LGL-131,Introduction to Legal Studies,100,Prof. Mandel,15,28,0.536,4,3.26,0.97
+11156,2016,Spring,Law,JD Program,LAW-321,JD Program Theory,300,Prof. Goldberg,26,33,0.788,3,3.03,0.921
+11157,2016,Spring,Law,JD Program,LAW-117,Principles of JD Program,100,Dr. Halpern,16,31,0.516,3,2.93,0.96
+11158,2016,Spring,Law,JD Program,LAW-254,JD Program Methods,200,Prof. Goldberg,51,51,1.0,3,3.06,0.862
+11159,2016,Spring,Law,Legal Studies,LGL-119,Introduction to Legal Studies,100,Dr. Halpern,27,39,0.692,3,2.94,0.912
+11160,2016,Spring,Law,Legal Studies,LGL-309,Advanced Legal Studies,300,Dr. Friedman,24,33,0.727,3,3.05,0.876
+11161,2016,Spring,Law,Legal Studies,LGL-407,Legal Studies Capstone,400,Dr. Katz,20,27,0.741,3,3.5,0.98
+11162,2016,Spring,Law,Legal Studies,LGL-146,Foundations of Legal Studies,100,Dr. Friedman,19,25,0.76,3,3.05,0.996
+11163,2017,Fall,Law,JD Program,LAW-151,Principles of JD Program,100,Prof. Rosen,13,15,0.867,4,3.26,1.0
+11164,2017,Fall,Law,JD Program,LAW-107,Principles of JD Program,100,Dr. Halpern,16,31,0.516,4,3.28,0.875
+11165,2017,Fall,Law,JD Program,LAW-116,Introduction to JD Program,100,Dr. Bram,11,13,0.846,3,2.92,0.937
+11166,2017,Fall,Law,JD Program,LAW-156,Introduction to JD Program,100,Prof. Rosen,9,12,0.75,3,3.71,0.962
+11167,2017,Fall,Law,Legal Studies,LGL-217,Intermediate Legal Studies,200,Dr. Shapiro,13,18,0.722,4,3.31,0.96
+11168,2017,Fall,Law,Legal Studies,LGL-439,Senior Seminar in Legal Studies,400,Dr. Weiss,17,22,0.773,3,3.83,0.865
+11169,2017,Fall,Law,Legal Studies,LGL-115,Principles of Legal Studies,100,Prof. Stern,13,23,0.565,3,3.24,0.866
+11170,2017,Spring,Law,JD Program,LAW-307,JD Program Theory,300,Dr. Klein,10,11,0.909,4,3.73,0.984
+11171,2017,Spring,Law,JD Program,LAW-212,Intermediate JD Program,200,Dr. Levin,8,12,0.667,3,3.16,0.915
+11172,2017,Spring,Law,Legal Studies,LGL-131,Foundations of Legal Studies,100,Dr. Friedman,7,10,0.7,3,3.11,0.967
+11173,2017,Spring,Law,Legal Studies,LGL-216,Applied Legal Studies,200,Prof. Stern,26,32,0.812,3,2.88,0.885
+11174,2017,Spring,Law,Legal Studies,LGL-103,Introduction to Legal Studies,100,Dr. Shapiro,8,10,0.8,3,2.84,0.918
+11175,2018,Fall,Law,JD Program,LAW-335,JD Program Theory,300,Dr. Halpern,13,16,0.812,3,3.49,0.928
+11176,2018,Fall,Law,JD Program,LAW-443,JD Program Capstone,400,Prof. Rosen,47,53,0.887,3,3.55,0.953
+11177,2018,Fall,Law,JD Program,LAW-225,Applied JD Program,200,Dr. Friedman,25,29,0.862,3,3.52,0.862
+11178,2018,Fall,Law,Legal Studies,LGL-233,Intermediate Legal Studies,200,Dr. Shapiro,19,19,1.0,4,3.3,0.926
+11179,2018,Fall,Law,Legal Studies,LGL-244,Legal Studies Methods,200,Dr. Levin,9,17,0.529,3,2.99,0.948
+11180,2018,Spring,Law,JD Program,LAW-305,Advanced JD Program,300,Dr. Friedman,19,20,0.95,3,3.69,0.892
+11181,2018,Spring,Law,JD Program,LAW-134,Introduction to JD Program,100,Prof. Adler,35,37,0.946,3,3.3,0.953
+11182,2018,Spring,Law,Legal Studies,LGL-117,Principles of Legal Studies,100,Prof. Stern,29,36,0.806,3,2.4,0.868
+11183,2018,Spring,Law,Legal Studies,LGL-557,Legal Studies Practicum,500,Prof. Goldberg,26,30,0.867,3,3.64,0.887
+11184,2018,Spring,Law,Legal Studies,LGL-321,Topics in Legal Studies,300,Prof. Stern,14,27,0.519,3,3.02,0.881
+11185,2018,Spring,Law,Legal Studies,LGL-306,Legal Studies Theory,300,Prof. Goldberg,21,32,0.656,3,3.59,0.755
+11186,2019,Fall,Law,JD Program,LAW-218,Applied JD Program,200,Prof. Mandel,9,10,0.9,3,3.36,0.932
+11187,2019,Fall,Law,JD Program,LAW-141,Principles of JD Program,100,Dr. Friedman,12,16,0.75,3,2.87,0.9
+11188,2019,Fall,Law,JD Program,LAW-414,JD Program Research,400,Dr. Shapiro,20,29,0.69,3,3.55,0.974
+11189,2019,Fall,Law,Legal Studies,LGL-235,Applied Legal Studies,200,Dr. Klein,5,10,0.5,3,3.01,0.894
+11190,2019,Fall,Law,Legal Studies,LGL-127,Introduction to Legal Studies,100,Dr. Weiss,17,22,0.773,3,3.03,0.891
+11191,2019,Fall,Law,Legal Studies,LGL-242,Intermediate Legal Studies,200,Prof. Adler,16,16,1.0,3,3.28,0.915
+11192,2019,Fall,Law,Legal Studies,LGL-539,Legal Studies Practicum,500,Dr. Levin,17,18,0.944,4,3.32,0.929
+11193,2019,Spring,Law,JD Program,LAW-140,Foundations of JD Program,100,Prof. Mandel,27,35,0.771,3,3.38,1.0
+11194,2019,Spring,Law,JD Program,LAW-322,Advanced JD Program,300,Dr. Bram,23,29,0.793,3,3.7,0.951
+11195,2019,Spring,Law,Legal Studies,LGL-151,Foundations of Legal Studies,100,Dr. Friedman,7,10,0.7,3,3.37,0.925
+11196,2019,Spring,Law,Legal Studies,LGL-154,Principles of Legal Studies,100,Dr. Weiss,26,28,0.929,3,3.27,0.902
+11197,2020,Fall,Law,JD Program,LAW-137,Principles of JD Program,100,Dr. Shapiro,41,41,1.0,4,2.67,0.912
+11198,2020,Fall,Law,JD Program,LAW-222,Applied JD Program,200,Dr. Cohen,9,10,0.9,3,3.03,0.922
+11199,2020,Fall,Law,Legal Studies,LGL-525,Legal Studies Practicum,500,Prof. Schwartz,37,39,0.949,3,3.69,0.94
+11200,2020,Fall,Law,Legal Studies,LGL-323,Topics in Legal Studies,300,Dr. Friedman,39,46,0.848,3,3.01,0.872
+11201,2020,Spring,Law,JD Program,LAW-118,Foundations of JD Program,100,Dr. Katz,23,32,0.719,3,3.08,0.907
+11202,2020,Spring,Law,JD Program,LAW-148,Principles of JD Program,100,Prof. Adler,24,43,0.558,3,3.04,0.895
+11203,2020,Spring,Law,JD Program,LAW-232,Intermediate JD Program,200,Dr. Friedman,21,38,0.553,3,3.36,0.861
+11204,2020,Spring,Law,Legal Studies,LGL-506,Legal Studies Thesis Studio,500,Prof. Schwartz,24,31,0.774,3,2.86,0.936
+11205,2020,Spring,Law,Legal Studies,LGL-258,Legal Studies Methods,200,Dr. Levin,11,21,0.524,3,2.92,1.0
+11206,2020,Spring,Law,Legal Studies,LGL-122,Foundations of Legal Studies,100,Prof. Adler,30,39,0.769,4,2.9,0.952
+11207,2020,Spring,Law,Legal Studies,LGL-459,Senior Seminar in Legal Studies,400,Dr. Weiss,29,44,0.659,4,3.64,0.988
+11208,2021,Fall,Law,JD Program,LAW-255,Intermediate JD Program,200,Prof. Adler,27,31,0.871,3,3.61,1.0
+11209,2021,Fall,Law,JD Program,LAW-256,Applied JD Program,200,Dr. Katz,23,24,0.958,3,3.33,0.891
+11210,2021,Fall,Law,Legal Studies,LGL-214,Intermediate Legal Studies,200,Prof. Stern,26,33,0.788,3,2.79,0.944
+11211,2021,Fall,Law,Legal Studies,LGL-238,Intermediate Legal Studies,200,Prof. Schwartz,17,17,1.0,4,2.46,0.921
+11212,2021,Fall,Law,Legal Studies,LGL-415,Legal Studies Research,400,Dr. Bram,37,46,0.804,3,3.08,0.834
+11213,2021,Spring,Law,JD Program,LAW-305,Advanced JD Program,300,Dr. Bram,24,34,0.706,3,3.11,0.832
+11214,2021,Spring,Law,JD Program,LAW-237,Intermediate JD Program,200,Dr. Weiss,19,27,0.704,3,3.62,0.831
+11215,2021,Spring,Law,JD Program,LAW-218,JD Program Methods,200,Prof. Stern,18,25,0.72,3,3.34,0.859
+11216,2021,Spring,Law,JD Program,LAW-303,Topics in JD Program,300,Dr. Weiss,15,27,0.556,3,2.74,0.927
+11217,2021,Spring,Law,Legal Studies,LGL-132,Foundations of Legal Studies,100,Dr. Klein,7,17,0.412,3,3.62,0.98
+11218,2021,Spring,Law,Legal Studies,LGL-418,Legal Studies Research,400,Prof. Goldberg,12,15,0.8,3,3.2,0.866
+11219,2021,Spring,Law,Legal Studies,LGL-117,Introduction to Legal Studies,100,Dr. Weiss,5,10,0.5,3,3.75,0.902
+11220,2021,Spring,Law,Legal Studies,LGL-213,Legal Studies Methods,200,Dr. Halpern,10,10,1.0,3,3.56,0.92
+11221,2022,Fall,Law,JD Program,LAW-554,JD Program Practicum,500,Prof. Mandel,39,46,0.848,4,3.6,0.89
+11222,2022,Fall,Law,JD Program,LAW-130,Introduction to JD Program,100,Prof. Mandel,44,53,0.83,3,3.18,0.98
+11223,2022,Fall,Law,Legal Studies,LGL-516,Legal Studies Practicum,500,Prof. Schwartz,38,47,0.809,3,3.25,0.919
+11224,2022,Fall,Law,Legal Studies,LGL-341,Legal Studies Theory,300,Dr. Katz,40,49,0.816,3,2.63,0.909
+11225,2022,Fall,Law,Legal Studies,LGL-432,Legal Studies Capstone,400,Prof. Mandel,46,46,1.0,3,3.63,0.855
+11226,2022,Spring,Law,JD Program,LAW-410,Senior Seminar in JD Program,400,Dr. Weiss,42,42,1.0,3,3.32,1.0
+11227,2022,Spring,Law,JD Program,LAW-255,JD Program Methods,200,Prof. Mandel,19,34,0.559,3,3.21,0.927
+11228,2022,Spring,Law,JD Program,LAW-402,JD Program Research,400,Prof. Adler,37,42,0.881,3,2.91,0.933
+11229,2022,Spring,Law,Legal Studies,LGL-424,Legal Studies Capstone,400,Prof. Schwartz,34,34,1.0,3,3.68,0.901
+11230,2022,Spring,Law,Legal Studies,LGL-103,Foundations of Legal Studies,100,Prof. Adler,40,43,0.93,4,2.93,0.905
+11231,2022,Spring,Law,Legal Studies,LGL-402,Legal Studies Capstone,400,Dr. Halpern,29,37,0.784,3,2.87,0.879
+11232,2022,Spring,Law,Legal Studies,LGL-123,Foundations of Legal Studies,100,Dr. Weiss,33,40,0.825,4,2.65,0.937
+11233,2023,Fall,Law,JD Program,LAW-154,Principles of JD Program,100,Prof. Goldberg,23,25,0.92,3,3.2,0.983
+11234,2023,Fall,Law,JD Program,LAW-452,Senior Seminar in JD Program,400,Prof. Goldberg,24,24,1.0,3,3.83,0.969
+11235,2023,Fall,Law,JD Program,LAW-245,Intermediate JD Program,200,Prof. Stern,29,36,0.806,3,2.67,0.88
+11236,2023,Fall,Law,JD Program,LAW-130,Foundations of JD Program,100,Dr. Cohen,27,33,0.818,3,3.09,0.806
+11237,2023,Fall,Law,Legal Studies,LGL-208,Applied Legal Studies,200,Prof. Mandel,33,48,0.688,3,3.39,1.0
+11238,2023,Fall,Law,Legal Studies,LGL-221,Legal Studies Methods,200,Prof. Mandel,30,43,0.698,3,2.75,0.95
+11239,2023,Fall,Law,Legal Studies,LGL-502,Legal Studies Thesis Studio,500,Dr. Friedman,33,43,0.767,3,2.83,0.911
+11240,2023,Fall,Law,Legal Studies,LGL-234,Intermediate Legal Studies,200,Dr. Levin,24,46,0.522,3,3.2,0.919
+11241,2023,Spring,Law,JD Program,LAW-206,Intermediate JD Program,200,Prof. Goldberg,12,21,0.571,3,3.42,0.907
+11242,2023,Spring,Law,JD Program,LAW-232,Intermediate JD Program,200,Prof. Adler,40,41,0.976,3,3.24,0.908
+11243,2023,Spring,Law,JD Program,LAW-316,Topics in JD Program,300,Dr. Weiss,32,39,0.821,3,3.25,0.924
+11244,2023,Spring,Law,JD Program,LAW-242,JD Program Methods,200,Prof. Adler,29,31,0.935,3,2.79,1.0
+11245,2023,Spring,Law,Legal Studies,LGL-249,Legal Studies Methods,200,Dr. Halpern,19,33,0.576,3,3.2,0.814
+11246,2023,Spring,Law,Legal Studies,LGL-151,Principles of Legal Studies,100,Prof. Rosen,24,30,0.8,3,3.48,0.938
+11247,2024,Fall,Law,JD Program,LAW-345,JD Program Theory,300,Prof. Goldberg,33,47,0.702,3,3.73,0.877
+11248,2024,Fall,Law,JD Program,LAW-432,JD Program Research,400,Dr. Halpern,21,30,0.7,3,3.57,0.873
+11249,2024,Fall,Law,JD Program,LAW-341,Topics in JD Program,300,Prof. Rosen,38,38,1.0,3,3.53,0.859
+11250,2024,Fall,Law,Legal Studies,LGL-138,Introduction to Legal Studies,100,Dr. Levin,25,35,0.714,4,3.42,0.875
+11251,2024,Fall,Law,Legal Studies,LGL-341,Legal Studies Theory,300,Prof. Schwartz,20,34,0.588,3,3.4,0.895
+11252,2024,Fall,Law,Legal Studies,LGL-137,Foundations of Legal Studies,100,Dr. Halpern,29,29,1.0,3,3.52,0.968
+11253,2024,Fall,Law,Legal Studies,LGL-312,Legal Studies Theory,300,Dr. Shapiro,22,28,0.786,3,3.19,0.982
+11254,2024,Spring,Law,JD Program,LAW-212,Intermediate JD Program,200,Dr. Weiss,18,33,0.545,3,3.54,0.899
+11255,2024,Spring,Law,JD Program,LAW-352,Topics in JD Program,300,Dr. Halpern,19,24,0.792,3,3.63,0.809
+11256,2024,Spring,Law,JD Program,LAW-422,JD Program Research,400,Dr. Klein,27,38,0.711,3,2.96,0.926
+11257,2024,Spring,Law,JD Program,LAW-125,Foundations of JD Program,100,Prof. Schwartz,28,35,0.8,3,3.3,0.928
+11258,2024,Spring,Law,Legal Studies,LGL-242,Intermediate Legal Studies,200,Prof. Stern,19,33,0.576,3,3.63,0.875
+11259,2024,Spring,Law,Legal Studies,LGL-413,Legal Studies Research,400,Dr. Halpern,43,43,1.0,3,3.16,1.0
+11260,2024,Spring,Law,Legal Studies,LGL-558,Legal Studies Thesis Studio,500,Dr. Friedman,37,46,0.804,3,3.75,0.975
+11261,2024,Spring,Law,Legal Studies,LGL-218,Legal Studies Methods,200,Dr. Bram,37,41,0.902,3,3.23,0.952
+11262,2025,Fall,Law,JD Program,LAW-324,Topics in JD Program,300,Prof. Mandel,26,40,0.65,4,3.49,0.921
+11263,2025,Fall,Law,JD Program,LAW-355,Topics in JD Program,300,Dr. Weiss,25,33,0.758,3,2.94,0.974
+11264,2025,Fall,Law,Legal Studies,LGL-305,Topics in Legal Studies,300,Dr. Bram,23,27,0.852,3,3.27,0.933
+11265,2025,Fall,Law,Legal Studies,LGL-137,Foundations of Legal Studies,100,Prof. Rosen,22,38,0.579,3,3.19,0.81
+11266,2025,Fall,Law,Legal Studies,LGL-448,Senior Seminar in Legal Studies,400,Dr. Katz,47,47,1.0,3,3.69,0.924
+11267,2025,Fall,Law,Legal Studies,LGL-539,Graduate Legal Studies,500,Dr. Klein,36,39,0.923,4,2.73,0.943
+11268,2025,Spring,Law,JD Program,LAW-115,Principles of JD Program,100,Dr. Halpern,18,22,0.818,4,3.09,0.908
+11269,2025,Spring,Law,JD Program,LAW-218,Applied JD Program,200,Dr. Bram,36,47,0.766,3,3.24,0.911
+11270,2025,Spring,Law,JD Program,LAW-115,Foundations of JD Program,100,Dr. Katz,22,26,0.846,4,3.4,0.943
+11271,2025,Spring,Law,Legal Studies,LGL-537,Graduate Legal Studies,500,Prof. Goldberg,33,38,0.868,4,3.34,0.977
+11272,2025,Spring,Law,Legal Studies,LGL-159,Principles of Legal Studies,100,Prof. Adler,23,30,0.767,4,3.09,0.957
