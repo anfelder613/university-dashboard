@@ -1,45 +1,102 @@
-# Yeshiva University — Institutional Data Dashboard
+# YU Institutional Data Dashboard
 
-An interactive Streamlit dashboard, branded for **Yeshiva University** (navy/gold theme),
-over mock university data covering: **enrollment**, **academic performance**, **course-level
-offerings**, **admissions**, and **finance/operations**.
+> **What does a full-breadth university analytics dashboard look like, end to end?**
 
-## Features
-- **Sidebar filters** — year-range slider, department multiselect, residency, gender, and term filters.
+A branded Streamlit dashboard covering enrollment, academic performance, course-level
+offerings, admissions, and finance/operations for a university, 2015–2025.
+
+**Live:** Runs locally (Streamlit — see [Running it](#running-it))
+**Status:** Prototype complete
+**Stack:** Streamlit · Python · Pandas
+
+---
+
+## Scope — read this first
+
+**All data in this project is synthetic.** It is generated deterministically by
+`generate_data.py` and is for demonstration purposes only. No figure here describes
+Yeshiva University or any real institution.
+
+This is the warm-up project of the capstone series — built to exercise dashboard breadth,
+layout, filtering, and branding before the later projects narrowed to a single sharp
+question each on **real IPEDS data**. The sibling projects listed below take the opposite
+approach: one measure, verified against public federal data, with a hard no-synthetic-data
+rule.
+
+Read this one as a UI/UX exercise, not as an analysis.
+
+## What it shows
+
+Six tabs over a shared filter state:
+
+| Tab | Contents |
+|---|---|
+| **Enrollment** | Headcount trends by year, department, residency, and gender |
+| **Academics** | Academic performance metrics and distributions |
+| **Courses** | Sections by term and level, fill rates, enrollment-vs-grade scatter, searchable catalog |
+| **Admissions** | Applications → admits → enrolled funnel, snapshot by year |
+| **Finance & Ops** | Tuition revenue, faculty counts, student-faculty ratio |
+| **Data** | Drill-down by department (major, enrollment status, top sections) and CSV export |
+
+Plus:
+
+- **Sidebar filters** — year-range slider, department multiselect, residency, gender, term.
 - **KPI cards** — headline metrics with year-over-year deltas.
-- **Six tabs** — Enrollment, Academics, **Courses**, Admissions, Finance & Ops, and a Data/Drill-down view.
-- **Course-level view** — sections by term & level, fill rates, enrollment-vs-grade scatter, and a searchable catalog.
-- **Drill-down** — pick a department to break it down by major, enrollment status, and top course sections.
-- **Date/range sliders** — scrub the year range and snapshot the admissions funnel by year.
 - **Export** — download filtered metrics, students, and course catalog as CSV.
 
-## Branding
-- Theme colors live in `.streamlit/config.toml` (YU navy `#0033A0`, gold accent).
-- A branded header banner and YU color palette are applied to all charts in `app.py`.
+## The data
 
-## Setup
+Three synthetic tables, regenerated deterministically from a fixed seed:
+
+| File | Grain | Contents |
+|---|---|---|
+| `data/metrics.csv` | One row per (year, department) | Enrollment, admissions funnel, faculty, revenue |
+| `data/students.csv` | Student-level sample | ~3% of total enrollment per department-year, for drill-down |
+| `data/courses.csv` | Course-section level | Year, term, course, capacity, fill rate, grades |
+
+The generator models a gentle upward enrollment trend with a COVID-era dip, and derives
+faculty counts, student-faculty ratio, and tuition revenue from enrollment so the tables stay
+internally consistent.
+
+**Year range:** 2015–2025.
+
+## Branding
+
+Themed for Yeshiva University — navy `#0033A0` with a gold accent. Theme colors live in
+`.streamlit/config.toml`; the branded header banner and the chart color palette are applied
+in `app.py`.
+
+## Running it
+
 ```bash
-cd project_1
-python -m venv .venv && source .venv/bin/activate   # optional
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py          # http://localhost:8501
 ```
 
-The first run auto-generates the mock data into `./data` (via `generate_data.py`).
-To regenerate manually:
+The first run auto-generates the mock data into `./data`. To regenerate manually:
+
 ```bash
 python generate_data.py
 ```
 
-## Files
-| File | Purpose |
-|------|---------|
-| `app.py` | The Streamlit dashboard |
-| `generate_data.py` | Deterministic mock-data generator |
-| `data/metrics.csv` | One row per (year, department) — all aggregate metrics |
-| `data/students.csv` | Student-level sample for drill-down |
-| `data/courses.csv` | Course-level sections (year, term, course, fill rate, grades) |
-| `.streamlit/config.toml` | Yeshiva University brand theme |
-| `requirements.txt` | Python dependencies |
+> **Note:** this dashboard cannot be hosted on GitHub Pages. Pages serves static files only,
+> and this is a Streamlit app. Hosting it publicly would require a Python host such as
+> Streamlit Community Cloud.
 
-> Data is synthetic and for demonstration only.
+## Repo layout
+
+```
+app.py                    # the dashboard
+generate_data.py          # deterministic synthetic-data generator
+/data                     # generated CSVs
+.streamlit/config.toml    # YU brand theme
+```
+
+## Related projects
+
+Sibling capstone dashboards. Unlike this one, each uses **real IPEDS data** and answers a
+single narrow question:
+
+- [YU PhD Completions Dashboard](https://github.com/anfelder613/yu-enrollment-dashboard) — Completions component
+- [YU Institutional Resources Dashboard](https://github.com/anfelder613/yu-institutional-resources-dashboard) — Finance component
+- [YU Peer Tuition Dashboard](https://github.com/anfelder613/yu-tuition-dashboard) — Cost component
