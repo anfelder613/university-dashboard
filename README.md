@@ -100,3 +100,5 @@ single narrow question:
 - [YU PhD Completions Dashboard](https://github.com/anfelder613/yu-enrollment-dashboard) — Completions component
 - [YU Institutional Resources Dashboard](https://github.com/anfelder613/yu-institutional-resources-dashboard) — Finance component
 - [YU Peer Tuition Dashboard](https://github.com/anfelder613/yu-tuition-dashboard) — Cost component
+
+Part of the [capstone portfolio](https://anfelder613.github.io/) — an index of all four dashboards.
